@@ -1,0 +1,295 @@
+sample_,var_,count,varcode,varname
+1,66,16.0,Art,Artemisia
+1,165,4.0,Crl-T,Cerealia-type
+1,185,42.0,Cheae,Chenopodiaceae
+1,203,1.0,Cm.Sf.C,Compositae subf. Cichorioideae
+1,283,3.0,Eriae.ud,Ericaceae undiff.
+1,349,63.0,Graae,Gramineae
+1,394,4.0,Jun,Juniperus
+1,530,21.0,Ole,Olea
+1,543,1.0,Ost/Car,Ostrya/Carpinus
+1,567,169.0,Pin,Pinus
+1,583,5.0,Pla.m/m,Plantago major/P. media
+1,708,1.0,Rup,Ruppia
+1,960,1.0,Ptd,Pteridium
+1,1478,8.0,Pla.c-T,Plantago coronopus-type
+1,1487,12.0,Que.i,Quercus ilex
+1,1488,1.0,Que.s,Quercus suber
+2,32,1.0,Aln,Alnus
+2,66,25.0,Art,Artemisia
+2,165,6.0,Crl-T,Cerealia-type
+2,185,21.0,Cheae,Chenopodiaceae
+2,233,1.0,Cypae,Cyperaceae
+2,283,3.0,Eriae.ud,Ericaceae undiff.
+2,349,134.0,Graae,Gramineae
+2,394,5.0,Jun,Juniperus
+2,530,4.0,Ole,Olea
+2,543,5.0,Ost/Car,Ostrya/Carpinus
+2,567,179.0,Pin,Pinus
+2,583,14.0,Pla.m/m,Plantago major/P. media
+2,708,2.0,Rup,Ruppia
+2,960,3.0,Ptd,Pteridium
+2,1366,1.0,Ant,Anthemis
+2,1478,19.0,Pla.c-T,Plantago coronopus-type
+2,1487,7.0,Que.i,Quercus ilex
+2,1488,5.0,Que.s,Quercus suber
+3,32,2.0,Aln,Alnus
+3,66,24.0,Art,Artemisia
+3,165,1.0,Crl-T,Cerealia-type
+3,185,41.0,Cheae,Chenopodiaceae
+3,203,1.0,Cm.Sf.C,Compositae subf. Cichorioideae
+3,233,1.0,Cypae,Cyperaceae
+3,349,130.0,Graae,Gramineae
+3,394,2.0,Jun,Juniperus
+3,530,3.0,Ole,Olea
+3,567,167.0,Pin,Pinus
+3,583,10.0,Pla.m/m,Plantago major/P. media
+3,708,1.0,Rup,Ruppia
+3,854,1.0,Umb,Umbelliferae
+3,960,1.0,Ptd,Pteridium
+3,1366,2.0,Ant,Anthemis
+3,1478,13.0,Pla.c-T,Plantago coronopus-type
+3,1487,11.0,Que.i,Quercus ilex
+3,1488,11.0,Que.s,Quercus suber
+4,66,32.0,Art,Artemisia
+4,165,3.0,Crl-T,Cerealia-type
+4,185,21.0,Cheae,Chenopodiaceae
+4,203,3.0,Cm.Sf.C,Compositae subf. Cichorioideae
+4,283,5.0,Eriae.ud,Ericaceae undiff.
+4,349,78.0,Graae,Gramineae
+4,394,3.0,Jun,Juniperus
+4,530,4.0,Ole,Olea
+4,543,4.0,Ost/Car,Ostrya/Carpinus
+4,567,195.0,Pin,Pinus
+4,583,3.0,Pla.m/m,Plantago major/P. media
+4,708,2.0,Rup,Ruppia
+4,930,4.0,Fil,Filicopsida
+4,960,1.0,Ptd,Pteridium
+4,1478,3.0,Pla.c-T,Plantago coronopus-type
+4,1487,8.0,Que.i,Quercus ilex
+4,1488,4.0,Que.s,Quercus suber
+5,32,4.0,Aln,Alnus
+5,66,25.0,Art,Artemisia
+5,185,24.0,Cheae,Chenopodiaceae
+5,203,1.0,Cm.Sf.C,Compositae subf. Cichorioideae
+5,233,1.0,Cypae,Cyperaceae
+5,273,4.0,Eph.d,Ephedra distachya
+5,275,1.0,Eph.f,Ephedra fragilis
+5,283,2.0,Eriae.ud,Ericaceae undiff.
+5,349,58.0,Graae,Gramineae
+5,394,5.0,Jun,Juniperus
+5,530,3.0,Ole,Olea
+5,543,2.0,Ost/Car,Ostrya/Carpinus
+5,567,195.0,Pin,Pinus
+5,624,1.0,Pot,Potamogeton
+5,708,25.0,Rup,Ruppia
+5,1366,2.0,Ant,Anthemis
+5,1478,3.0,Pla.c-T,Plantago coronopus-type
+5,1487,5.0,Que.i,Quercus ilex
+6,66,14.0,Art,Artemisia
+6,185,9.0,Cheae,Chenopodiaceae
+6,233,3.0,Cypae,Cyperaceae
+6,273,1.0,Eph.d,Ephedra distachya
+6,283,1.0,Eriae.ud,Ericaceae undiff.
+6,349,50.0,Graae,Gramineae
+6,394,1.0,Jun,Juniperus
+6,543,2.0,Ost/Car,Ostrya/Carpinus
+6,567,182.0,Pin,Pinus
+6,583,3.0,Pla.m/m,Plantago major/P. media
+6,960,2.0,Ptd,Pteridium
+6,1478,4.0,Pla.c-T,Plantago coronopus-type
+6,1487,10.0,Que.i,Quercus ilex
+6,1488,4.0,Que.s,Quercus suber
+7,66,8.0,Art,Artemisia
+7,165,1.0,Crl-T,Cerealia-type
+7,185,2.0,Cheae,Chenopodiaceae
+7,228,4.0,Cru,Cruciferae
+7,233,1.0,Cypae,Cyperaceae
+7,275,1.0,Eph.f,Ephedra fragilis
+7,349,22.0,Graae,Gramineae
+7,394,4.0,Jun,Juniperus
+7,530,2.0,Ole,Olea
+7,543,6.0,Ost/Car,Ostrya/Carpinus
+7,567,196.0,Pin,Pinus
+7,708,3.0,Rup,Ruppia
+7,1487,15.0,Que.i,Quercus ilex
+8,66,6.0,Art,Artemisia
+8,165,2.0,Crl-T,Cerealia-type
+8,185,4.0,Cheae,Chenopodiaceae
+8,273,1.0,Eph.d,Ephedra distachya
+8,275,1.0,Eph.f,Ephedra fragilis
+8,283,1.0,Eriae.ud,Ericaceae undiff.
+8,349,26.0,Graae,Gramineae
+8,394,1.0,Jun,Juniperus
+8,543,10.0,Ost/Car,Ostrya/Carpinus
+8,567,198.0,Pin,Pinus
+8,1487,16.0,Que.i,Quercus ilex
+8,1488,10.0,Que.s,Quercus suber
+9,32,1.0,Aln,Alnus
+9,66,3.0,Art,Artemisia
+9,142,1.0,Cphae.ud,Caryophyllaceae undiff.
+9,165,1.0,Crl-T,Cerealia-type
+9,185,6.0,Cheae,Chenopodiaceae
+9,233,4.0,Cypae,Cyperaceae
+9,275,1.0,Eph.f,Ephedra fragilis
+9,283,2.0,Eriae.ud,Ericaceae undiff.
+9,349,16.0,Graae,Gramineae
+9,394,3.0,Jun,Juniperus
+9,543,5.0,Ost/Car,Ostrya/Carpinus
+9,567,203.0,Pin,Pinus
+9,960,1.0,Ptd,Pteridium
+9,1366,2.0,Ant,Anthemis
+9,1478,3.0,Pla.c-T,Plantago coronopus-type
+9,1487,7.0,Que.i,Quercus ilex
+9,1488,4.0,Que.s,Quercus suber
+10,66,10.0,Art,Artemisia
+10,185,4.0,Cheae,Chenopodiaceae
+10,233,3.0,Cypae,Cyperaceae
+10,275,1.0,Eph.f,Ephedra fragilis
+10,349,18.0,Graae,Gramineae
+10,394,4.0,Jun,Juniperus
+10,530,2.0,Ole,Olea
+10,543,7.0,Ost/Car,Ostrya/Carpinus
+10,567,185.0,Pin,Pinus
+10,583,1.0,Pla.m/m,Plantago major/P. media
+10,708,3.0,Rup,Ruppia
+10,960,1.0,Ptd,Pteridium
+10,1366,2.0,Ant,Anthemis
+10,1478,1.0,Pla.c-T,Plantago coronopus-type
+10,1487,18.0,Que.i,Quercus ilex
+11,32,1.0,Aln,Alnus
+11,66,6.0,Art,Artemisia
+11,185,13.0,Cheae,Chenopodiaceae
+11,349,12.0,Graae,Gramineae
+11,394,3.0,Jun,Juniperus
+11,543,2.0,Ost/Car,Ostrya/Carpinus
+11,567,213.0,Pin,Pinus
+11,960,2.0,Ptd,Pteridium
+11,1366,3.0,Ant,Anthemis
+11,1487,6.0,Que.i,Quercus ilex
+12,66,14.0,Art,Artemisia
+12,185,2.0,Cheae,Chenopodiaceae
+12,273,1.0,Eph.d,Ephedra distachya
+12,349,15.0,Graae,Gramineae
+12,394,24.0,Jun,Juniperus
+12,530,2.0,Ole,Olea
+12,543,3.0,Ost/Car,Ostrya/Carpinus
+12,567,140.0,Pin,Pinus
+12,1478,1.0,Pla.c-T,Plantago coronopus-type
+12,1487,24.0,Que.i,Quercus ilex
+12,1488,3.0,Que.s,Quercus suber
+13,66,43.0,Art,Artemisia
+13,185,8.0,Cheae,Chenopodiaceae
+13,233,2.0,Cypae,Cyperaceae
+13,273,2.0,Eph.d,Ephedra distachya
+13,349,25.0,Graae,Gramineae
+13,394,39.0,Jun,Juniperus
+13,543,10.0,Ost/Car,Ostrya/Carpinus
+13,567,152.0,Pin,Pinus
+13,624,1.0,Pot,Potamogeton
+13,960,4.0,Ptd,Pteridium
+13,1366,1.0,Ant,Anthemis
+13,1487,19.0,Que.i,Quercus ilex
+13,1488,4.0,Que.s,Quercus suber
+14,66,22.0,Art,Artemisia
+14,185,6.0,Cheae,Chenopodiaceae
+14,233,1.0,Cypae,Cyperaceae
+14,349,36.0,Graae,Gramineae
+14,394,26.0,Jun,Juniperus
+14,543,6.0,Ost/Car,Ostrya/Carpinus
+14,567,178.0,Pin,Pinus
+14,960,1.0,Ptd,Pteridium
+14,1487,13.0,Que.i,Quercus ilex
+14,1488,3.0,Que.s,Quercus suber
+15,66,20.0,Art,Artemisia
+15,95,5.0,Bet,Betula
+15,103,1.0,Bid-T,Bidens-type
+15,185,7.0,Cheae,Chenopodiaceae
+15,203,1.0,Cm.Sf.C,Compositae subf. Cichorioideae
+15,233,1.0,Cypae,Cyperaceae
+15,273,1.0,Eph.d,Ephedra distachya
+15,275,2.0,Eph.f,Ephedra fragilis
+15,349,51.0,Graae,Gramineae
+15,394,151.0,Jun,Juniperus
+15,567,69.0,Pin,Pinus
+15,1487,3.0,Que.i,Quercus ilex
+15,1488,3.0,Que.s,Quercus suber
+16,66,24.0,Art,Artemisia
+16,95,1.0,Bet,Betula
+16,165,1.0,Crl-T,Cerealia-type
+16,185,4.0,Cheae,Chenopodiaceae
+16,203,1.0,Cm.Sf.C,Compositae subf. Cichorioideae
+16,233,1.0,Cypae,Cyperaceae
+16,273,1.0,Eph.d,Ephedra distachya
+16,275,3.0,Eph.f,Ephedra fragilis
+16,349,57.0,Graae,Gramineae
+16,394,66.0,Jun,Juniperus
+16,543,4.0,Ost/Car,Ostrya/Carpinus
+16,567,135.0,Pin,Pinus
+16,854,1.0,Umb,Umbelliferae
+16,960,2.0,Ptd,Pteridium
+16,1487,7.0,Que.i,Quercus ilex
+16,1488,2.0,Que.s,Quercus suber
+17,66,36.0,Art,Artemisia
+17,185,6.0,Cheae,Chenopodiaceae
+17,275,1.0,Eph.f,Ephedra fragilis
+17,349,16.0,Graae,Gramineae
+17,394,142.0,Jun,Juniperus
+17,543,1.0,Ost/Car,Ostrya/Carpinus
+17,567,78.0,Pin,Pinus
+17,930,1.0,Fil,Filicopsida
+17,1487,2.0,Que.i,Quercus ilex
+18,66,33.0,Art,Artemisia
+18,185,18.0,Cheae,Chenopodiaceae
+18,275,7.0,Eph.f,Ephedra fragilis
+18,349,19.0,Graae,Gramineae
+18,394,113.0,Jun,Juniperus
+18,567,98.0,Pin,Pinus
+18,708,1.0,Rup,Ruppia
+18,1366,1.0,Ant,Anthemis
+18,1487,1.0,Que.i,Quercus ilex
+19,66,4.0,Art,Artemisia
+19,165,1.0,Crl-T,Cerealia-type
+19,275,2.0,Eph.f,Ephedra fragilis
+19,349,24.0,Graae,Gramineae
+19,394,203.0,Jun,Juniperus
+19,567,36.0,Pin,Pinus
+20,66,21.0,Art,Artemisia
+20,95,1.0,Bet,Betula
+20,165,3.0,Crl-T,Cerealia-type
+20,185,9.0,Cheae,Chenopodiaceae
+20,273,21.0,Eph.d,Ephedra distachya
+20,349,61.0,Graae,Gramineae
+20,394,138.0,Jun,Juniperus
+20,567,54.0,Pin,Pinus
+20,583,1.0,Pla.m/m,Plantago major/P. media
+20,708,3.0,Rup,Ruppia
+20,854,1.0,Umb,Umbelliferae
+20,1366,1.0,Ant,Anthemis
+20,1478,2.0,Pla.c-T,Plantago coronopus-type
+20,1487,2.0,Que.i,Quercus ilex
+21,66,49.0,Art,Artemisia
+21,165,3.0,Crl-T,Cerealia-type
+21,185,7.0,Cheae,Chenopodiaceae
+21,233,1.0,Cypae,Cyperaceae
+21,273,21.0,Eph.d,Ephedra distachya
+21,349,70.0,Graae,Gramineae
+21,394,154.0,Jun,Juniperus
+21,567,51.0,Pin,Pinus
+21,854,1.0,Umb,Umbelliferae
+21,1366,3.0,Ant,Anthemis
+21,1478,2.0,Pla.c-T,Plantago coronopus-type
+21,1487,2.0,Que.i,Quercus ilex
+22,66,46.0,Art,Artemisia
+22,185,14.0,Cheae,Chenopodiaceae
+22,203,1.0,Cm.Sf.C,Compositae subf. Cichorioideae
+22,273,13.0,Eph.d,Ephedra distachya
+22,349,77.0,Graae,Gramineae
+22,394,56.0,Jun,Juniperus
+22,530,4.0,Ole,Olea
+22,543,1.0,Ost/Car,Ostrya/Carpinus
+22,567,67.0,Pin,Pinus
+22,708,4.0,Rup,Ruppia
+22,1366,2.0,Ant,Anthemis
+22,1487,4.0,Que.i,Quercus ilex
+22,1488,1.0,Que.s,Quercus suber

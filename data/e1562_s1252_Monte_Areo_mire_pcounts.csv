@@ -1,0 +1,1154 @@
+sample_,var_,count,varcode,varname
+1,32,65.0,Aln,Alnus
+1,80,2.0,Ast-T,Aster-type
+1,95,52.0,Bet,Betula
+1,124,2.0,Cal.v,Calluna vulgaris
+1,233,3.0,Cypae,Cyperaceae
+1,295,8.0,Euc,Eucalyptus
+1,349,56.0,Graae,Gramineae
+1,352,5.0,Hed,Hedera
+1,854,2.0,Umb,Umbelliferae
+1,863,2.0,Urt.d-T,Urtica dioica-type
+1,945,57.0,Lyc,Lycopodium
+1,953,2.0,Osm.r,Osmunda regalis
+1,958,11.0,Ppd.v-T,Polypodium vulgare-type
+1,961,61.0,Ptd.a,Pteridium aquilinum
+1,989,4.0,Til.s,Tilletia sphagni
+1,1048,1.0,Che/Amae,Chenopodiaceae/Amaranthaceae
+1,1337,2.0,Pis.p,Pinus pinaster
+1,1338,69.0,Pin.s-T,Pinus sylvestris-type
+1,2283,12.0,Ant.f,Anthostomella fuegiana
+1,2889,139.0,Cht,Chaetomium
+1,3028,103.0,Eri-T,Erica-type
+1,3910,2.0,Flc.t.ud,Filicales triletes undiff.
+1,3911,7.0,Flc.m.ud,Filicales monoletes undiff.
+1,4052,169.0,Sod-T,Sordaria-type
+1,4059,1.0,Cer.sp,Cercophora sp.
+1,4271,15.0,T225,Type 225
+1,4274,13.0,Spi.cf.s,Spirogyra cf. scrobiculata
+1,4366,62.0,Que.py-T,Quercus pyrenaica-type
+2,32,49.0,Aln,Alnus
+2,80,4.0,Ast-T,Aster-type
+2,95,23.0,Bet,Betula
+2,124,4.0,Cal.v,Calluna vulgaris
+2,217,5.0,Cor,Corylus
+2,233,6.0,Cypae,Cyperaceae
+2,255,4.0,Dro.r-T,Drosera rotundifolia-type
+2,295,14.0,Euc,Eucalyptus
+2,349,136.0,Graae,Gramineae
+2,352,4.0,Hed,Hedera
+2,401,2.0,Lab,Labiatae
+2,411,4.0,Leg,Leguminosae
+2,580,15.0,Pla.l-T,Plantago lanceolata-type
+2,763,4.0,Scoae,Scrophulariaceae
+2,821,2.0,Til,Tilia
+2,854,12.0,Umb,Umbelliferae
+2,863,43.0,Urt.d-T,Urtica dioica-type
+2,929,5.0,Equ,Equisetum
+2,945,74.0,Lyc,Lycopodium
+2,953,7.0,Osm.r,Osmunda regalis
+2,958,11.0,Ppd.v-T,Polypodium vulgare-type
+2,961,96.0,Ptd.a,Pteridium aquilinum
+2,989,6.0,Til.s,Tilletia sphagni
+2,1048,4.0,Che/Amae,Chenopodiaceae/Amaranthaceae
+2,1100,2.0,Lilae.ud,Liliaceae undiff.
+2,1337,18.0,Pis.p,Pinus pinaster
+2,1338,156.0,Pin.s-T,Pinus sylvestris-type
+2,1478,3.0,Pla.c-T,Plantago coronopus-type
+2,1530,2.0,Spi,Spirogyra
+2,1826,3.0,Ped.p-T,Pedicularis palustris-type
+2,2283,11.0,Ant.f,Anthostomella fuegiana
+2,2889,177.0,Cht,Chaetomium
+2,3018,5.0,Cicoid,Cichorioideae
+2,3028,158.0,Eri-T,Erica-type
+2,3271,2.0,Cet.o,Ceterach officinarum
+2,3282,25.0,Crdae,Carduaceae
+2,3910,5.0,Flc.t.ud,Filicales triletes undiff.
+2,3911,23.0,Flc.m.ud,Filicales monoletes undiff.
+2,4052,59.0,Sod-T,Sordaria-type
+2,4059,7.0,Cer.sp,Cercophora sp.
+2,4271,1.0,T225,Type 225
+2,4274,5.0,Spi.cf.s,Spirogyra cf. scrobiculata
+2,4366,17.0,Que.py-T,Quercus pyrenaica-type
+3,32,16.0,Aln,Alnus
+3,80,4.0,Ast-T,Aster-type
+3,95,9.0,Bet,Betula
+3,217,1.0,Cor,Corylus
+3,233,40.0,Cypae,Cyperaceae
+3,255,1.0,Dro.r-T,Drosera rotundifolia-type
+3,349,129.0,Graae,Gramineae
+3,352,3.0,Hed,Hedera
+3,401,4.0,Lab,Labiatae
+3,411,16.0,Leg,Leguminosae
+3,580,8.0,Pla.l-T,Plantago lanceolata-type
+3,763,14.0,Scoae,Scrophulariaceae
+3,821,1.0,Til,Tilia
+3,854,4.0,Umb,Umbelliferae
+3,863,14.0,Urt.d-T,Urtica dioica-type
+3,945,24.0,Lyc,Lycopodium
+3,953,2.0,Osm.r,Osmunda regalis
+3,961,177.0,Ptd.a,Pteridium aquilinum
+3,1048,3.0,Che/Amae,Chenopodiaceae/Amaranthaceae
+3,1100,2.0,Lilae.ud,Liliaceae undiff.
+3,1337,12.0,Pis.p,Pinus pinaster
+3,1338,88.0,Pin.s-T,Pinus sylvestris-type
+3,1530,2.0,Spi,Spirogyra
+3,1826,5.0,Ped.p-T,Pedicularis palustris-type
+3,2283,1.0,Ant.f,Anthostomella fuegiana
+3,2889,62.0,Cht,Chaetomium
+3,3018,6.0,Cicoid,Cichorioideae
+3,3028,138.0,Eri-T,Erica-type
+3,3282,13.0,Crdae,Carduaceae
+3,3910,2.0,Flc.t.ud,Filicales triletes undiff.
+3,4052,5.0,Sod-T,Sordaria-type
+3,4264,1.0,T72A,Type 72A
+3,4274,1.0,Spi.cf.s,Spirogyra cf. scrobiculata
+3,4276,2.0,T913,Type 913
+3,4366,11.0,Que.py-T,Quercus pyrenaica-type
+4,32,46.0,Aln,Alnus
+4,95,85.0,Bet,Betula
+4,124,2.0,Cal.v,Calluna vulgaris
+4,217,1.0,Cor,Corylus
+4,233,60.0,Cypae,Cyperaceae
+4,255,1.0,Dro.r-T,Drosera rotundifolia-type
+4,349,150.0,Graae,Gramineae
+4,352,36.0,Hed,Hedera
+4,401,6.0,Lab,Labiatae
+4,411,18.0,Leg,Leguminosae
+4,580,3.0,Pla.l-T,Plantago lanceolata-type
+4,615,1.0,Pol.p-T,Polygonum persicaria-type
+4,763,11.0,Scoae,Scrophulariaceae
+4,854,1.0,Umb,Umbelliferae
+4,863,11.0,Urt.d-T,Urtica dioica-type
+4,929,1.0,Equ,Equisetum
+4,945,22.0,Lyc,Lycopodium
+4,953,1.0,Osm.r,Osmunda regalis
+4,961,143.0,Ptd.a,Pteridium aquilinum
+4,1100,3.0,Lilae.ud,Liliaceae undiff.
+4,1337,5.0,Pis.p,Pinus pinaster
+4,1338,17.0,Pin.s-T,Pinus sylvestris-type
+4,1826,2.0,Ped.p-T,Pedicularis palustris-type
+4,2171,2.0,Zyg-T,Zygnema-type
+4,2889,4.0,Cht,Chaetomium
+4,3018,1.0,Cicoid,Cichorioideae
+4,3028,150.0,Eri-T,Erica-type
+4,3043,7.0,Crl,Cerealia
+4,3271,1.0,Cet.o,Ceterach officinarum
+4,3282,8.0,Crdae,Carduaceae
+4,3301,1.0,Pse.c,Pseudoschizaea circula
+4,3910,14.0,Flc.t.ud,Filicales triletes undiff.
+4,3911,12.0,Flc.m.ud,Filicales monoletes undiff.
+4,4262,4.0,T181,Type 181
+4,4271,17.0,T225,Type 225
+4,4274,11.0,Spi.cf.s,Spirogyra cf. scrobiculata
+4,4366,45.0,Que.py-T,Quercus pyrenaica-type
+5,32,18.0,Aln,Alnus
+5,80,10.0,Ast-T,Aster-type
+5,95,70.0,Bet,Betula
+5,124,1.0,Cal.v,Calluna vulgaris
+5,217,4.0,Cor,Corylus
+5,233,44.0,Cypae,Cyperaceae
+5,349,87.0,Graae,Gramineae
+5,352,32.0,Hed,Hedera
+5,401,1.0,Lab,Labiatae
+5,411,6.0,Leg,Leguminosae
+5,580,6.0,Pla.l-T,Plantago lanceolata-type
+5,763,14.0,Scoae,Scrophulariaceae
+5,854,3.0,Umb,Umbelliferae
+5,863,2.0,Urt.d-T,Urtica dioica-type
+5,929,5.0,Equ,Equisetum
+5,953,1.0,Osm.r,Osmunda regalis
+5,958,43.0,Ppd.v-T,Polypodium vulgare-type
+5,961,76.0,Ptd.a,Pteridium aquilinum
+5,1100,5.0,Lilae.ud,Liliaceae undiff.
+5,1337,3.0,Pis.p,Pinus pinaster
+5,1338,6.0,Pin.s-T,Pinus sylvestris-type
+5,1478,3.0,Pla.c-T,Plantago coronopus-type
+5,1810,2.0,Asp.a-T,Asphodelus albus-type
+5,2889,3.0,Cht,Chaetomium
+5,3018,2.0,Cicoid,Cichorioideae
+5,3028,238.0,Eri-T,Erica-type
+5,3043,3.0,Crl,Cerealia
+5,3282,5.0,Crdae,Carduaceae
+5,3284,2.0,Glo.cf.f,Glomus cf. fasciculatum
+5,3910,3.0,Flc.t.ud,Filicales triletes undiff.
+5,3911,1.0,Flc.m.ud,Filicales monoletes undiff.
+5,4052,1.0,Sod-T,Sordaria-type
+5,4226,2.0,T119,Type 119
+5,4263,1.0,T18A,Type 18A
+5,4271,5.0,T225,Type 225
+5,4272,2.0,T233,Type 233
+5,4274,9.0,Spi.cf.s,Spirogyra cf. scrobiculata
+5,4366,62.0,Que.py-T,Quercus pyrenaica-type
+6,32,22.0,Aln,Alnus
+6,80,7.0,Ast-T,Aster-type
+6,95,10.0,Bet,Betula
+6,124,9.0,Cal.v,Calluna vulgaris
+6,233,29.0,Cypae,Cyperaceae
+6,349,100.0,Graae,Gramineae
+6,352,28.0,Hed,Hedera
+6,411,1.0,Leg,Leguminosae
+6,854,2.0,Umb,Umbelliferae
+6,863,1.0,Urt.d-T,Urtica dioica-type
+6,919,2.0,Crp.c,Cryptogramma crispa
+6,945,65.0,Lyc,Lycopodium
+6,958,4.0,Ppd.v-T,Polypodium vulgare-type
+6,961,51.0,Ptd.a,Pteridium aquilinum
+6,1337,4.0,Pis.p,Pinus pinaster
+6,1338,1.0,Pin.s-T,Pinus sylvestris-type
+6,1478,2.0,Pla.c-T,Plantago coronopus-type
+6,2171,4.0,Zyg-T,Zygnema-type
+6,3018,2.0,Cicoid,Cichorioideae
+6,3028,238.0,Eri-T,Erica-type
+6,3043,15.0,Crl,Cerealia
+6,3282,4.0,Crdae,Carduaceae
+6,3284,1.0,Glo.cf.f,Glomus cf. fasciculatum
+6,3301,3.0,Pse.c,Pseudoschizaea circula
+6,3313,9.0,Asp.t,Asplenium trichomanes
+6,4226,1.0,T119,Type 119
+6,4262,10.0,T181,Type 181
+6,4263,1.0,T18A,Type 18A
+6,4271,11.0,T225,Type 225
+6,4272,1.0,T233,Type 233
+6,4274,3.0,Spi.cf.s,Spirogyra cf. scrobiculata
+6,4366,54.0,Que.py-T,Quercus pyrenaica-type
+7,32,2.0,Aln,Alnus
+7,95,20.0,Bet,Betula
+7,124,13.0,Cal.v,Calluna vulgaris
+7,233,8.0,Cypae,Cyperaceae
+7,349,43.0,Graae,Gramineae
+7,352,17.0,Hed,Hedera
+7,411,4.0,Leg,Leguminosae
+7,763,1.0,Scoae,Scrophulariaceae
+7,854,1.0,Umb,Umbelliferae
+7,863,1.0,Urt.d-T,Urtica dioica-type
+7,945,14.0,Lyc,Lycopodium
+7,958,4.0,Ppd.v-T,Polypodium vulgare-type
+7,961,20.0,Ptd.a,Pteridium aquilinum
+7,989,1.0,Til.s,Tilletia sphagni
+7,1271,3.0,Amp.f,Amphitrema flavum
+7,1338,34.0,Pin.s-T,Pinus sylvestris-type
+7,1530,1.0,Spi,Spirogyra
+7,1636,10.0,Ass.m,Assulina muscorum
+7,3028,410.0,Eri-T,Erica-type
+7,3043,4.0,Crl,Cerealia
+7,3301,1.0,Pse.c,Pseudoschizaea circula
+7,4271,3.0,T225,Type 225
+7,4274,3.0,Spi.cf.s,Spirogyra cf. scrobiculata
+7,4366,32.0,Que.py-T,Quercus pyrenaica-type
+8,32,13.0,Aln,Alnus
+8,95,50.0,Bet,Betula
+8,124,5.0,Cal.v,Calluna vulgaris
+8,233,7.0,Cypae,Cyperaceae
+8,349,62.0,Graae,Gramineae
+8,352,11.0,Hed,Hedera
+8,411,4.0,Leg,Leguminosae
+8,763,4.0,Scoae,Scrophulariaceae
+8,854,3.0,Umb,Umbelliferae
+8,945,31.0,Lyc,Lycopodium
+8,958,8.0,Ppd.v-T,Polypodium vulgare-type
+8,961,13.0,Ptd.a,Pteridium aquilinum
+8,1337,2.0,Pis.p,Pinus pinaster
+8,1478,1.0,Pla.c-T,Plantago coronopus-type
+8,1810,1.0,Asp.a-T,Asphodelus albus-type
+8,3028,310.0,Eri-T,Erica-type
+8,3043,11.0,Crl,Cerealia
+8,3282,1.0,Crdae,Carduaceae
+8,3301,1.0,Pse.c,Pseudoschizaea circula
+8,4265,1.0,T82,Type 82
+8,4271,2.0,T225,Type 225
+8,4274,4.0,Spi.cf.s,Spirogyra cf. scrobiculata
+8,4275,2.0,T496,Type 496
+8,4366,44.0,Que.py-T,Quercus pyrenaica-type
+9,32,33.0,Aln,Alnus
+9,95,150.0,Bet,Betula
+9,124,14.0,Cal.v,Calluna vulgaris
+9,233,31.0,Cypae,Cyperaceae
+9,349,65.0,Graae,Gramineae
+9,352,6.0,Hed,Hedera
+9,945,10.0,Lyc,Lycopodium
+9,958,19.0,Ppd.v-T,Polypodium vulgare-type
+9,961,1.0,Ptd.a,Pteridium aquilinum
+9,989,1.0,Til.s,Tilletia sphagni
+9,1100,1.0,Lilae.ud,Liliaceae undiff.
+9,1337,3.0,Pis.p,Pinus pinaster
+9,1338,2.0,Pin.s-T,Pinus sylvestris-type
+9,1810,1.0,Asp.a-T,Asphodelus albus-type
+9,3028,80.0,Eri-T,Erica-type
+9,3043,13.0,Crl,Cerealia
+9,3462,1.0,T114,Type 114
+9,4267,2.0,T115,Type 115
+9,4271,1.0,T225,Type 225
+9,4274,3.0,Spi.cf.s,Spirogyra cf. scrobiculata
+9,4366,165.0,Que.py-T,Quercus pyrenaica-type
+10,32,75.0,Aln,Alnus
+10,95,175.0,Bet,Betula
+10,124,5.0,Cal.v,Calluna vulgaris
+10,233,26.0,Cypae,Cyperaceae
+10,349,57.0,Graae,Gramineae
+10,352,3.0,Hed,Hedera
+10,863,1.0,Urt.d-T,Urtica dioica-type
+10,945,22.0,Lyc,Lycopodium
+10,958,10.0,Ppd.v-T,Polypodium vulgare-type
+10,1338,1.0,Pin.s-T,Pinus sylvestris-type
+10,3028,24.0,Eri-T,Erica-type
+10,3043,5.0,Crl,Cerealia
+10,3313,1.0,Asp.t,Asplenium trichomanes
+10,4274,4.0,Spi.cf.s,Spirogyra cf. scrobiculata
+10,4366,238.0,Que.py-T,Quercus pyrenaica-type
+11,32,86.0,Aln,Alnus
+11,95,157.0,Bet,Betula
+11,124,8.0,Cal.v,Calluna vulgaris
+11,233,16.0,Cypae,Cyperaceae
+11,349,25.0,Graae,Gramineae
+11,352,2.0,Hed,Hedera
+11,945,9.0,Lyc,Lycopodium
+11,953,6.0,Osm.r,Osmunda regalis
+11,958,13.0,Ppd.v-T,Polypodium vulgare-type
+11,961,29.0,Ptd.a,Pteridium aquilinum
+11,989,2.0,Til.s,Tilletia sphagni
+11,2303,3.0,But,Butomus
+11,3028,24.0,Eri-T,Erica-type
+11,3043,8.0,Crl,Cerealia
+11,3301,2.0,Pse.c,Pseudoschizaea circula
+11,3911,21.0,Flc.m.ud,Filicales monoletes undiff.
+11,4274,10.0,Spi.cf.s,Spirogyra cf. scrobiculata
+11,4366,200.0,Que.py-T,Quercus pyrenaica-type
+12,32,69.0,Aln,Alnus
+12,95,85.0,Bet,Betula
+12,124,8.0,Cal.v,Calluna vulgaris
+12,233,26.0,Cypae,Cyperaceae
+12,349,131.0,Graae,Gramineae
+12,352,2.0,Hed,Hedera
+12,854,2.0,Umb,Umbelliferae
+12,945,23.0,Lyc,Lycopodium
+12,953,11.0,Osm.r,Osmunda regalis
+12,958,2.0,Ppd.v-T,Polypodium vulgare-type
+12,961,3.0,Ptd.a,Pteridium aquilinum
+12,989,3.0,Til.s,Tilletia sphagni
+12,1100,1.0,Lilae.ud,Liliaceae undiff.
+12,1337,1.0,Pis.p,Pinus pinaster
+12,1338,1.0,Pin.s-T,Pinus sylvestris-type
+12,1478,2.0,Pla.c-T,Plantago coronopus-type
+12,1810,1.0,Asp.a-T,Asphodelus albus-type
+12,3028,90.0,Eri-T,Erica-type
+12,3301,1.0,Pse.c,Pseudoschizaea circula
+12,3911,13.0,Flc.m.ud,Filicales monoletes undiff.
+12,4268,1.0,T150,Type 150
+12,4271,2.0,T225,Type 225
+12,4274,37.0,Spi.cf.s,Spirogyra cf. scrobiculata
+12,4366,110.0,Que.py-T,Quercus pyrenaica-type
+13,32,38.0,Aln,Alnus
+13,95,157.0,Bet,Betula
+13,124,13.0,Cal.v,Calluna vulgaris
+13,217,2.0,Cor,Corylus
+13,233,12.0,Cypae,Cyperaceae
+13,349,109.0,Graae,Gramineae
+13,352,6.0,Hed,Hedera
+13,401,1.0,Lab,Labiatae
+13,863,10.0,Urt.d-T,Urtica dioica-type
+13,945,37.0,Lyc,Lycopodium
+13,953,14.0,Osm.r,Osmunda regalis
+13,958,15.0,Ppd.v-T,Polypodium vulgare-type
+13,961,11.0,Ptd.a,Pteridium aquilinum
+13,1337,4.0,Pis.p,Pinus pinaster
+13,1338,3.0,Pin.s-T,Pinus sylvestris-type
+13,1810,2.0,Asp.a-T,Asphodelus albus-type
+13,3018,4.0,Cicoid,Cichorioideae
+13,3028,115.0,Eri-T,Erica-type
+13,3043,34.0,Crl,Cerealia
+13,3301,11.0,Pse.c,Pseudoschizaea circula
+13,3313,5.0,Asp.t,Asplenium trichomanes
+13,3911,15.0,Flc.m.ud,Filicales monoletes undiff.
+13,4271,5.0,T225,Type 225
+13,4274,56.0,Spi.cf.s,Spirogyra cf. scrobiculata
+13,4366,113.0,Que.py-T,Quercus pyrenaica-type
+14,32,42.0,Aln,Alnus
+14,95,138.0,Bet,Betula
+14,233,5.0,Cypae,Cyperaceae
+14,349,22.0,Graae,Gramineae
+14,352,1.0,Hed,Hedera
+14,411,1.0,Leg,Leguminosae
+14,945,8.0,Lyc,Lycopodium
+14,958,14.0,Ppd.v-T,Polypodium vulgare-type
+14,3028,39.0,Eri-T,Erica-type
+14,3043,11.0,Crl,Cerealia
+14,3911,1.0,Flc.m.ud,Filicales monoletes undiff.
+14,4274,8.0,Spi.cf.s,Spirogyra cf. scrobiculata
+14,4366,270.0,Que.py-T,Quercus pyrenaica-type
+15,32,63.0,Aln,Alnus
+15,95,195.0,Bet,Betula
+15,124,2.0,Cal.v,Calluna vulgaris
+15,233,9.0,Cypae,Cyperaceae
+15,349,23.0,Graae,Gramineae
+15,352,2.0,Hed,Hedera
+15,763,1.0,Scoae,Scrophulariaceae
+15,863,1.0,Urt.d-T,Urtica dioica-type
+15,945,30.0,Lyc,Lycopodium
+15,958,40.0,Ppd.v-T,Polypodium vulgare-type
+15,961,2.0,Ptd.a,Pteridium aquilinum
+15,1337,2.0,Pis.p,Pinus pinaster
+15,1338,1.0,Pin.s-T,Pinus sylvestris-type
+15,2303,1.0,But,Butomus
+15,3028,23.0,Eri-T,Erica-type
+15,3043,9.0,Crl,Cerealia
+15,3301,1.0,Pse.c,Pseudoschizaea circula
+15,3462,3.0,T114,Type 114
+15,3910,3.0,Flc.t.ud,Filicales triletes undiff.
+15,3911,19.0,Flc.m.ud,Filicales monoletes undiff.
+15,4233,1.0,T52,Type 52
+15,4266,2.0,T107,Type 107
+15,4274,4.0,Spi.cf.s,Spirogyra cf. scrobiculata
+15,4366,208.0,Que.py-T,Quercus pyrenaica-type
+16,32,90.0,Aln,Alnus
+16,95,150.0,Bet,Betula
+16,233,2.0,Cypae,Cyperaceae
+16,349,6.0,Graae,Gramineae
+16,352,3.0,Hed,Hedera
+16,945,12.0,Lyc,Lycopodium
+16,953,2.0,Osm.r,Osmunda regalis
+16,958,47.0,Ppd.v-T,Polypodium vulgare-type
+16,961,2.0,Ptd.a,Pteridium aquilinum
+16,1337,1.0,Pis.p,Pinus pinaster
+16,1338,1.0,Pin.s-T,Pinus sylvestris-type
+16,3028,37.0,Eri-T,Erica-type
+16,3043,8.0,Crl,Cerealia
+16,3462,5.0,T114,Type 114
+16,3911,33.0,Flc.m.ud,Filicales monoletes undiff.
+16,4266,1.0,T107,Type 107
+16,4269,2.0,T204,Type 204
+16,4271,2.0,T225,Type 225
+16,4274,1.0,Spi.cf.s,Spirogyra cf. scrobiculata
+16,4366,220.0,Que.py-T,Quercus pyrenaica-type
+17,32,66.0,Aln,Alnus
+17,80,3.0,Ast-T,Aster-type
+17,95,176.0,Bet,Betula
+17,124,2.0,Cal.v,Calluna vulgaris
+17,233,13.0,Cypae,Cyperaceae
+17,349,20.0,Graae,Gramineae
+17,352,2.0,Hed,Hedera
+17,945,7.0,Lyc,Lycopodium
+17,953,1.0,Osm.r,Osmunda regalis
+17,961,1.0,Ptd.a,Pteridium aquilinum
+17,1338,1.0,Pin.s-T,Pinus sylvestris-type
+17,3018,1.0,Cicoid,Cichorioideae
+17,3028,14.0,Eri-T,Erica-type
+17,3043,4.0,Crl,Cerealia
+17,3910,3.0,Flc.t.ud,Filicales triletes undiff.
+17,3911,20.0,Flc.m.ud,Filicales monoletes undiff.
+17,4266,3.0,T107,Type 107
+17,4366,230.0,Que.py-T,Quercus pyrenaica-type
+18,32,48.0,Aln,Alnus
+18,95,146.0,Bet,Betula
+18,233,21.0,Cypae,Cyperaceae
+18,349,33.0,Graae,Gramineae
+18,352,2.0,Hed,Hedera
+18,411,2.0,Leg,Leguminosae
+18,763,5.0,Scoae,Scrophulariaceae
+18,854,1.0,Umb,Umbelliferae
+18,945,23.0,Lyc,Lycopodium
+18,953,1.0,Osm.r,Osmunda regalis
+18,958,11.0,Ppd.v-T,Polypodium vulgare-type
+18,961,2.0,Ptd.a,Pteridium aquilinum
+18,1338,11.0,Pin.s-T,Pinus sylvestris-type
+18,2303,1.0,But,Butomus
+18,3018,3.0,Cicoid,Cichorioideae
+18,3028,22.0,Eri-T,Erica-type
+18,3043,2.0,Crl,Cerealia
+18,3462,2.0,T114,Type 114
+18,3910,3.0,Flc.t.ud,Filicales triletes undiff.
+18,3911,14.0,Flc.m.ud,Filicales monoletes undiff.
+18,4271,1.0,T225,Type 225
+18,4366,225.0,Que.py-T,Quercus pyrenaica-type
+19,32,87.0,Aln,Alnus
+19,95,196.0,Bet,Betula
+19,124,1.0,Cal.v,Calluna vulgaris
+19,233,9.0,Cypae,Cyperaceae
+19,349,24.0,Graae,Gramineae
+19,352,6.0,Hed,Hedera
+19,945,12.0,Lyc,Lycopodium
+19,958,16.0,Ppd.v-T,Polypodium vulgare-type
+19,961,14.0,Ptd.a,Pteridium aquilinum
+19,1337,2.0,Pis.p,Pinus pinaster
+19,1338,12.0,Pin.s-T,Pinus sylvestris-type
+19,1810,1.0,Asp.a-T,Asphodelus albus-type
+19,3028,33.0,Eri-T,Erica-type
+19,3043,3.0,Crl,Cerealia
+19,3284,16.0,Glo.cf.f,Glomus cf. fasciculatum
+19,3462,1.0,T114,Type 114
+19,3911,31.0,Flc.m.ud,Filicales monoletes undiff.
+19,4127,1.0,T16C,Type 16C
+19,4266,4.0,T107,Type 107
+19,4271,1.0,T225,Type 225
+19,4366,218.0,Que.py-T,Quercus pyrenaica-type
+20,32,24.0,Aln,Alnus
+20,80,2.0,Ast-T,Aster-type
+20,95,55.0,Bet,Betula
+20,124,2.0,Cal.v,Calluna vulgaris
+20,217,1.0,Cor,Corylus
+20,233,5.0,Cypae,Cyperaceae
+20,349,16.0,Graae,Gramineae
+20,352,1.0,Hed,Hedera
+20,763,1.0,Scoae,Scrophulariaceae
+20,945,207.0,Lyc,Lycopodium
+20,958,27.0,Ppd.v-T,Polypodium vulgare-type
+20,961,18.0,Ptd.a,Pteridium aquilinum
+20,1100,2.0,Lilae.ud,Liliaceae undiff.
+20,1338,9.0,Pin.s-T,Pinus sylvestris-type
+20,3018,2.0,Cicoid,Cichorioideae
+20,3028,18.0,Eri-T,Erica-type
+20,3284,13.0,Glo.cf.f,Glomus cf. fasciculatum
+20,3301,49.0,Pse.c,Pseudoschizaea circula
+20,3462,7.0,T114,Type 114
+20,3910,4.0,Flc.t.ud,Filicales triletes undiff.
+20,3911,33.0,Flc.m.ud,Filicales monoletes undiff.
+20,4366,37.0,Que.py-T,Quercus pyrenaica-type
+21,32,56.0,Aln,Alnus
+21,80,1.0,Ast-T,Aster-type
+21,95,100.0,Bet,Betula
+21,124,1.0,Cal.v,Calluna vulgaris
+21,233,1.0,Cypae,Cyperaceae
+21,349,33.0,Graae,Gramineae
+21,352,1.0,Hed,Hedera
+21,945,121.0,Lyc,Lycopodium
+21,953,3.0,Osm.r,Osmunda regalis
+21,958,41.0,Ppd.v-T,Polypodium vulgare-type
+21,961,14.0,Ptd.a,Pteridium aquilinum
+21,1338,17.0,Pin.s-T,Pinus sylvestris-type
+21,3018,1.0,Cicoid,Cichorioideae
+21,3028,27.0,Eri-T,Erica-type
+21,3043,4.0,Crl,Cerealia
+21,3284,22.0,Glo.cf.f,Glomus cf. fasciculatum
+21,3301,16.0,Pse.c,Pseudoschizaea circula
+21,3462,2.0,T114,Type 114
+21,3910,8.0,Flc.t.ud,Filicales triletes undiff.
+21,3911,49.0,Flc.m.ud,Filicales monoletes undiff.
+21,4266,2.0,T107,Type 107
+21,4271,3.0,T225,Type 225
+21,4274,2.0,Spi.cf.s,Spirogyra cf. scrobiculata
+21,4366,64.0,Que.py-T,Quercus pyrenaica-type
+22,32,6.0,Aln,Alnus
+22,80,2.0,Ast-T,Aster-type
+22,95,25.0,Bet,Betula
+22,124,1.0,Cal.v,Calluna vulgaris
+22,217,1.0,Cor,Corylus
+22,233,2.0,Cypae,Cyperaceae
+22,349,11.0,Graae,Gramineae
+22,352,2.0,Hed,Hedera
+22,401,1.0,Lab,Labiatae
+22,411,1.0,Leg,Leguminosae
+22,763,2.0,Scoae,Scrophulariaceae
+22,945,332.0,Lyc,Lycopodium
+22,953,1.0,Osm.r,Osmunda regalis
+22,958,13.0,Ppd.v-T,Polypodium vulgare-type
+22,961,44.0,Ptd.a,Pteridium aquilinum
+22,1100,1.0,Lilae.ud,Liliaceae undiff.
+22,1338,11.0,Pin.s-T,Pinus sylvestris-type
+22,3018,2.0,Cicoid,Cichorioideae
+22,3028,13.0,Eri-T,Erica-type
+22,3043,9.0,Crl,Cerealia
+22,3284,29.0,Glo.cf.f,Glomus cf. fasciculatum
+22,3301,33.0,Pse.c,Pseudoschizaea circula
+22,3462,6.0,T114,Type 114
+22,3910,6.0,Flc.t.ud,Filicales triletes undiff.
+22,3911,13.0,Flc.m.ud,Filicales monoletes undiff.
+22,4266,1.0,T107,Type 107
+22,4274,1.0,Spi.cf.s,Spirogyra cf. scrobiculata
+22,4366,26.0,Que.py-T,Quercus pyrenaica-type
+23,32,13.0,Aln,Alnus
+23,95,47.0,Bet,Betula
+23,124,1.0,Cal.v,Calluna vulgaris
+23,233,4.0,Cypae,Cyperaceae
+23,349,8.0,Graae,Gramineae
+23,352,2.0,Hed,Hedera
+23,945,198.0,Lyc,Lycopodium
+23,958,29.0,Ppd.v-T,Polypodium vulgare-type
+23,961,50.0,Ptd.a,Pteridium aquilinum
+23,1337,2.0,Pis.p,Pinus pinaster
+23,1338,7.0,Pin.s-T,Pinus sylvestris-type
+23,1478,2.0,Pla.c-T,Plantago coronopus-type
+23,2303,1.0,But,Butomus
+23,3028,17.0,Eri-T,Erica-type
+23,3284,7.0,Glo.cf.f,Glomus cf. fasciculatum
+23,3301,24.0,Pse.c,Pseudoschizaea circula
+23,3462,1.0,T114,Type 114
+23,3911,7.0,Flc.m.ud,Filicales monoletes undiff.
+23,4052,1.0,Sod-T,Sordaria-type
+23,4266,1.0,T107,Type 107
+23,4274,3.0,Spi.cf.s,Spirogyra cf. scrobiculata
+23,4366,52.0,Que.py-T,Quercus pyrenaica-type
+24,32,18.0,Aln,Alnus
+24,95,55.0,Bet,Betula
+24,349,25.0,Graae,Gramineae
+24,945,462.0,Lyc,Lycopodium
+24,958,55.0,Ppd.v-T,Polypodium vulgare-type
+24,961,53.0,Ptd.a,Pteridium aquilinum
+24,1337,6.0,Pis.p,Pinus pinaster
+24,1338,24.0,Pin.s-T,Pinus sylvestris-type
+24,3301,13.0,Pse.c,Pseudoschizaea circula
+24,3910,5.0,Flc.t.ud,Filicales triletes undiff.
+24,3911,7.0,Flc.m.ud,Filicales monoletes undiff.
+24,4271,5.0,T225,Type 225
+24,4274,3.0,Spi.cf.s,Spirogyra cf. scrobiculata
+24,4366,62.0,Que.py-T,Quercus pyrenaica-type
+25,32,65.0,Aln,Alnus
+25,95,169.0,Bet,Betula
+25,233,13.0,Cypae,Cyperaceae
+25,349,42.0,Graae,Gramineae
+25,945,752.0,Lyc,Lycopodium
+25,958,198.0,Ppd.v-T,Polypodium vulgare-type
+25,961,103.0,Ptd.a,Pteridium aquilinum
+25,1337,9.0,Pis.p,Pinus pinaster
+25,1338,15.0,Pin.s-T,Pinus sylvestris-type
+25,2303,3.0,But,Butomus
+25,3028,47.0,Eri-T,Erica-type
+25,3043,2.0,Crl,Cerealia
+25,3301,27.0,Pse.c,Pseudoschizaea circula
+25,3910,25.0,Flc.t.ud,Filicales triletes undiff.
+25,3911,89.0,Flc.m.ud,Filicales monoletes undiff.
+25,4127,69.0,T16C,Type 16C
+25,4271,3.0,T225,Type 225
+25,4274,9.0,Spi.cf.s,Spirogyra cf. scrobiculata
+25,4366,93.0,Que.py-T,Quercus pyrenaica-type
+26,32,56.0,Aln,Alnus
+26,80,5.0,Ast-T,Aster-type
+26,95,133.0,Bet,Betula
+26,233,4.0,Cypae,Cyperaceae
+26,349,89.0,Graae,Gramineae
+26,352,4.0,Hed,Hedera
+26,615,1.0,Pol.p-T,Polygonum persicaria-type
+26,945,357.0,Lyc,Lycopodium
+26,958,144.0,Ppd.v-T,Polypodium vulgare-type
+26,961,15.0,Ptd.a,Pteridium aquilinum
+26,989,1.0,Til.s,Tilletia sphagni
+26,1337,2.0,Pis.p,Pinus pinaster
+26,1338,25.0,Pin.s-T,Pinus sylvestris-type
+26,2303,7.0,But,Butomus
+26,3028,85.0,Eri-T,Erica-type
+26,3043,11.0,Crl,Cerealia
+26,3284,5.0,Glo.cf.f,Glomus cf. fasciculatum
+26,3301,16.0,Pse.c,Pseudoschizaea circula
+26,3313,2.0,Asp.t,Asplenium trichomanes
+26,3462,3.0,T114,Type 114
+26,3910,7.0,Flc.t.ud,Filicales triletes undiff.
+26,3911,49.0,Flc.m.ud,Filicales monoletes undiff.
+26,4127,528.0,T16C,Type 16C
+26,4266,2.0,T107,Type 107
+26,4274,2.0,Spi.cf.s,Spirogyra cf. scrobiculata
+26,4366,106.0,Que.py-T,Quercus pyrenaica-type
+27,32,27.0,Aln,Alnus
+27,80,1.0,Ast-T,Aster-type
+27,95,143.0,Bet,Betula
+27,124,5.0,Cal.v,Calluna vulgaris
+27,233,4.0,Cypae,Cyperaceae
+27,349,34.0,Graae,Gramineae
+27,564,2.0,Pic,Picea
+27,580,3.0,Pla.l-T,Plantago lanceolata-type
+27,854,2.0,Umb,Umbelliferae
+27,945,535.0,Lyc,Lycopodium
+27,958,83.0,Ppd.v-T,Polypodium vulgare-type
+27,961,26.0,Ptd.a,Pteridium aquilinum
+27,1338,26.0,Pin.s-T,Pinus sylvestris-type
+27,2303,4.0,But,Butomus
+27,3028,63.0,Eri-T,Erica-type
+27,3043,13.0,Crl,Cerealia
+27,3284,7.0,Glo.cf.f,Glomus cf. fasciculatum
+27,3301,9.0,Pse.c,Pseudoschizaea circula
+27,3313,2.0,Asp.t,Asplenium trichomanes
+27,3462,1.0,T114,Type 114
+27,3910,2.0,Flc.t.ud,Filicales triletes undiff.
+27,3911,47.0,Flc.m.ud,Filicales monoletes undiff.
+27,4127,213.0,T16C,Type 16C
+27,4366,125.0,Que.py-T,Quercus pyrenaica-type
+28,32,103.0,Aln,Alnus
+28,95,181.0,Bet,Betula
+28,233,3.0,Cypae,Cyperaceae
+28,349,2.0,Graae,Gramineae
+28,615,4.0,Pol.p-T,Polygonum persicaria-type
+28,945,228.0,Lyc,Lycopodium
+28,958,31.0,Ppd.v-T,Polypodium vulgare-type
+28,961,4.0,Ptd.a,Pteridium aquilinum
+28,1338,5.0,Pin.s-T,Pinus sylvestris-type
+28,3028,25.0,Eri-T,Erica-type
+28,3043,15.0,Crl,Cerealia
+28,3910,2.0,Flc.t.ud,Filicales triletes undiff.
+28,3911,53.0,Flc.m.ud,Filicales monoletes undiff.
+28,4127,331.0,T16C,Type 16C
+28,4226,9.0,T119,Type 119
+28,4266,5.0,T107,Type 107
+28,4271,2.0,T225,Type 225
+28,4274,9.0,Spi.cf.s,Spirogyra cf. scrobiculata
+28,4366,149.0,Que.py-T,Quercus pyrenaica-type
+29,32,111.0,Aln,Alnus
+29,80,1.0,Ast-T,Aster-type
+29,95,157.0,Bet,Betula
+29,124,5.0,Cal.v,Calluna vulgaris
+29,233,3.0,Cypae,Cyperaceae
+29,349,27.0,Graae,Gramineae
+29,352,1.0,Hed,Hedera
+29,763,2.0,Scoae,Scrophulariaceae
+29,945,476.0,Lyc,Lycopodium
+29,958,27.0,Ppd.v-T,Polypodium vulgare-type
+29,961,7.0,Ptd.a,Pteridium aquilinum
+29,1337,2.0,Pis.p,Pinus pinaster
+29,1338,21.0,Pin.s-T,Pinus sylvestris-type
+29,3018,2.0,Cicoid,Cichorioideae
+29,3028,37.0,Eri-T,Erica-type
+29,3910,6.0,Flc.t.ud,Filicales triletes undiff.
+29,3911,13.0,Flc.m.ud,Filicales monoletes undiff.
+29,4127,215.0,T16C,Type 16C
+29,4270,1.0,T209,Type 209
+29,4274,29.0,Spi.cf.s,Spirogyra cf. scrobiculata
+29,4366,273.0,Que.py-T,Quercus pyrenaica-type
+30,32,101.0,Aln,Alnus
+30,95,100.0,Bet,Betula
+30,217,1.0,Cor,Corylus
+30,233,1.0,Cypae,Cyperaceae
+30,349,64.0,Graae,Gramineae
+30,352,1.0,Hed,Hedera
+30,411,2.0,Leg,Leguminosae
+30,580,1.0,Pla.l-T,Plantago lanceolata-type
+30,763,2.0,Scoae,Scrophulariaceae
+30,854,6.0,Umb,Umbelliferae
+30,863,1.0,Urt.d-T,Urtica dioica-type
+30,945,210.0,Lyc,Lycopodium
+30,958,5.0,Ppd.v-T,Polypodium vulgare-type
+30,961,11.0,Ptd.a,Pteridium aquilinum
+30,1338,9.0,Pin.s-T,Pinus sylvestris-type
+30,1530,2.0,Spi,Spirogyra
+30,1810,1.0,Asp.a-T,Asphodelus albus-type
+30,3018,1.0,Cicoid,Cichorioideae
+30,3028,24.0,Eri-T,Erica-type
+30,3301,1.0,Pse.c,Pseudoschizaea circula
+30,3911,26.0,Flc.m.ud,Filicales monoletes undiff.
+30,4274,4.0,Spi.cf.s,Spirogyra cf. scrobiculata
+30,4366,168.0,Que.py-T,Quercus pyrenaica-type
+31,32,73.0,Aln,Alnus
+31,80,1.0,Ast-T,Aster-type
+31,95,55.0,Bet,Betula
+31,124,6.0,Cal.v,Calluna vulgaris
+31,217,2.0,Cor,Corylus
+31,233,3.0,Cypae,Cyperaceae
+31,349,109.0,Graae,Gramineae
+31,352,1.0,Hed,Hedera
+31,401,2.0,Lab,Labiatae
+31,615,2.0,Pol.p-T,Polygonum persicaria-type
+31,763,13.0,Scoae,Scrophulariaceae
+31,854,2.0,Umb,Umbelliferae
+31,863,2.0,Urt.d-T,Urtica dioica-type
+31,945,513.0,Lyc,Lycopodium
+31,958,18.0,Ppd.v-T,Polypodium vulgare-type
+31,961,7.0,Ptd.a,Pteridium aquilinum
+31,1048,1.0,Che/Amae,Chenopodiaceae/Amaranthaceae
+31,1100,2.0,Lilae.ud,Liliaceae undiff.
+31,1337,1.0,Pis.p,Pinus pinaster
+31,1338,24.0,Pin.s-T,Pinus sylvestris-type
+31,1810,1.0,Asp.a-T,Asphodelus albus-type
+31,2303,1.0,But,Butomus
+31,3018,1.0,Cicoid,Cichorioideae
+31,3028,75.0,Eri-T,Erica-type
+31,3267,1.0,Mal.s-T,Malva sylvestris-type
+31,3301,3.0,Pse.c,Pseudoschizaea circula
+31,3911,23.0,Flc.m.ud,Filicales monoletes undiff.
+31,4271,2.0,T225,Type 225
+31,4274,79.0,Spi.cf.s,Spirogyra cf. scrobiculata
+31,4366,61.0,Que.py-T,Quercus pyrenaica-type
+32,32,69.0,Aln,Alnus
+32,95,87.0,Bet,Betula
+32,124,1.0,Cal.v,Calluna vulgaris
+32,233,4.0,Cypae,Cyperaceae
+32,349,55.0,Graae,Gramineae
+32,352,3.0,Hed,Hedera
+32,945,290.0,Lyc,Lycopodium
+32,958,13.0,Ppd.v-T,Polypodium vulgare-type
+32,961,8.0,Ptd.a,Pteridium aquilinum
+32,1337,3.0,Pis.p,Pinus pinaster
+32,1338,26.0,Pin.s-T,Pinus sylvestris-type
+32,3028,80.0,Eri-T,Erica-type
+32,3284,2.0,Glo.cf.f,Glomus cf. fasciculatum
+32,3462,2.0,T114,Type 114
+32,3910,7.0,Flc.t.ud,Filicales triletes undiff.
+32,3911,52.0,Flc.m.ud,Filicales monoletes undiff.
+32,4127,59.0,T16C,Type 16C
+32,4226,7.0,T119,Type 119
+32,4271,1.0,T225,Type 225
+32,4274,7.0,Spi.cf.s,Spirogyra cf. scrobiculata
+32,4366,204.0,Que.py-T,Quercus pyrenaica-type
+33,32,103.0,Aln,Alnus
+33,95,167.0,Bet,Betula
+33,124,5.0,Cal.v,Calluna vulgaris
+33,233,26.0,Cypae,Cyperaceae
+33,349,15.0,Graae,Gramineae
+33,411,56.0,Leg,Leguminosae
+33,945,133.0,Lyc,Lycopodium
+33,958,4.0,Ppd.v-T,Polypodium vulgare-type
+33,1338,23.0,Pin.s-T,Pinus sylvestris-type
+33,3018,4.0,Cicoid,Cichorioideae
+33,3028,88.0,Eri-T,Erica-type
+33,3462,2.0,T114,Type 114
+33,3910,4.0,Flc.t.ud,Filicales triletes undiff.
+33,3911,23.0,Flc.m.ud,Filicales monoletes undiff.
+33,4127,11.0,T16C,Type 16C
+33,4226,23.0,T119,Type 119
+33,4266,4.0,T107,Type 107
+33,4274,1.0,Spi.cf.s,Spirogyra cf. scrobiculata
+33,4366,207.0,Que.py-T,Quercus pyrenaica-type
+34,32,86.0,Aln,Alnus
+34,80,2.0,Ast-T,Aster-type
+34,95,136.0,Bet,Betula
+34,349,7.0,Graae,Gramineae
+34,352,1.0,Hed,Hedera
+34,945,251.0,Lyc,Lycopodium
+34,958,33.0,Ppd.v-T,Polypodium vulgare-type
+34,1337,1.0,Pis.p,Pinus pinaster
+34,1338,14.0,Pin.s-T,Pinus sylvestris-type
+34,3028,33.0,Eri-T,Erica-type
+34,3462,1.0,T114,Type 114
+34,3910,5.0,Flc.t.ud,Filicales triletes undiff.
+34,3911,28.0,Flc.m.ud,Filicales monoletes undiff.
+34,4127,10.0,T16C,Type 16C
+34,4226,9.0,T119,Type 119
+34,4266,2.0,T107,Type 107
+34,4366,148.0,Que.py-T,Quercus pyrenaica-type
+35,32,82.0,Aln,Alnus
+35,80,1.0,Ast-T,Aster-type
+35,95,146.0,Bet,Betula
+35,124,1.0,Cal.v,Calluna vulgaris
+35,349,25.0,Graae,Gramineae
+35,352,4.0,Hed,Hedera
+35,411,1.0,Leg,Leguminosae
+35,945,319.0,Lyc,Lycopodium
+35,958,15.0,Ppd.v-T,Polypodium vulgare-type
+35,961,9.0,Ptd.a,Pteridium aquilinum
+35,1338,18.0,Pin.s-T,Pinus sylvestris-type
+35,1530,2.0,Spi,Spirogyra
+35,2889,1.0,Cht,Chaetomium
+35,3018,1.0,Cicoid,Cichorioideae
+35,3028,55.0,Eri-T,Erica-type
+35,3301,1.0,Pse.c,Pseudoschizaea circula
+35,3462,3.0,T114,Type 114
+35,3911,20.0,Flc.m.ud,Filicales monoletes undiff.
+35,4127,208.0,T16C,Type 16C
+35,4226,2.0,T119,Type 119
+35,4271,1.0,T225,Type 225
+35,4274,15.0,Spi.cf.s,Spirogyra cf. scrobiculata
+35,4366,132.0,Que.py-T,Quercus pyrenaica-type
+36,32,117.0,Aln,Alnus
+36,80,5.0,Ast-T,Aster-type
+36,95,144.0,Bet,Betula
+36,124,1.0,Cal.v,Calluna vulgaris
+36,233,1.0,Cypae,Cyperaceae
+36,349,7.0,Graae,Gramineae
+36,352,3.0,Hed,Hedera
+36,945,48.0,Lyc,Lycopodium
+36,953,1.0,Osm.r,Osmunda regalis
+36,958,16.0,Ppd.v-T,Polypodium vulgare-type
+36,961,25.0,Ptd.a,Pteridium aquilinum
+36,1337,2.0,Pis.p,Pinus pinaster
+36,1338,24.0,Pin.s-T,Pinus sylvestris-type
+36,3028,162.0,Eri-T,Erica-type
+36,3301,1.0,Pse.c,Pseudoschizaea circula
+36,3313,1.0,Asp.t,Asplenium trichomanes
+36,3910,2.0,Flc.t.ud,Filicales triletes undiff.
+36,3911,7.0,Flc.m.ud,Filicales monoletes undiff.
+36,4226,2.0,T119,Type 119
+36,4271,10.0,T225,Type 225
+36,4273,2.0,T317,Type 317
+36,4274,8.0,Spi.cf.s,Spirogyra cf. scrobiculata
+36,4366,138.0,Que.py-T,Quercus pyrenaica-type
+37,32,139.0,Aln,Alnus
+37,80,2.0,Ast-T,Aster-type
+37,95,126.0,Bet,Betula
+37,233,1.0,Cypae,Cyperaceae
+37,349,6.0,Graae,Gramineae
+37,352,2.0,Hed,Hedera
+37,945,22.0,Lyc,Lycopodium
+37,958,17.0,Ppd.v-T,Polypodium vulgare-type
+37,961,20.0,Ptd.a,Pteridium aquilinum
+37,1337,3.0,Pis.p,Pinus pinaster
+37,1338,10.0,Pin.s-T,Pinus sylvestris-type
+37,3028,105.0,Eri-T,Erica-type
+37,3911,4.0,Flc.m.ud,Filicales monoletes undiff.
+37,4127,4.0,T16C,Type 16C
+37,4226,9.0,T119,Type 119
+37,4271,12.0,T225,Type 225
+37,4274,15.0,Spi.cf.s,Spirogyra cf. scrobiculata
+37,4366,119.0,Que.py-T,Quercus pyrenaica-type
+38,32,92.0,Aln,Alnus
+38,80,1.0,Ast-T,Aster-type
+38,95,148.0,Bet,Betula
+38,349,7.0,Graae,Gramineae
+38,352,2.0,Hed,Hedera
+38,945,46.0,Lyc,Lycopodium
+38,958,29.0,Ppd.v-T,Polypodium vulgare-type
+38,961,24.0,Ptd.a,Pteridium aquilinum
+38,1337,2.0,Pis.p,Pinus pinaster
+38,1338,12.0,Pin.s-T,Pinus sylvestris-type
+38,3018,2.0,Cicoid,Cichorioideae
+38,3028,80.0,Eri-T,Erica-type
+38,3267,1.0,Mal.s-T,Malva sylvestris-type
+38,3301,3.0,Pse.c,Pseudoschizaea circula
+38,3313,2.0,Asp.t,Asplenium trichomanes
+38,3911,18.0,Flc.m.ud,Filicales monoletes undiff.
+38,4127,57.0,T16C,Type 16C
+38,4226,2.0,T119,Type 119
+38,4266,2.0,T107,Type 107
+38,4271,4.0,T225,Type 225
+38,4274,14.0,Spi.cf.s,Spirogyra cf. scrobiculata
+38,4366,158.0,Que.py-T,Quercus pyrenaica-type
+39,32,105.0,Aln,Alnus
+39,95,117.0,Bet,Betula
+39,945,157.0,Lyc,Lycopodium
+39,958,45.0,Ppd.v-T,Polypodium vulgare-type
+39,961,11.0,Ptd.a,Pteridium aquilinum
+39,1338,19.0,Pin.s-T,Pinus sylvestris-type
+39,3028,74.0,Eri-T,Erica-type
+39,3911,26.0,Flc.m.ud,Filicales monoletes undiff.
+39,4127,75.0,T16C,Type 16C
+39,4366,177.0,Que.py-T,Quercus pyrenaica-type
+40,32,144.0,Aln,Alnus
+40,80,1.0,Ast-T,Aster-type
+40,95,229.0,Bet,Betula
+40,124,7.0,Cal.v,Calluna vulgaris
+40,349,2.0,Graae,Gramineae
+40,352,2.0,Hed,Hedera
+40,945,117.0,Lyc,Lycopodium
+40,958,21.0,Ppd.v-T,Polypodium vulgare-type
+40,961,33.0,Ptd.a,Pteridium aquilinum
+40,1338,13.0,Pin.s-T,Pinus sylvestris-type
+40,3028,126.0,Eri-T,Erica-type
+40,3301,1.0,Pse.c,Pseudoschizaea circula
+40,3911,15.0,Flc.m.ud,Filicales monoletes undiff.
+40,4127,34.0,T16C,Type 16C
+40,4266,1.0,T107,Type 107
+40,4271,21.0,T225,Type 225
+40,4274,17.0,Spi.cf.s,Spirogyra cf. scrobiculata
+40,4366,204.0,Que.py-T,Quercus pyrenaica-type
+41,32,70.0,Aln,Alnus
+41,80,2.0,Ast-T,Aster-type
+41,95,134.0,Bet,Betula
+41,349,11.0,Graae,Gramineae
+41,352,3.0,Hed,Hedera
+41,945,111.0,Lyc,Lycopodium
+41,958,7.0,Ppd.v-T,Polypodium vulgare-type
+41,961,11.0,Ptd.a,Pteridium aquilinum
+41,1337,2.0,Pis.p,Pinus pinaster
+41,1338,19.0,Pin.s-T,Pinus sylvestris-type
+41,3028,54.0,Eri-T,Erica-type
+41,3911,17.0,Flc.m.ud,Filicales monoletes undiff.
+41,4271,2.0,T225,Type 225
+41,4274,2.0,Spi.cf.s,Spirogyra cf. scrobiculata
+41,4366,121.0,Que.py-T,Quercus pyrenaica-type
+42,32,35.0,Aln,Alnus
+42,80,7.0,Ast-T,Aster-type
+42,95,124.0,Bet,Betula
+42,233,11.0,Cypae,Cyperaceae
+42,349,85.0,Graae,Gramineae
+42,401,2.0,Lab,Labiatae
+42,411,2.0,Leg,Leguminosae
+42,615,1.0,Pol.p-T,Polygonum persicaria-type
+42,763,4.0,Scoae,Scrophulariaceae
+42,854,2.0,Umb,Umbelliferae
+42,863,1.0,Urt.d-T,Urtica dioica-type
+42,945,75.0,Lyc,Lycopodium
+42,958,3.0,Ppd.v-T,Polypodium vulgare-type
+42,961,16.0,Ptd.a,Pteridium aquilinum
+42,1338,18.0,Pin.s-T,Pinus sylvestris-type
+42,1478,1.0,Pla.c-T,Plantago coronopus-type
+42,3028,49.0,Eri-T,Erica-type
+42,3284,2.0,Glo.cf.f,Glomus cf. fasciculatum
+42,3301,2.0,Pse.c,Pseudoschizaea circula
+42,3462,7.0,T114,Type 114
+42,3910,11.0,Flc.t.ud,Filicales triletes undiff.
+42,3911,23.0,Flc.m.ud,Filicales monoletes undiff.
+42,4127,3.0,T16C,Type 16C
+42,4226,3.0,T119,Type 119
+42,4274,7.0,Spi.cf.s,Spirogyra cf. scrobiculata
+42,4366,73.0,Que.py-T,Quercus pyrenaica-type
+43,32,35.0,Aln,Alnus
+43,80,4.0,Ast-T,Aster-type
+43,95,122.0,Bet,Betula
+43,124,4.0,Cal.v,Calluna vulgaris
+43,233,3.0,Cypae,Cyperaceae
+43,255,1.0,Dro.r-T,Drosera rotundifolia-type
+43,349,61.0,Graae,Gramineae
+43,763,2.0,Scoae,Scrophulariaceae
+43,854,2.0,Umb,Umbelliferae
+43,863,2.0,Urt.d-T,Urtica dioica-type
+43,945,100.0,Lyc,Lycopodium
+43,958,2.0,Ppd.v-T,Polypodium vulgare-type
+43,961,11.0,Ptd.a,Pteridium aquilinum
+43,1337,2.0,Pis.p,Pinus pinaster
+43,1338,12.0,Pin.s-T,Pinus sylvestris-type
+43,1530,2.0,Spi,Spirogyra
+43,3028,41.0,Eri-T,Erica-type
+43,3462,19.0,T114,Type 114
+43,3910,4.0,Flc.t.ud,Filicales triletes undiff.
+43,3911,22.0,Flc.m.ud,Filicales monoletes undiff.
+43,4127,2.0,T16C,Type 16C
+43,4266,1.0,T107,Type 107
+43,4271,2.0,T225,Type 225
+43,4274,4.0,Spi.cf.s,Spirogyra cf. scrobiculata
+43,4366,103.0,Que.py-T,Quercus pyrenaica-type
+44,32,49.0,Aln,Alnus
+44,80,7.0,Ast-T,Aster-type
+44,95,85.0,Bet,Betula
+44,349,67.0,Graae,Gramineae
+44,352,3.0,Hed,Hedera
+44,945,107.0,Lyc,Lycopodium
+44,958,7.0,Ppd.v-T,Polypodium vulgare-type
+44,961,3.0,Ptd.a,Pteridium aquilinum
+44,1338,27.0,Pin.s-T,Pinus sylvestris-type
+44,3028,69.0,Eri-T,Erica-type
+44,3462,12.0,T114,Type 114
+44,3910,13.0,Flc.t.ud,Filicales triletes undiff.
+44,3911,25.0,Flc.m.ud,Filicales monoletes undiff.
+44,4271,3.0,T225,Type 225
+44,4274,4.0,Spi.cf.s,Spirogyra cf. scrobiculata
+44,4366,81.0,Que.py-T,Quercus pyrenaica-type
+45,32,33.0,Aln,Alnus
+45,80,3.0,Ast-T,Aster-type
+45,95,103.0,Bet,Betula
+45,233,3.0,Cypae,Cyperaceae
+45,349,57.0,Graae,Gramineae
+45,945,129.0,Lyc,Lycopodium
+45,958,3.0,Ppd.v-T,Polypodium vulgare-type
+45,961,4.0,Ptd.a,Pteridium aquilinum
+45,3028,53.0,Eri-T,Erica-type
+45,3313,4.0,Asp.t,Asplenium trichomanes
+45,3462,11.0,T114,Type 114
+45,3911,8.0,Flc.m.ud,Filicales monoletes undiff.
+45,4271,2.0,T225,Type 225
+45,4366,79.0,Que.py-T,Quercus pyrenaica-type
+46,32,21.0,Aln,Alnus
+46,80,3.0,Ast-T,Aster-type
+46,95,283.0,Bet,Betula
+46,233,23.0,Cypae,Cyperaceae
+46,349,138.0,Graae,Gramineae
+46,352,2.0,Hed,Hedera
+46,763,2.0,Scoae,Scrophulariaceae
+46,945,55.0,Lyc,Lycopodium
+46,958,3.0,Ppd.v-T,Polypodium vulgare-type
+46,961,22.0,Ptd.a,Pteridium aquilinum
+46,1338,7.0,Pin.s-T,Pinus sylvestris-type
+46,3028,29.0,Eri-T,Erica-type
+46,3301,1.0,Pse.c,Pseudoschizaea circula
+46,3910,4.0,Flc.t.ud,Filicales triletes undiff.
+46,3911,29.0,Flc.m.ud,Filicales monoletes undiff.
+46,4266,1.0,T107,Type 107
+46,4274,5.0,Spi.cf.s,Spirogyra cf. scrobiculata
+46,4366,122.0,Que.py-T,Quercus pyrenaica-type
+47,32,59.0,Aln,Alnus
+47,95,148.0,Bet,Betula
+47,349,71.0,Graae,Gramineae
+47,945,175.0,Lyc,Lycopodium
+47,958,11.0,Ppd.v-T,Polypodium vulgare-type
+47,1338,28.0,Pin.s-T,Pinus sylvestris-type
+47,3028,29.0,Eri-T,Erica-type
+47,3462,13.0,T114,Type 114
+47,3911,27.0,Flc.m.ud,Filicales monoletes undiff.
+47,4271,8.0,T225,Type 225
+47,4366,102.0,Que.py-T,Quercus pyrenaica-type
+48,32,27.0,Aln,Alnus
+48,95,182.0,Bet,Betula
+48,349,34.0,Graae,Gramineae
+48,352,4.0,Hed,Hedera
+48,411,9.0,Leg,Leguminosae
+48,763,11.0,Scoae,Scrophulariaceae
+48,945,233.0,Lyc,Lycopodium
+48,958,1.0,Ppd.v-T,Polypodium vulgare-type
+48,1338,5.0,Pin.s-T,Pinus sylvestris-type
+48,3028,32.0,Eri-T,Erica-type
+48,3284,4.0,Glo.cf.f,Glomus cf. fasciculatum
+48,3462,2.0,T114,Type 114
+48,3910,13.0,Flc.t.ud,Filicales triletes undiff.
+48,3911,51.0,Flc.m.ud,Filicales monoletes undiff.
+48,4271,9.0,T225,Type 225
+48,4274,3.0,Spi.cf.s,Spirogyra cf. scrobiculata
+48,4366,103.0,Que.py-T,Quercus pyrenaica-type
+49,32,43.0,Aln,Alnus
+49,80,5.0,Ast-T,Aster-type
+49,95,148.0,Bet,Betula
+49,124,5.0,Cal.v,Calluna vulgaris
+49,233,2.0,Cypae,Cyperaceae
+49,349,79.0,Graae,Gramineae
+49,945,325.0,Lyc,Lycopodium
+49,958,22.0,Ppd.v-T,Polypodium vulgare-type
+49,961,6.0,Ptd.a,Pteridium aquilinum
+49,1338,15.0,Pin.s-T,Pinus sylvestris-type
+49,1530,3.0,Spi,Spirogyra
+49,3028,49.0,Eri-T,Erica-type
+49,3462,2.0,T114,Type 114
+49,3910,5.0,Flc.t.ud,Filicales triletes undiff.
+49,3911,45.0,Flc.m.ud,Filicales monoletes undiff.
+49,4271,6.0,T225,Type 225
+49,4366,72.0,Que.py-T,Quercus pyrenaica-type
+50,95,151.0,Bet,Betula
+50,233,11.0,Cypae,Cyperaceae
+50,349,103.0,Graae,Gramineae
+50,945,267.0,Lyc,Lycopodium
+50,958,8.0,Ppd.v-T,Polypodium vulgare-type
+50,3028,32.0,Eri-T,Erica-type
+50,3462,16.0,T114,Type 114
+50,3911,37.0,Flc.m.ud,Filicales monoletes undiff.
+50,4366,93.0,Que.py-T,Quercus pyrenaica-type
+51,32,29.0,Aln,Alnus
+51,95,195.0,Bet,Betula
+51,124,4.0,Cal.v,Calluna vulgaris
+51,233,15.0,Cypae,Cyperaceae
+51,349,153.0,Graae,Gramineae
+51,945,243.0,Lyc,Lycopodium
+51,958,1.0,Ppd.v-T,Polypodium vulgare-type
+51,961,9.0,Ptd.a,Pteridium aquilinum
+51,1338,15.0,Pin.s-T,Pinus sylvestris-type
+51,3028,31.0,Eri-T,Erica-type
+51,3911,14.0,Flc.m.ud,Filicales monoletes undiff.
+51,4271,1.0,T225,Type 225
+51,4274,2.0,Spi.cf.s,Spirogyra cf. scrobiculata
+51,4366,41.0,Que.py-T,Quercus pyrenaica-type
+52,32,15.0,Aln,Alnus
+52,95,255.0,Bet,Betula
+52,233,26.0,Cypae,Cyperaceae
+52,349,87.0,Graae,Gramineae
+52,945,283.0,Lyc,Lycopodium
+52,958,4.0,Ppd.v-T,Polypodium vulgare-type
+52,1338,21.0,Pin.s-T,Pinus sylvestris-type
+52,3028,24.0,Eri-T,Erica-type
+52,3911,11.0,Flc.m.ud,Filicales monoletes undiff.
+52,4274,11.0,Spi.cf.s,Spirogyra cf. scrobiculata
+52,4366,56.0,Que.py-T,Quercus pyrenaica-type
+53,32,28.0,Aln,Alnus
+53,95,173.0,Bet,Betula
+53,233,16.0,Cypae,Cyperaceae
+53,349,61.0,Graae,Gramineae
+53,945,279.0,Lyc,Lycopodium
+53,1338,31.0,Pin.s-T,Pinus sylvestris-type
+53,3028,53.0,Eri-T,Erica-type
+53,3911,8.0,Flc.m.ud,Filicales monoletes undiff.
+53,4366,92.0,Que.py-T,Quercus pyrenaica-type
+54,32,21.0,Aln,Alnus
+54,95,193.0,Bet,Betula
+54,233,68.0,Cypae,Cyperaceae
+54,349,115.0,Graae,Gramineae
+54,945,309.0,Lyc,Lycopodium
+54,958,21.0,Ppd.v-T,Polypodium vulgare-type
+54,961,8.0,Ptd.a,Pteridium aquilinum
+54,1338,11.0,Pin.s-T,Pinus sylvestris-type
+54,3028,31.0,Eri-T,Erica-type
+54,3911,43.0,Flc.m.ud,Filicales monoletes undiff.
+54,4366,103.0,Que.py-T,Quercus pyrenaica-type
+55,32,17.0,Aln,Alnus
+55,95,163.0,Bet,Betula
+55,124,3.0,Cal.v,Calluna vulgaris
+55,233,11.0,Cypae,Cyperaceae
+55,349,82.0,Graae,Gramineae
+55,763,21.0,Scoae,Scrophulariaceae
+55,945,507.0,Lyc,Lycopodium
+55,958,15.0,Ppd.v-T,Polypodium vulgare-type
+55,961,3.0,Ptd.a,Pteridium aquilinum
+55,1338,9.0,Pin.s-T,Pinus sylvestris-type
+55,3028,68.0,Eri-T,Erica-type
+55,3462,25.0,T114,Type 114
+55,3911,23.0,Flc.m.ud,Filicales monoletes undiff.
+55,4274,3.0,Spi.cf.s,Spirogyra cf. scrobiculata
+55,4366,81.0,Que.py-T,Quercus pyrenaica-type

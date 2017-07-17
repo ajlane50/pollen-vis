@@ -1,0 +1,2448 @@
+sample_,var_,count,varcode,varname
+1,1,1.0,Abi,Abies
+1,32,7.0,Aln,Alnus
+1,66,3.0,Art,Artemisia
+1,95,4.0,Bet,Betula
+1,124,10.0,Cal.v,Calluna vulgaris
+1,203,1.0,Cm.Sf.C,Compositae subf. Cichorioideae
+1,217,15.0,Cor,Corylus
+1,228,3.0,Cru,Cruciferae
+1,233,62.0,Cypae,Cyperaceae
+1,286,25.0,Erl,Ericales
+1,315,1.0,Frx,Fraxinus
+1,349,148.0,Graae,Gramineae
+1,392,1.0,Jug,Juglans
+1,503,3.0,Myo,Myriophyllum
+1,567,1.0,Pin,Pinus
+1,590,1.0,Pla.ud,Plantago undiff.
+1,604,1.0,Pol,Polygonum
+1,620,3.0,Pop,Populus
+1,624,3.0,Pot,Potamogeton
+1,654,63.0,Que,Quercus
+1,662,2.0,Ranae,Ranunculaceae
+1,687,2.0,Rosae,Rosaceae
+1,689,1.0,Rubae,Rubiaceae
+1,694,2.0,Rum,Rumex
+1,712,2.0,Sal,Salix
+1,854,4.0,Umb,Umbelliferae
+1,879,1.0,Vib,Viburnum
+1,930,2.0,Fil,Filicopsida
+1,977,7.0,Ind.conc,Indeterminable: concealed
+1,981,54.0,Ind.ud,Indeterminable: undiff.
+1,982,1.0,Ind.unkn,Indeterminable: unknown
+2,1,4.0,Abi,Abies
+2,32,4.0,Aln,Alnus
+2,66,1.0,Art,Artemisia
+2,95,4.0,Bet,Betula
+2,124,13.0,Cal.v,Calluna vulgaris
+2,131,1.0,Camae,Campanulaceae
+2,201,1.0,Cm.Sf.A,Compositae subf. Asteroideae
+2,203,1.0,Cm.Sf.C,Compositae subf. Cichorioideae
+2,217,9.0,Cor,Corylus
+2,228,1.0,Cru,Cruciferae
+2,233,46.0,Cypae,Cyperaceae
+2,286,10.0,Erl,Ericales
+2,349,123.0,Graae,Gramineae
+2,503,1.0,Myo,Myriophyllum
+2,567,2.0,Pin,Pinus
+2,654,72.0,Que,Quercus
+2,662,2.0,Ranae,Ranunculaceae
+2,687,2.0,Rosae,Rosaceae
+2,689,1.0,Rubae,Rubiaceae
+2,694,3.0,Rum,Rumex
+2,712,1.0,Sal,Salix
+2,854,1.0,Umb,Umbelliferae
+2,933,1.0,Fil.ud,Filicopsida undiff.
+2,977,4.0,Ind.conc,Indeterminable: concealed
+2,981,11.0,Ind.ud,Indeterminable: undiff.
+3,1,4.0,Abi,Abies
+3,4,3.0,Ace,Acer
+3,32,3.0,Aln,Alnus
+3,95,15.0,Bet,Betula
+3,124,5.0,Cal.v,Calluna vulgaris
+3,217,10.0,Cor,Corylus
+3,228,2.0,Cru,Cruciferae
+3,233,61.0,Cypae,Cyperaceae
+3,286,4.0,Erl,Ericales
+3,304,2.0,Fag,Fagus
+3,349,42.0,Graae,Gramineae
+3,394,3.0,Jun,Juniperus
+3,484,14.0,Mey.t,Menyanthes trifoliata
+3,503,1.0,Myo,Myriophyllum
+3,523,1.0,Nym,Nymphaea
+3,564,5.0,Pic,Picea
+3,567,41.0,Pin,Pinus
+3,620,5.0,Pop,Populus
+3,624,2.0,Pot,Potamogeton
+3,641,1.0,Pru,Prunella
+3,654,92.0,Que,Quercus
+3,657,1.0,Que.i-T,Quercus ilex-type
+3,662,7.0,Ranae,Ranunculaceae
+3,687,1.0,Rosae,Rosaceae
+3,694,3.0,Rum,Rumex
+3,853,1.0,Ulm,Ulmus
+3,854,8.0,Umb,Umbelliferae
+3,930,2.0,Fil,Filicopsida
+3,939,1.0,Iso,Isoetes
+3,960,4.0,Ptd,Pteridium
+3,981,2.0,Ind.ud,Indeterminable: undiff.
+3,982,3.0,Ind.unkn,Indeterminable: unknown
+4,1,4.0,Abi,Abies
+4,32,9.0,Aln,Alnus
+4,66,2.0,Art,Artemisia
+4,95,21.0,Bet,Betula
+4,124,16.0,Cal.v,Calluna vulgaris
+4,201,1.0,Cm.Sf.A,Compositae subf. Asteroideae
+4,217,20.0,Cor,Corylus
+4,233,32.0,Cypae,Cyperaceae
+4,286,16.0,Erl,Ericales
+4,309,1.0,Flp,Filipendula
+4,349,50.0,Graae,Gramineae
+4,411,1.0,Leg,Leguminosae
+4,484,3.0,Mey.t,Menyanthes trifoliata
+4,503,1.0,Myo,Myriophyllum
+4,567,18.0,Pin,Pinus
+4,590,1.0,Pla.ud,Plantago undiff.
+4,604,2.0,Pol,Polygonum
+4,620,2.0,Pop,Populus
+4,624,2.0,Pot,Potamogeton
+4,629,1.0,Pti,Potentilla
+4,654,98.0,Que,Quercus
+4,662,2.0,Ranae,Ranunculaceae
+4,687,1.0,Rosae,Rosaceae
+4,694,2.0,Rum,Rumex
+4,854,11.0,Umb,Umbelliferae
+4,939,3.0,Iso,Isoetes
+4,960,1.0,Ptd,Pteridium
+4,977,8.0,Ind.conc,Indeterminable: concealed
+4,981,19.0,Ind.ud,Indeterminable: undiff.
+4,982,5.0,Ind.unkn,Indeterminable: unknown
+5,1,1.0,Abi,Abies
+5,32,8.0,Aln,Alnus
+5,66,2.0,Art,Artemisia
+5,95,14.0,Bet,Betula
+5,124,9.0,Cal.v,Calluna vulgaris
+5,201,1.0,Cm.Sf.A,Compositae subf. Asteroideae
+5,217,19.0,Cor,Corylus
+5,228,1.0,Cru,Cruciferae
+5,233,25.0,Cypae,Cyperaceae
+5,286,10.0,Erl,Ericales
+5,349,124.0,Graae,Gramineae
+5,484,1.0,Mey.t,Menyanthes trifoliata
+5,503,1.0,Myo,Myriophyllum
+5,567,30.0,Pin,Pinus
+5,590,4.0,Pla.ud,Plantago undiff.
+5,620,4.0,Pop,Populus
+5,624,1.0,Pot,Potamogeton
+5,654,80.0,Que,Quercus
+5,662,6.0,Ranae,Ranunculaceae
+5,687,2.0,Rosae,Rosaceae
+5,712,4.0,Sal,Salix
+5,854,34.0,Umb,Umbelliferae
+5,930,7.0,Fil,Filicopsida
+5,939,9.0,Iso,Isoetes
+5,960,11.0,Ptd,Pteridium
+5,981,12.0,Ind.ud,Indeterminable: undiff.
+5,982,3.0,Ind.unkn,Indeterminable: unknown
+6,1,4.0,Abi,Abies
+6,32,6.0,Aln,Alnus
+6,66,1.0,Art,Artemisia
+6,95,21.0,Bet,Betula
+6,124,3.0,Cal.v,Calluna vulgaris
+6,201,1.0,Cm.Sf.A,Compositae subf. Asteroideae
+6,210,1.0,Crn,Cornus
+6,217,19.0,Cor,Corylus
+6,228,2.0,Cru,Cruciferae
+6,233,21.0,Cypae,Cyperaceae
+6,286,20.0,Erl,Ericales
+6,349,28.0,Graae,Gramineae
+6,355,1.0,Hel,Helianthemum
+6,567,54.0,Pin,Pinus
+6,620,5.0,Pop,Populus
+6,629,1.0,Pti,Potentilla
+6,654,109.0,Que,Quercus
+6,712,1.0,Sal,Salix
+6,854,4.0,Umb,Umbelliferae
+6,933,1.0,Fil.ud,Filicopsida undiff.
+6,977,2.0,Ind.conc,Indeterminable: concealed
+6,981,11.0,Ind.ud,Indeterminable: undiff.
+6,982,1.0,Ind.unkn,Indeterminable: unknown
+6,1140,4.0,Dicotyle,Dicotyledones
+7,32,3.0,Aln,Alnus
+7,66,1.0,Art,Artemisia
+7,95,2.0,Bet,Betula
+7,124,8.0,Cal.v,Calluna vulgaris
+7,150,1.0,Cen,Centaurea
+7,201,2.0,Cm.Sf.A,Compositae subf. Asteroideae
+7,233,32.0,Cypae,Cyperaceae
+7,286,9.0,Erl,Ericales
+7,309,1.0,Flp,Filipendula
+7,315,3.0,Frx,Fraxinus
+7,349,79.0,Graae,Gramineae
+7,484,1.0,Mey.t,Menyanthes trifoliata
+7,567,56.0,Pin,Pinus
+7,620,4.0,Pop,Populus
+7,624,1.0,Pot,Potamogeton
+7,654,52.0,Que,Quercus
+7,657,2.0,Que.i-T,Quercus ilex-type
+7,662,1.0,Ranae,Ranunculaceae
+7,712,1.0,Sal,Salix
+7,854,2.0,Umb,Umbelliferae
+7,960,3.0,Ptd,Pteridium
+7,981,2.0,Ind.ud,Indeterminable: undiff.
+7,982,1.0,Ind.unkn,Indeterminable: unknown
+8,32,4.0,Aln,Alnus
+8,95,16.0,Bet,Betula
+8,124,4.0,Cal.v,Calluna vulgaris
+8,141,1.0,Cphae,Caryophyllaceae
+8,203,1.0,Cm.Sf.C,Compositae subf. Cichorioideae
+8,217,4.0,Cor,Corylus
+8,228,1.0,Cru,Cruciferae
+8,233,12.0,Cypae,Cyperaceae
+8,286,19.0,Erl,Ericales
+8,315,1.0,Frx,Fraxinus
+8,349,34.0,Graae,Gramineae
+8,355,1.0,Hel,Helianthemum
+8,484,7.0,Mey.t,Menyanthes trifoliata
+8,567,12.0,Pin,Pinus
+8,590,1.0,Pla.ud,Plantago undiff.
+8,654,145.0,Que,Quercus
+8,657,1.0,Que.i-T,Quercus ilex-type
+8,694,1.0,Rum,Rumex
+8,853,2.0,Ulm,Ulmus
+8,854,3.0,Umb,Umbelliferae
+8,933,1.0,Fil.ud,Filicopsida undiff.
+8,977,10.0,Ind.conc,Indeterminable: concealed
+8,981,11.0,Ind.ud,Indeterminable: undiff.
+8,982,1.0,Ind.unkn,Indeterminable: unknown
+8,1140,3.0,Dicotyle,Dicotyledones
+9,32,5.0,Aln,Alnus
+9,62,1.0,Arm.TB,Armeria (type B)
+9,66,1.0,Art,Artemisia
+9,95,13.0,Bet,Betula
+9,124,10.0,Cal.v,Calluna vulgaris
+9,201,2.0,Cm.Sf.A,Compositae subf. Asteroideae
+9,217,8.0,Cor,Corylus
+9,228,1.0,Cru,Cruciferae
+9,233,23.0,Cypae,Cyperaceae
+9,286,18.0,Erl,Ericales
+9,315,2.0,Frx,Fraxinus
+9,349,37.0,Graae,Gramineae
+9,484,2.0,Mey.t,Menyanthes trifoliata
+9,523,1.0,Nym,Nymphaea
+9,567,46.0,Pin,Pinus
+9,654,117.0,Que,Quercus
+9,657,5.0,Que.i-T,Quercus ilex-type
+9,662,1.0,Ranae,Ranunculaceae
+9,687,2.0,Rosae,Rosaceae
+9,689,1.0,Rubae,Rubiaceae
+9,694,4.0,Rum,Rumex
+9,712,1.0,Sal,Salix
+9,854,2.0,Umb,Umbelliferae
+9,930,1.0,Fil,Filicopsida
+9,960,3.0,Ptd,Pteridium
+9,977,4.0,Ind.conc,Indeterminable: concealed
+9,981,2.0,Ind.ud,Indeterminable: undiff.
+9,982,3.0,Ind.unkn,Indeterminable: unknown
+9,1140,1.0,Dicotyle,Dicotyledones
+9,1141,1.0,Monocoty,Monocotyledones
+10,1,6.0,Abi,Abies
+10,32,4.0,Aln,Alnus
+10,61,1.0,Arm.TA,Armeria (type A)
+10,66,1.0,Art,Artemisia
+10,95,18.0,Bet,Betula
+10,124,9.0,Cal.v,Calluna vulgaris
+10,145,1.0,Cas,Castanea
+10,201,2.0,Cm.Sf.A,Compositae subf. Asteroideae
+10,217,10.0,Cor,Corylus
+10,233,41.0,Cypae,Cyperaceae
+10,286,8.0,Erl,Ericales
+10,304,1.0,Fag,Fagus
+10,309,2.0,Flp,Filipendula
+10,349,59.0,Graae,Gramineae
+10,394,1.0,Jun,Juniperus
+10,411,4.0,Leg,Leguminosae
+10,484,2.0,Mey.t,Menyanthes trifoliata
+10,564,2.0,Pic,Picea
+10,567,27.0,Pin,Pinus
+10,590,2.0,Pla.ud,Plantago undiff.
+10,620,6.0,Pop,Populus
+10,639,2.0,Priae,Primulaceae
+10,654,99.0,Que,Quercus
+10,657,5.0,Que.i-T,Quercus ilex-type
+10,662,10.0,Ranae,Ranunculaceae
+10,694,2.0,Rum,Rumex
+10,712,1.0,Sal,Salix
+10,854,4.0,Umb,Umbelliferae
+10,960,2.0,Ptd,Pteridium
+10,981,6.0,Ind.ud,Indeterminable: undiff.
+11,1,2.0,Abi,Abies
+11,66,2.0,Art,Artemisia
+11,95,11.0,Bet,Betula
+11,124,1.0,Cal.v,Calluna vulgaris
+11,201,2.0,Cm.Sf.A,Compositae subf. Asteroideae
+11,217,8.0,Cor,Corylus
+11,228,1.0,Cru,Cruciferae
+11,233,17.0,Cypae,Cyperaceae
+11,286,17.0,Erl,Ericales
+11,309,1.0,Flp,Filipendula
+11,315,6.0,Frx,Fraxinus
+11,349,34.0,Graae,Gramineae
+11,411,1.0,Leg,Leguminosae
+11,484,4.0,Mey.t,Menyanthes trifoliata
+11,523,2.0,Nym,Nymphaea
+11,567,42.0,Pin,Pinus
+11,590,1.0,Pla.ud,Plantago undiff.
+11,620,1.0,Pop,Populus
+11,639,1.0,Priae,Primulaceae
+11,654,134.0,Que,Quercus
+11,657,1.0,Que.i-T,Quercus ilex-type
+11,662,1.0,Ranae,Ranunculaceae
+11,687,4.0,Rosae,Rosaceae
+11,694,4.0,Rum,Rumex
+11,712,2.0,Sal,Salix
+11,854,3.0,Umb,Umbelliferae
+11,960,2.0,Ptd,Pteridium
+11,977,2.0,Ind.conc,Indeterminable: concealed
+11,981,9.0,Ind.ud,Indeterminable: undiff.
+11,982,2.0,Ind.unkn,Indeterminable: unknown
+11,1140,5.0,Dicotyle,Dicotyledones
+12,4,1.0,Ace,Acer
+12,32,6.0,Aln,Alnus
+12,61,1.0,Arm.TA,Armeria (type A)
+12,95,15.0,Bet,Betula
+12,124,4.0,Cal.v,Calluna vulgaris
+12,145,1.0,Cas,Castanea
+12,201,1.0,Cm.Sf.A,Compositae subf. Asteroideae
+12,217,5.0,Cor,Corylus
+12,228,1.0,Cru,Cruciferae
+12,233,16.0,Cypae,Cyperaceae
+12,286,7.0,Erl,Ericales
+12,304,1.0,Fag,Fagus
+12,309,1.0,Flp,Filipendula
+12,315,1.0,Frx,Fraxinus
+12,349,37.0,Graae,Gramineae
+12,484,5.0,Mey.t,Menyanthes trifoliata
+12,503,1.0,Myo,Myriophyllum
+12,523,2.0,Nym,Nymphaea
+12,564,1.0,Pic,Picea
+12,567,33.0,Pin,Pinus
+12,590,2.0,Pla.ud,Plantago undiff.
+12,620,5.0,Pop,Populus
+12,624,2.0,Pot,Potamogeton
+12,629,1.0,Pti,Potentilla
+12,654,155.0,Que,Quercus
+12,657,5.0,Que.i-T,Quercus ilex-type
+12,662,11.0,Ranae,Ranunculaceae
+12,694,2.0,Rum,Rumex
+12,712,3.0,Sal,Salix
+12,721,1.0,San,Sanguisorba
+12,854,6.0,Umb,Umbelliferae
+12,930,1.0,Fil,Filicopsida
+12,939,1.0,Iso,Isoetes
+12,960,4.0,Ptd,Pteridium
+12,981,2.0,Ind.ud,Indeterminable: undiff.
+13,1,8.0,Abi,Abies
+13,4,1.0,Ace,Acer
+13,32,1.0,Aln,Alnus
+13,61,1.0,Arm.TA,Armeria (type A)
+13,66,1.0,Art,Artemisia
+13,95,11.0,Bet,Betula
+13,124,3.0,Cal.v,Calluna vulgaris
+13,217,20.0,Cor,Corylus
+13,228,1.0,Cru,Cruciferae
+13,233,43.0,Cypae,Cyperaceae
+13,286,4.0,Erl,Ericales
+13,304,2.0,Fag,Fagus
+13,349,50.0,Graae,Gramineae
+13,411,4.0,Leg,Leguminosae
+13,484,7.0,Mey.t,Menyanthes trifoliata
+13,503,3.0,Myo,Myriophyllum
+13,523,4.0,Nym,Nymphaea
+13,567,59.0,Pin,Pinus
+13,590,2.0,Pla.ud,Plantago undiff.
+13,620,4.0,Pop,Populus
+13,624,1.0,Pot,Potamogeton
+13,654,127.0,Que,Quercus
+13,657,10.0,Que.i-T,Quercus ilex-type
+13,662,3.0,Ranae,Ranunculaceae
+13,677,3.0,Rhi,Rhinanthus
+13,687,3.0,Rosae,Rosaceae
+13,694,3.0,Rum,Rumex
+13,712,1.0,Sal,Salix
+13,854,2.0,Umb,Umbelliferae
+13,930,1.0,Fil,Filicopsida
+13,960,1.0,Ptd,Pteridium
+13,981,6.0,Ind.ud,Indeterminable: undiff.
+13,982,2.0,Ind.unkn,Indeterminable: unknown
+14,1,1.0,Abi,Abies
+14,19,1.0,Alc,Alchemilla
+14,32,4.0,Aln,Alnus
+14,95,15.0,Bet,Betula
+14,201,4.0,Cm.Sf.A,Compositae subf. Asteroideae
+14,203,1.0,Cm.Sf.C,Compositae subf. Cichorioideae
+14,217,3.0,Cor,Corylus
+14,228,1.0,Cru,Cruciferae
+14,233,27.0,Cypae,Cyperaceae
+14,286,17.0,Erl,Ericales
+14,315,3.0,Frx,Fraxinus
+14,349,56.0,Graae,Gramineae
+14,411,1.0,Leg,Leguminosae
+14,484,1.0,Mey.t,Menyanthes trifoliata
+14,523,6.0,Nym,Nymphaea
+14,567,64.0,Pin,Pinus
+14,590,1.0,Pla.ud,Plantago undiff.
+14,620,2.0,Pop,Populus
+14,629,1.0,Pti,Potentilla
+14,654,126.0,Que,Quercus
+14,662,2.0,Ranae,Ranunculaceae
+14,687,1.0,Rosae,Rosaceae
+14,694,8.0,Rum,Rumex
+14,712,1.0,Sal,Salix
+14,853,1.0,Ulm,Ulmus
+14,854,10.0,Umb,Umbelliferae
+14,933,7.0,Fil.ud,Filicopsida undiff.
+14,939,1.0,Iso,Isoetes
+14,977,4.0,Ind.conc,Indeterminable: concealed
+14,981,13.0,Ind.ud,Indeterminable: undiff.
+14,1140,3.0,Dicotyle,Dicotyledones
+15,1,2.0,Abi,Abies
+15,32,4.0,Aln,Alnus
+15,66,1.0,Art,Artemisia
+15,95,12.0,Bet,Betula
+15,201,1.0,Cm.Sf.A,Compositae subf. Asteroideae
+15,217,4.0,Cor,Corylus
+15,233,158.0,Cypae,Cyperaceae
+15,286,5.0,Erl,Ericales
+15,315,1.0,Frx,Fraxinus
+15,349,25.0,Graae,Gramineae
+15,411,3.0,Leg,Leguminosae
+15,564,3.0,Pic,Picea
+15,567,58.0,Pin,Pinus
+15,620,1.0,Pop,Populus
+15,624,3.0,Pot,Potamogeton
+15,641,1.0,Pru,Prunella
+15,654,92.0,Que,Quercus
+15,657,5.0,Que.i-T,Quercus ilex-type
+15,662,7.0,Ranae,Ranunculaceae
+15,687,1.0,Rosae,Rosaceae
+15,694,4.0,Rum,Rumex
+15,712,2.0,Sal,Salix
+15,854,5.0,Umb,Umbelliferae
+15,939,1.0,Iso,Isoetes
+15,981,2.0,Ind.ud,Indeterminable: undiff.
+15,982,4.0,Ind.unkn,Indeterminable: unknown
+16,32,1.0,Aln,Alnus
+16,95,8.0,Bet,Betula
+16,141,1.0,Cphae,Caryophyllaceae
+16,217,1.0,Cor,Corylus
+16,233,210.0,Cypae,Cyperaceae
+16,286,4.0,Erl,Ericales
+16,315,1.0,Frx,Fraxinus
+16,349,24.0,Graae,Gramineae
+16,411,1.0,Leg,Leguminosae
+16,523,3.0,Nym,Nymphaea
+16,567,71.0,Pin,Pinus
+16,620,2.0,Pop,Populus
+16,629,1.0,Pti,Potentilla
+16,654,83.0,Que,Quercus
+16,662,2.0,Ranae,Ranunculaceae
+16,694,1.0,Rum,Rumex
+16,712,2.0,Sal,Salix
+16,854,1.0,Umb,Umbelliferae
+16,939,5.0,Iso,Isoetes
+16,960,1.0,Ptd,Pteridium
+16,977,1.0,Ind.conc,Indeterminable: concealed
+16,981,12.0,Ind.ud,Indeterminable: undiff.
+17,1,1.0,Abi,Abies
+17,32,2.0,Aln,Alnus
+17,95,6.0,Bet,Betula
+17,185,1.0,Cheae,Chenopodiaceae
+17,201,1.0,Cm.Sf.A,Compositae subf. Asteroideae
+17,217,5.0,Cor,Corylus
+17,228,1.0,Cru,Cruciferae
+17,233,154.0,Cypae,Cyperaceae
+17,286,1.0,Erl,Ericales
+17,349,11.0,Graae,Gramineae
+17,411,1.0,Leg,Leguminosae
+17,567,54.0,Pin,Pinus
+17,590,1.0,Pla.ud,Plantago undiff.
+17,620,1.0,Pop,Populus
+17,654,69.0,Que,Quercus
+17,662,1.0,Ranae,Ranunculaceae
+17,694,6.0,Rum,Rumex
+17,712,1.0,Sal,Salix
+17,853,1.0,Ulm,Ulmus
+17,854,4.0,Umb,Umbelliferae
+17,933,3.0,Fil.ud,Filicopsida undiff.
+17,977,4.0,Ind.conc,Indeterminable: concealed
+17,981,9.0,Ind.ud,Indeterminable: undiff.
+17,1140,2.0,Dicotyle,Dicotyledones
+18,1,6.0,Abi,Abies
+18,32,4.0,Aln,Alnus
+18,95,26.0,Bet,Betula
+18,124,1.0,Cal.v,Calluna vulgaris
+18,145,1.0,Cas,Castanea
+18,185,1.0,Cheae,Chenopodiaceae
+18,201,1.0,Cm.Sf.A,Compositae subf. Asteroideae
+18,217,5.0,Cor,Corylus
+18,233,21.0,Cypae,Cyperaceae
+18,286,7.0,Erl,Ericales
+18,315,3.0,Frx,Fraxinus
+18,349,52.0,Graae,Gramineae
+18,411,4.0,Leg,Leguminosae
+18,503,1.0,Myo,Myriophyllum
+18,523,42.0,Nym,Nymphaea
+18,564,5.0,Pic,Picea
+18,567,85.0,Pin,Pinus
+18,624,4.0,Pot,Potamogeton
+18,654,162.0,Que,Quercus
+18,657,12.0,Que.i-T,Quercus ilex-type
+18,662,6.0,Ranae,Ranunculaceae
+18,694,6.0,Rum,Rumex
+18,712,1.0,Sal,Salix
+18,853,3.0,Ulm,Ulmus
+18,854,7.0,Umb,Umbelliferae
+18,930,3.0,Fil,Filicopsida
+18,939,3.0,Iso,Isoetes
+18,960,3.0,Ptd,Pteridium
+18,977,1.0,Ind.conc,Indeterminable: concealed
+18,981,2.0,Ind.ud,Indeterminable: undiff.
+19,1,2.0,Abi,Abies
+19,32,2.0,Aln,Alnus
+19,95,24.0,Bet,Betula
+19,124,1.0,Cal.v,Calluna vulgaris
+19,141,1.0,Cphae,Caryophyllaceae
+19,201,1.0,Cm.Sf.A,Compositae subf. Asteroideae
+19,203,1.0,Cm.Sf.C,Compositae subf. Cichorioideae
+19,228,1.0,Cru,Cruciferae
+19,233,12.0,Cypae,Cyperaceae
+19,286,9.0,Erl,Ericales
+19,315,1.0,Frx,Fraxinus
+19,349,40.0,Graae,Gramineae
+19,352,2.0,Hed,Hedera
+19,379,1.0,Hyp,Hypericum
+19,411,2.0,Leg,Leguminosae
+19,434,1.0,Ltt.u,Littorella uniflora
+19,503,2.0,Myo,Myriophyllum
+19,523,22.0,Nym,Nymphaea
+19,567,88.0,Pin,Pinus
+19,620,2.0,Pop,Populus
+19,624,10.0,Pot,Potamogeton
+19,654,126.0,Que,Quercus
+19,694,4.0,Rum,Rumex
+19,712,2.0,Sal,Salix
+19,853,1.0,Ulm,Ulmus
+19,854,5.0,Umb,Umbelliferae
+19,933,3.0,Fil.ud,Filicopsida undiff.
+19,939,1.0,Iso,Isoetes
+19,977,5.0,Ind.conc,Indeterminable: concealed
+19,981,8.0,Ind.ud,Indeterminable: undiff.
+19,982,2.0,Ind.unkn,Indeterminable: unknown
+20,1,3.0,Abi,Abies
+20,32,2.0,Aln,Alnus
+20,95,17.0,Bet,Betula
+20,124,1.0,Cal.v,Calluna vulgaris
+20,145,1.0,Cas,Castanea
+20,201,1.0,Cm.Sf.A,Compositae subf. Asteroideae
+20,203,1.0,Cm.Sf.C,Compositae subf. Cichorioideae
+20,217,5.0,Cor,Corylus
+20,233,23.0,Cypae,Cyperaceae
+20,286,7.0,Erl,Ericales
+20,315,1.0,Frx,Fraxinus
+20,349,46.0,Graae,Gramineae
+20,411,2.0,Leg,Leguminosae
+20,503,2.0,Myo,Myriophyllum
+20,523,20.0,Nym,Nymphaea
+20,564,2.0,Pic,Picea
+20,567,72.0,Pin,Pinus
+20,590,3.0,Pla.ud,Plantago undiff.
+20,620,1.0,Pop,Populus
+20,624,19.0,Pot,Potamogeton
+20,654,136.0,Que,Quercus
+20,657,5.0,Que.i-T,Quercus ilex-type
+20,662,4.0,Ranae,Ranunculaceae
+20,687,2.0,Rosae,Rosaceae
+20,694,6.0,Rum,Rumex
+20,712,2.0,Sal,Salix
+20,854,3.0,Umb,Umbelliferae
+20,930,2.0,Fil,Filicopsida
+20,939,3.0,Iso,Isoetes
+20,982,2.0,Ind.unkn,Indeterminable: unknown
+21,32,1.0,Aln,Alnus
+21,95,16.0,Bet,Betula
+21,217,2.0,Cor,Corylus
+21,233,12.0,Cypae,Cyperaceae
+21,286,9.0,Erl,Ericales
+21,309,3.0,Flp,Filipendula
+21,349,30.0,Graae,Gramineae
+21,411,1.0,Leg,Leguminosae
+21,434,1.0,Ltt.u,Littorella uniflora
+21,503,1.0,Myo,Myriophyllum
+21,523,25.0,Nym,Nymphaea
+21,559,1.0,Ped,Pedicularis
+21,567,81.0,Pin,Pinus
+21,624,5.0,Pot,Potamogeton
+21,654,120.0,Que,Quercus
+21,662,1.0,Ranae,Ranunculaceae
+21,687,5.0,Rosae,Rosaceae
+21,694,3.0,Rum,Rumex
+21,854,1.0,Umb,Umbelliferae
+21,939,6.0,Iso,Isoetes
+21,977,2.0,Ind.conc,Indeterminable: concealed
+21,981,7.0,Ind.ud,Indeterminable: undiff.
+21,982,1.0,Ind.unkn,Indeterminable: unknown
+21,987,1.0,Sph,Sphagnum
+22,1,2.0,Abi,Abies
+22,32,2.0,Aln,Alnus
+22,66,2.0,Art,Artemisia
+22,95,24.0,Bet,Betula
+22,203,1.0,Cm.Sf.C,Compositae subf. Cichorioideae
+22,217,4.0,Cor,Corylus
+22,233,5.0,Cypae,Cyperaceae
+22,286,8.0,Erl,Ericales
+22,315,1.0,Frx,Fraxinus
+22,349,28.0,Graae,Gramineae
+22,411,1.0,Leg,Leguminosae
+22,503,1.0,Myo,Myriophyllum
+22,523,21.0,Nym,Nymphaea
+22,567,87.0,Pin,Pinus
+22,624,13.0,Pot,Potamogeton
+22,654,133.0,Que,Quercus
+22,657,1.0,Que.i-T,Quercus ilex-type
+22,662,2.0,Ranae,Ranunculaceae
+22,687,3.0,Rosae,Rosaceae
+22,712,4.0,Sal,Salix
+22,960,2.0,Ptd,Pteridium
+22,977,3.0,Ind.conc,Indeterminable: concealed
+22,981,3.0,Ind.ud,Indeterminable: undiff.
+22,982,1.0,Ind.unkn,Indeterminable: unknown
+23,1,1.0,Abi,Abies
+23,32,1.0,Aln,Alnus
+23,61,1.0,Arm.TA,Armeria (type A)
+23,66,1.0,Art,Artemisia
+23,95,14.0,Bet,Betula
+23,217,7.0,Cor,Corylus
+23,233,5.0,Cypae,Cyperaceae
+23,286,5.0,Erl,Ericales
+23,315,1.0,Frx,Fraxinus
+23,349,25.0,Graae,Gramineae
+23,352,1.0,Hed,Hedera
+23,392,1.0,Jug,Juglans
+23,411,2.0,Leg,Leguminosae
+23,503,1.0,Myo,Myriophyllum
+23,523,10.0,Nym,Nymphaea
+23,567,107.0,Pin,Pinus
+23,624,8.0,Pot,Potamogeton
+23,654,120.0,Que,Quercus
+23,657,1.0,Que.i-T,Quercus ilex-type
+23,662,1.0,Ranae,Ranunculaceae
+23,689,1.0,Rubae,Rubiaceae
+23,694,2.0,Rum,Rumex
+23,712,4.0,Sal,Salix
+23,854,1.0,Umb,Umbelliferae
+23,930,1.0,Fil,Filicopsida
+23,933,1.0,Fil.ud,Filicopsida undiff.
+23,939,3.0,Iso,Isoetes
+23,960,2.0,Ptd,Pteridium
+23,977,6.0,Ind.conc,Indeterminable: concealed
+23,981,5.0,Ind.ud,Indeterminable: undiff.
+23,1140,1.0,Dicotyle,Dicotyledones
+24,32,2.0,Aln,Alnus
+24,145,1.0,Cas,Castanea
+24,201,1.0,Cm.Sf.A,Compositae subf. Asteroideae
+24,217,9.0,Cor,Corylus
+24,233,2.0,Cypae,Cyperaceae
+24,286,5.0,Erl,Ericales
+24,315,2.0,Frx,Fraxinus
+24,349,52.0,Graae,Gramineae
+24,401,7.0,Lab,Labiatae
+24,503,1.0,Myo,Myriophyllum
+24,523,21.0,Nym,Nymphaea
+24,567,70.0,Pin,Pinus
+24,620,1.0,Pop,Populus
+24,624,31.0,Pot,Potamogeton
+24,654,136.0,Que,Quercus
+24,657,3.0,Que.i-T,Quercus ilex-type
+24,662,2.0,Ranae,Ranunculaceae
+24,694,7.0,Rum,Rumex
+24,712,1.0,Sal,Salix
+24,854,2.0,Umb,Umbelliferae
+24,939,3.0,Iso,Isoetes
+24,960,4.0,Ptd,Pteridium
+24,982,3.0,Ind.unkn,Indeterminable: unknown
+25,1,5.0,Abi,Abies
+25,95,12.0,Bet,Betula
+25,217,5.0,Cor,Corylus
+25,233,6.0,Cypae,Cyperaceae
+25,286,7.0,Erl,Ericales
+25,309,1.0,Flp,Filipendula
+25,315,2.0,Frx,Fraxinus
+25,349,35.0,Graae,Gramineae
+25,401,1.0,Lab,Labiatae
+25,411,1.0,Leg,Leguminosae
+25,503,1.0,Myo,Myriophyllum
+25,523,17.0,Nym,Nymphaea
+25,567,111.0,Pin,Pinus
+25,624,16.0,Pot,Potamogeton
+25,654,102.0,Que,Quercus
+25,657,1.0,Que.i-T,Quercus ilex-type
+25,662,1.0,Ranae,Ranunculaceae
+25,687,2.0,Rosae,Rosaceae
+25,694,6.0,Rum,Rumex
+25,712,3.0,Sal,Salix
+25,794,1.0,Spe,Spergula
+25,854,2.0,Umb,Umbelliferae
+25,933,1.0,Fil.ud,Filicopsida undiff.
+25,939,5.0,Iso,Isoetes
+25,960,1.0,Ptd,Pteridium
+25,977,5.0,Ind.conc,Indeterminable: concealed
+25,981,4.0,Ind.ud,Indeterminable: undiff.
+25,1140,1.0,Dicotyle,Dicotyledones
+26,32,2.0,Aln,Alnus
+26,66,1.0,Art,Artemisia
+26,95,19.0,Bet,Betula
+26,124,1.0,Cal.v,Calluna vulgaris
+26,145,1.0,Cas,Castanea
+26,203,1.0,Cm.Sf.C,Compositae subf. Cichorioideae
+26,217,7.0,Cor,Corylus
+26,233,3.0,Cypae,Cyperaceae
+26,286,4.0,Erl,Ericales
+26,315,3.0,Frx,Fraxinus
+26,349,47.0,Graae,Gramineae
+26,401,2.0,Lab,Labiatae
+26,523,17.0,Nym,Nymphaea
+26,559,2.0,Ped,Pedicularis
+26,567,116.0,Pin,Pinus
+26,620,3.0,Pop,Populus
+26,624,25.0,Pot,Potamogeton
+26,654,125.0,Que,Quercus
+26,687,2.0,Rosae,Rosaceae
+26,694,5.0,Rum,Rumex
+26,712,3.0,Sal,Salix
+26,853,1.0,Ulm,Ulmus
+26,879,2.0,Vib,Viburnum
+26,930,3.0,Fil,Filicopsida
+26,939,2.0,Iso,Isoetes
+26,960,2.0,Ptd,Pteridium
+26,981,5.0,Ind.ud,Indeterminable: undiff.
+26,982,5.0,Ind.unkn,Indeterminable: unknown
+27,32,3.0,Aln,Alnus
+27,95,19.0,Bet,Betula
+27,185,1.0,Cheae,Chenopodiaceae
+27,217,14.0,Cor,Corylus
+27,228,2.0,Cru,Cruciferae
+27,233,3.0,Cypae,Cyperaceae
+27,286,4.0,Erl,Ericales
+27,315,8.0,Frx,Fraxinus
+27,349,48.0,Graae,Gramineae
+27,434,2.0,Ltt.u,Littorella uniflora
+27,523,7.0,Nym,Nymphaea
+27,559,1.0,Ped,Pedicularis
+27,567,139.0,Pin,Pinus
+27,620,3.0,Pop,Populus
+27,624,54.0,Pot,Potamogeton
+27,654,139.0,Que,Quercus
+27,657,6.0,Que.i-T,Quercus ilex-type
+27,662,2.0,Ranae,Ranunculaceae
+27,687,2.0,Rosae,Rosaceae
+27,694,2.0,Rum,Rumex
+27,712,7.0,Sal,Salix
+27,853,2.0,Ulm,Ulmus
+27,854,2.0,Umb,Umbelliferae
+27,879,1.0,Vib,Viburnum
+27,939,4.0,Iso,Isoetes
+27,960,3.0,Ptd,Pteridium
+27,981,5.0,Ind.ud,Indeterminable: undiff.
+27,982,3.0,Ind.unkn,Indeterminable: unknown
+28,32,1.0,Aln,Alnus
+28,95,7.0,Bet,Betula
+28,201,1.0,Cm.Sf.A,Compositae subf. Asteroideae
+28,217,5.0,Cor,Corylus
+28,228,1.0,Cru,Cruciferae
+28,233,1.0,Cypae,Cyperaceae
+28,248,1.0,Dipae,Dipsacaceae
+28,286,1.0,Erl,Ericales
+28,315,3.0,Frx,Fraxinus
+28,349,29.0,Graae,Gramineae
+28,523,17.0,Nym,Nymphaea
+28,567,75.0,Pin,Pinus
+28,624,20.0,Pot,Potamogeton
+28,654,97.0,Que,Quercus
+28,657,10.0,Que.i-T,Quercus ilex-type
+28,662,3.0,Ranae,Ranunculaceae
+28,694,3.0,Rum,Rumex
+28,712,2.0,Sal,Salix
+28,853,2.0,Ulm,Ulmus
+28,854,2.0,Umb,Umbelliferae
+28,930,1.0,Fil,Filicopsida
+28,939,6.0,Iso,Isoetes
+28,960,1.0,Ptd,Pteridium
+28,981,3.0,Ind.ud,Indeterminable: undiff.
+28,982,3.0,Ind.unkn,Indeterminable: unknown
+29,1,1.0,Abi,Abies
+29,32,1.0,Aln,Alnus
+29,95,10.0,Bet,Betula
+29,201,3.0,Cm.Sf.A,Compositae subf. Asteroideae
+29,203,1.0,Cm.Sf.C,Compositae subf. Cichorioideae
+29,217,5.0,Cor,Corylus
+29,233,3.0,Cypae,Cyperaceae
+29,286,2.0,Erl,Ericales
+29,315,3.0,Frx,Fraxinus
+29,349,24.0,Graae,Gramineae
+29,401,1.0,Lab,Labiatae
+29,523,14.0,Nym,Nymphaea
+29,567,160.0,Pin,Pinus
+29,590,1.0,Pla.ud,Plantago undiff.
+29,624,18.0,Pot,Potamogeton
+29,654,121.0,Que,Quercus
+29,662,3.0,Ranae,Ranunculaceae
+29,694,8.0,Rum,Rumex
+29,854,3.0,Umb,Umbelliferae
+29,939,4.0,Iso,Isoetes
+29,960,1.0,Ptd,Pteridium
+29,981,5.0,Ind.ud,Indeterminable: undiff.
+29,982,1.0,Ind.unkn,Indeterminable: unknown
+29,1142,1.0,Iso.TA,Isoetes (type A)
+30,32,2.0,Aln,Alnus
+30,62,2.0,Arm.TB,Armeria (type B)
+30,95,17.0,Bet,Betula
+30,124,2.0,Cal.v,Calluna vulgaris
+30,131,1.0,Camae,Campanulaceae
+30,201,1.0,Cm.Sf.A,Compositae subf. Asteroideae
+30,217,6.0,Cor,Corylus
+30,228,2.0,Cru,Cruciferae
+30,233,2.0,Cypae,Cyperaceae
+30,286,6.0,Erl,Ericales
+30,315,5.0,Frx,Fraxinus
+30,349,38.0,Graae,Gramineae
+30,503,1.0,Myo,Myriophyllum
+30,523,23.0,Nym,Nymphaea
+30,567,138.0,Pin,Pinus
+30,624,20.0,Pot,Potamogeton
+30,654,140.0,Que,Quercus
+30,657,10.0,Que.i-T,Quercus ilex-type
+30,662,3.0,Ranae,Ranunculaceae
+30,694,6.0,Rum,Rumex
+30,853,1.0,Ulm,Ulmus
+30,930,1.0,Fil,Filicopsida
+30,939,9.0,Iso,Isoetes
+30,981,4.0,Ind.ud,Indeterminable: undiff.
+30,1142,2.0,Iso.TA,Isoetes (type A)
+31,1,1.0,Abi,Abies
+31,95,16.0,Bet,Betula
+31,124,1.0,Cal.v,Calluna vulgaris
+31,203,1.0,Cm.Sf.C,Compositae subf. Cichorioideae
+31,217,5.0,Cor,Corylus
+31,233,2.0,Cypae,Cyperaceae
+31,286,5.0,Erl,Ericales
+31,312,1.0,Frg,Frangula
+31,315,1.0,Frx,Fraxinus
+31,349,28.0,Graae,Gramineae
+31,523,7.0,Nym,Nymphaea
+31,567,115.0,Pin,Pinus
+31,590,1.0,Pla.ud,Plantago undiff.
+31,624,8.0,Pot,Potamogeton
+31,629,1.0,Pti,Potentilla
+31,654,103.0,Que,Quercus
+31,662,2.0,Ranae,Ranunculaceae
+31,687,2.0,Rosae,Rosaceae
+31,694,4.0,Rum,Rumex
+31,721,1.0,San,Sanguisorba
+31,939,1.0,Iso,Isoetes
+31,981,1.0,Ind.ud,Indeterminable: undiff.
+31,982,2.0,Ind.unkn,Indeterminable: unknown
+32,32,1.0,Aln,Alnus
+32,95,7.0,Bet,Betula
+32,150,1.0,Cen,Centaurea
+32,203,1.0,Cm.Sf.C,Compositae subf. Cichorioideae
+32,217,5.0,Cor,Corylus
+32,233,4.0,Cypae,Cyperaceae
+32,286,4.0,Erl,Ericales
+32,309,1.0,Flp,Filipendula
+32,315,2.0,Frx,Fraxinus
+32,349,19.0,Graae,Gramineae
+32,523,10.0,Nym,Nymphaea
+32,567,138.0,Pin,Pinus
+32,624,5.0,Pot,Potamogeton
+32,654,149.0,Que,Quercus
+32,662,1.0,Ranae,Ranunculaceae
+32,687,2.0,Rosae,Rosaceae
+32,694,4.0,Rum,Rumex
+32,712,1.0,Sal,Salix
+32,854,1.0,Umb,Umbelliferae
+32,939,1.0,Iso,Isoetes
+32,977,2.0,Ind.conc,Indeterminable: concealed
+32,981,3.0,Ind.ud,Indeterminable: undiff.
+32,982,1.0,Ind.unkn,Indeterminable: unknown
+33,32,1.0,Aln,Alnus
+33,95,12.0,Bet,Betula
+33,217,2.0,Cor,Corylus
+33,228,1.0,Cru,Cruciferae
+33,233,2.0,Cypae,Cyperaceae
+33,286,4.0,Erl,Ericales
+33,315,2.0,Frx,Fraxinus
+33,349,39.0,Graae,Gramineae
+33,352,1.0,Hed,Hedera
+33,523,8.0,Nym,Nymphaea
+33,567,118.0,Pin,Pinus
+33,624,30.0,Pot,Potamogeton
+33,654,116.0,Que,Quercus
+33,657,4.0,Que.i-T,Quercus ilex-type
+33,662,5.0,Ranae,Ranunculaceae
+33,687,3.0,Rosae,Rosaceae
+33,694,4.0,Rum,Rumex
+33,712,1.0,Sal,Salix
+33,930,1.0,Fil,Filicopsida
+33,939,10.0,Iso,Isoetes
+33,960,2.0,Ptd,Pteridium
+33,981,5.0,Ind.ud,Indeterminable: undiff.
+33,982,7.0,Ind.unkn,Indeterminable: unknown
+33,1142,2.0,Iso.TA,Isoetes (type A)
+34,32,1.0,Aln,Alnus
+34,95,6.0,Bet,Betula
+34,217,4.0,Cor,Corylus
+34,228,1.0,Cru,Cruciferae
+34,233,1.0,Cypae,Cyperaceae
+34,286,1.0,Erl,Ericales
+34,309,1.0,Flp,Filipendula
+34,315,1.0,Frx,Fraxinus
+34,349,32.0,Graae,Gramineae
+34,523,7.0,Nym,Nymphaea
+34,567,115.0,Pin,Pinus
+34,604,2.0,Pol,Polygonum
+34,624,7.0,Pot,Potamogeton
+34,654,121.0,Que,Quercus
+34,657,3.0,Que.i-T,Quercus ilex-type
+34,687,1.0,Rosae,Rosaceae
+34,712,3.0,Sal,Salix
+34,854,2.0,Umb,Umbelliferae
+34,939,5.0,Iso,Isoetes
+34,960,2.0,Ptd,Pteridium
+34,981,9.0,Ind.ud,Indeterminable: undiff.
+34,982,1.0,Ind.unkn,Indeterminable: unknown
+35,1,1.0,Abi,Abies
+35,32,2.0,Aln,Alnus
+35,66,1.0,Art,Artemisia
+35,95,10.0,Bet,Betula
+35,131,1.0,Camae,Campanulaceae
+35,203,1.0,Cm.Sf.C,Compositae subf. Cichorioideae
+35,217,2.0,Cor,Corylus
+35,233,3.0,Cypae,Cyperaceae
+35,286,2.0,Erl,Ericales
+35,315,1.0,Frx,Fraxinus
+35,349,26.0,Graae,Gramineae
+35,523,6.0,Nym,Nymphaea
+35,567,126.0,Pin,Pinus
+35,624,15.0,Pot,Potamogeton
+35,654,116.0,Que,Quercus
+35,662,1.0,Ranae,Ranunculaceae
+35,694,6.0,Rum,Rumex
+35,712,2.0,Sal,Salix
+35,854,1.0,Umb,Umbelliferae
+35,939,3.0,Iso,Isoetes
+35,960,2.0,Ptd,Pteridium
+35,981,1.0,Ind.ud,Indeterminable: undiff.
+35,982,1.0,Ind.unkn,Indeterminable: unknown
+36,32,1.0,Aln,Alnus
+36,95,17.0,Bet,Betula
+36,217,3.0,Cor,Corylus
+36,233,1.0,Cypae,Cyperaceae
+36,286,5.0,Erl,Ericales
+36,309,1.0,Flp,Filipendula
+36,315,1.0,Frx,Fraxinus
+36,349,23.0,Graae,Gramineae
+36,411,2.0,Leg,Leguminosae
+36,567,102.0,Pin,Pinus
+36,624,4.0,Pot,Potamogeton
+36,629,1.0,Pti,Potentilla
+36,654,142.0,Que,Quercus
+36,657,4.0,Que.i-T,Quercus ilex-type
+36,694,3.0,Rum,Rumex
+36,712,2.0,Sal,Salix
+36,854,3.0,Umb,Umbelliferae
+36,939,24.0,Iso,Isoetes
+36,981,5.0,Ind.ud,Indeterminable: undiff.
+37,66,1.0,Art,Artemisia
+37,95,15.0,Bet,Betula
+37,217,8.0,Cor,Corylus
+37,286,6.0,Erl,Ericales
+37,315,1.0,Frx,Fraxinus
+37,349,32.0,Graae,Gramineae
+37,567,103.0,Pin,Pinus
+37,620,1.0,Pop,Populus
+37,624,23.0,Pot,Potamogeton
+37,654,116.0,Que,Quercus
+37,657,5.0,Que.i-T,Quercus ilex-type
+37,687,13.0,Rosae,Rosaceae
+37,694,1.0,Rum,Rumex
+37,712,3.0,Sal,Salix
+37,853,3.0,Ulm,Ulmus
+37,930,1.0,Fil,Filicopsida
+37,939,28.0,Iso,Isoetes
+37,960,4.0,Ptd,Pteridium
+37,981,8.0,Ind.ud,Indeterminable: undiff.
+37,982,7.0,Ind.unkn,Indeterminable: unknown
+37,1142,1.0,Iso.TA,Isoetes (type A)
+38,32,1.0,Aln,Alnus
+38,95,19.0,Bet,Betula
+38,217,6.0,Cor,Corylus
+38,286,2.0,Erl,Ericales
+38,349,27.0,Graae,Gramineae
+38,567,110.0,Pin,Pinus
+38,624,19.0,Pot,Potamogeton
+38,654,124.0,Que,Quercus
+38,657,13.0,Que.i-T,Quercus ilex-type
+38,694,9.0,Rum,Rumex
+38,712,3.0,Sal,Salix
+38,853,1.0,Ulm,Ulmus
+38,939,16.0,Iso,Isoetes
+38,960,1.0,Ptd,Pteridium
+38,977,6.0,Ind.conc,Indeterminable: concealed
+39,95,13.0,Bet,Betula
+39,217,4.0,Cor,Corylus
+39,233,2.0,Cypae,Cyperaceae
+39,286,3.0,Erl,Ericales
+39,315,9.0,Frx,Fraxinus
+39,349,32.0,Graae,Gramineae
+39,567,103.0,Pin,Pinus
+39,590,2.0,Pla.ud,Plantago undiff.
+39,624,9.0,Pot,Potamogeton
+39,654,135.0,Que,Quercus
+39,657,3.0,Que.i-T,Quercus ilex-type
+39,662,4.0,Ranae,Ranunculaceae
+39,687,3.0,Rosae,Rosaceae
+39,694,3.0,Rum,Rumex
+39,712,7.0,Sal,Salix
+39,939,13.0,Iso,Isoetes
+39,960,2.0,Ptd,Pteridium
+39,981,5.0,Ind.ud,Indeterminable: undiff.
+39,982,5.0,Ind.unkn,Indeterminable: unknown
+40,62,1.0,Arm.TB,Armeria (type B)
+40,66,1.0,Art,Artemisia
+40,95,14.0,Bet,Betula
+40,201,1.0,Cm.Sf.A,Compositae subf. Asteroideae
+40,217,5.0,Cor,Corylus
+40,228,3.0,Cru,Cruciferae
+40,233,3.0,Cypae,Cyperaceae
+40,286,7.0,Erl,Ericales
+40,315,11.0,Frx,Fraxinus
+40,349,66.0,Graae,Gramineae
+40,352,1.0,Hed,Hedera
+40,503,1.0,Myo,Myriophyllum
+40,567,156.0,Pin,Pinus
+40,624,3.0,Pot,Potamogeton
+40,654,78.0,Que,Quercus
+40,657,12.0,Que.i-T,Quercus ilex-type
+40,662,1.0,Ranae,Ranunculaceae
+40,687,1.0,Rosae,Rosaceae
+40,694,14.0,Rum,Rumex
+40,712,3.0,Sal,Salix
+40,729,1.0,Sax,Saxifraga
+40,854,1.0,Umb,Umbelliferae
+40,930,1.0,Fil,Filicopsida
+40,939,42.0,Iso,Isoetes
+40,960,3.0,Ptd,Pteridium
+40,981,5.0,Ind.ud,Indeterminable: undiff.
+40,982,3.0,Ind.unkn,Indeterminable: unknown
+41,95,11.0,Bet,Betula
+41,131,1.0,Camae,Campanulaceae
+41,203,2.0,Cm.Sf.C,Compositae subf. Cichorioideae
+41,217,6.0,Cor,Corylus
+41,228,1.0,Cru,Cruciferae
+41,233,1.0,Cypae,Cyperaceae
+41,286,1.0,Erl,Ericales
+41,315,9.0,Frx,Fraxinus
+41,349,38.0,Graae,Gramineae
+41,567,106.0,Pin,Pinus
+41,620,1.0,Pop,Populus
+41,624,2.0,Pot,Potamogeton
+41,654,135.0,Que,Quercus
+41,657,4.0,Que.i-T,Quercus ilex-type
+41,662,3.0,Ranae,Ranunculaceae
+41,687,2.0,Rosae,Rosaceae
+41,694,6.0,Rum,Rumex
+41,712,2.0,Sal,Salix
+41,854,2.0,Umb,Umbelliferae
+41,939,38.0,Iso,Isoetes
+41,960,1.0,Ptd,Pteridium
+41,981,8.0,Ind.ud,Indeterminable: undiff.
+41,982,2.0,Ind.unkn,Indeterminable: unknown
+41,1142,5.0,Iso.TA,Isoetes (type A)
+42,95,8.0,Bet,Betula
+42,141,1.0,Cphae,Caryophyllaceae
+42,203,1.0,Cm.Sf.C,Compositae subf. Cichorioideae
+42,217,5.0,Cor,Corylus
+42,233,4.0,Cypae,Cyperaceae
+42,286,1.0,Erl,Ericales
+42,315,4.0,Frx,Fraxinus
+42,349,33.0,Graae,Gramineae
+42,401,1.0,Lab,Labiatae
+42,567,98.0,Pin,Pinus
+42,654,132.0,Que,Quercus
+42,662,3.0,Ranae,Ranunculaceae
+42,687,16.0,Rosae,Rosaceae
+42,854,1.0,Umb,Umbelliferae
+42,879,1.0,Vib,Viburnum
+42,939,41.0,Iso,Isoetes
+42,960,1.0,Ptd,Pteridium
+42,981,5.0,Ind.ud,Indeterminable: undiff.
+42,982,1.0,Ind.unkn,Indeterminable: unknown
+42,1142,4.0,Iso.TA,Isoetes (type A)
+43,32,2.0,Aln,Alnus
+43,95,7.0,Bet,Betula
+43,201,3.0,Cm.Sf.A,Compositae subf. Asteroideae
+43,217,4.0,Cor,Corylus
+43,228,2.0,Cru,Cruciferae
+43,233,3.0,Cypae,Cyperaceae
+43,286,8.0,Erl,Ericales
+43,312,1.0,Frg,Frangula
+43,349,44.0,Graae,Gramineae
+43,392,1.0,Jug,Juglans
+43,394,5.0,Jun,Juniperus
+43,411,1.0,Leg,Leguminosae
+43,523,1.0,Nym,Nymphaea
+43,567,164.0,Pin,Pinus
+43,590,2.0,Pla.ud,Plantago undiff.
+43,624,2.0,Pot,Potamogeton
+43,654,198.0,Que,Quercus
+43,657,14.0,Que.i-T,Quercus ilex-type
+43,662,6.0,Ranae,Ranunculaceae
+43,694,7.0,Rum,Rumex
+43,712,1.0,Sal,Salix
+43,879,1.0,Vib,Viburnum
+43,939,80.0,Iso,Isoetes
+43,960,3.0,Ptd,Pteridium
+43,977,1.0,Ind.conc,Indeterminable: concealed
+43,981,10.0,Ind.ud,Indeterminable: undiff.
+43,982,1.0,Ind.unkn,Indeterminable: unknown
+43,1142,6.0,Iso.TA,Isoetes (type A)
+44,95,10.0,Bet,Betula
+44,203,3.0,Cm.Sf.C,Compositae subf. Cichorioideae
+44,217,3.0,Cor,Corylus
+44,233,2.0,Cypae,Cyperaceae
+44,349,26.0,Graae,Gramineae
+44,411,1.0,Leg,Leguminosae
+44,567,84.0,Pin,Pinus
+44,590,1.0,Pla.ud,Plantago undiff.
+44,654,155.0,Que,Quercus
+44,657,1.0,Que.i-T,Quercus ilex-type
+44,662,3.0,Ranae,Ranunculaceae
+44,687,2.0,Rosae,Rosaceae
+44,694,5.0,Rum,Rumex
+44,712,1.0,Sal,Salix
+44,854,1.0,Umb,Umbelliferae
+44,939,41.0,Iso,Isoetes
+44,960,1.0,Ptd,Pteridium
+44,977,1.0,Ind.conc,Indeterminable: concealed
+44,981,3.0,Ind.ud,Indeterminable: undiff.
+44,1142,4.0,Iso.TA,Isoetes (type A)
+45,95,5.0,Bet,Betula
+45,203,2.0,Cm.Sf.C,Compositae subf. Cichorioideae
+45,217,2.0,Cor,Corylus
+45,228,1.0,Cru,Cruciferae
+45,233,5.0,Cypae,Cyperaceae
+45,286,2.0,Erl,Ericales
+45,315,5.0,Frx,Fraxinus
+45,349,23.0,Graae,Gramineae
+45,411,1.0,Leg,Leguminosae
+45,567,90.0,Pin,Pinus
+45,620,1.0,Pop,Populus
+45,654,118.0,Que,Quercus
+45,657,5.0,Que.i-T,Quercus ilex-type
+45,662,3.0,Ranae,Ranunculaceae
+45,687,4.0,Rosae,Rosaceae
+45,689,1.0,Rubae,Rubiaceae
+45,712,1.0,Sal,Salix
+45,854,1.0,Umb,Umbelliferae
+45,939,59.0,Iso,Isoetes
+45,977,3.0,Ind.conc,Indeterminable: concealed
+45,981,4.0,Ind.ud,Indeterminable: undiff.
+46,95,9.0,Bet,Betula
+46,124,5.0,Cal.v,Calluna vulgaris
+46,217,1.0,Cor,Corylus
+46,286,2.0,Erl,Ericales
+46,315,4.0,Frx,Fraxinus
+46,349,19.0,Graae,Gramineae
+46,411,1.0,Leg,Leguminosae
+46,567,67.0,Pin,Pinus
+46,624,5.0,Pot,Potamogeton
+46,654,89.0,Que,Quercus
+46,657,1.0,Que.i-T,Quercus ilex-type
+46,662,1.0,Ranae,Ranunculaceae
+46,687,1.0,Rosae,Rosaceae
+46,694,3.0,Rum,Rumex
+46,712,2.0,Sal,Salix
+46,854,1.0,Umb,Umbelliferae
+46,939,14.0,Iso,Isoetes
+46,977,2.0,Ind.conc,Indeterminable: concealed
+46,981,1.0,Ind.ud,Indeterminable: undiff.
+46,982,1.0,Ind.unkn,Indeterminable: unknown
+47,32,1.0,Aln,Alnus
+47,95,12.0,Bet,Betula
+47,217,1.0,Cor,Corylus
+47,233,2.0,Cypae,Cyperaceae
+47,286,4.0,Erl,Ericales
+47,315,3.0,Frx,Fraxinus
+47,349,46.0,Graae,Gramineae
+47,567,100.0,Pin,Pinus
+47,624,6.0,Pot,Potamogeton
+47,654,136.0,Que,Quercus
+47,657,4.0,Que.i-T,Quercus ilex-type
+47,662,6.0,Ranae,Ranunculaceae
+47,689,1.0,Rubae,Rubiaceae
+47,694,7.0,Rum,Rumex
+47,712,1.0,Sal,Salix
+47,854,1.0,Umb,Umbelliferae
+47,939,31.0,Iso,Isoetes
+47,960,2.0,Ptd,Pteridium
+47,981,2.0,Ind.ud,Indeterminable: undiff.
+47,1142,6.0,Iso.TA,Isoetes (type A)
+48,32,1.0,Aln,Alnus
+48,66,1.0,Art,Artemisia
+48,95,6.0,Bet,Betula
+48,217,1.0,Cor,Corylus
+48,228,2.0,Cru,Cruciferae
+48,233,2.0,Cypae,Cyperaceae
+48,315,2.0,Frx,Fraxinus
+48,349,42.0,Graae,Gramineae
+48,352,1.0,Hed,Hedera
+48,394,3.0,Jun,Juniperus
+48,567,112.0,Pin,Pinus
+48,590,1.0,Pla.ud,Plantago undiff.
+48,624,2.0,Pot,Potamogeton
+48,641,1.0,Pru,Prunella
+48,654,135.0,Que,Quercus
+48,657,15.0,Que.i-T,Quercus ilex-type
+48,662,6.0,Ranae,Ranunculaceae
+48,687,2.0,Rosae,Rosaceae
+48,694,9.0,Rum,Rumex
+48,854,1.0,Umb,Umbelliferae
+48,939,68.0,Iso,Isoetes
+48,960,1.0,Ptd,Pteridium
+48,981,8.0,Ind.ud,Indeterminable: undiff.
+48,982,8.0,Ind.unkn,Indeterminable: unknown
+49,95,15.0,Bet,Betula
+49,141,1.0,Cphae,Caryophyllaceae
+49,201,3.0,Cm.Sf.A,Compositae subf. Asteroideae
+49,217,3.0,Cor,Corylus
+49,228,1.0,Cru,Cruciferae
+49,233,3.0,Cypae,Cyperaceae
+49,286,1.0,Erl,Ericales
+49,315,6.0,Frx,Fraxinus
+49,349,50.0,Graae,Gramineae
+49,394,2.0,Jun,Juniperus
+49,411,1.0,Leg,Leguminosae
+49,523,1.0,Nym,Nymphaea
+49,567,55.0,Pin,Pinus
+49,624,5.0,Pot,Potamogeton
+49,654,199.0,Que,Quercus
+49,657,7.0,Que.i-T,Quercus ilex-type
+49,662,1.0,Ranae,Ranunculaceae
+49,677,2.0,Rhi,Rhinanthus
+49,694,11.0,Rum,Rumex
+49,712,5.0,Sal,Salix
+49,854,1.0,Umb,Umbelliferae
+49,930,5.0,Fil,Filicopsida
+49,939,105.0,Iso,Isoetes
+49,960,1.0,Ptd,Pteridium
+49,981,2.0,Ind.ud,Indeterminable: undiff.
+49,982,5.0,Ind.unkn,Indeterminable: unknown
+50,95,14.0,Bet,Betula
+50,131,2.0,Camae,Campanulaceae
+50,217,5.0,Cor,Corylus
+50,228,1.0,Cru,Cruciferae
+50,233,7.0,Cypae,Cyperaceae
+50,286,1.0,Erl,Ericales
+50,315,2.0,Frx,Fraxinus
+50,324,1.0,Gal,Galium
+50,349,51.0,Graae,Gramineae
+50,394,2.0,Jun,Juniperus
+50,567,99.0,Pin,Pinus
+50,624,13.0,Pot,Potamogeton
+50,654,141.0,Que,Quercus
+50,657,20.0,Que.i-T,Quercus ilex-type
+50,662,18.0,Ranae,Ranunculaceae
+50,687,1.0,Rosae,Rosaceae
+50,854,2.0,Umb,Umbelliferae
+50,930,1.0,Fil,Filicopsida
+50,939,87.0,Iso,Isoetes
+50,960,6.0,Ptd,Pteridium
+50,981,8.0,Ind.ud,Indeterminable: undiff.
+50,982,5.0,Ind.unkn,Indeterminable: unknown
+51,32,1.0,Aln,Alnus
+51,66,1.0,Art,Artemisia
+51,95,8.0,Bet,Betula
+51,201,1.0,Cm.Sf.A,Compositae subf. Asteroideae
+51,217,2.0,Cor,Corylus
+51,286,5.0,Erl,Ericales
+51,309,1.0,Flp,Filipendula
+51,312,1.0,Frg,Frangula
+51,315,6.0,Frx,Fraxinus
+51,349,23.0,Graae,Gramineae
+51,567,103.0,Pin,Pinus
+51,654,125.0,Que,Quercus
+51,657,10.0,Que.i-T,Quercus ilex-type
+51,662,4.0,Ranae,Ranunculaceae
+51,687,1.0,Rosae,Rosaceae
+51,694,2.0,Rum,Rumex
+51,930,1.0,Fil,Filicopsida
+51,939,27.0,Iso,Isoetes
+51,960,3.0,Ptd,Pteridium
+51,977,1.0,Ind.conc,Indeterminable: concealed
+51,981,1.0,Ind.ud,Indeterminable: undiff.
+51,982,3.0,Ind.unkn,Indeterminable: unknown
+51,1142,2.0,Iso.TA,Isoetes (type A)
+51,1163,2.0,Canae,Cannabaceae
+52,95,14.0,Bet,Betula
+52,203,2.0,Cm.Sf.C,Compositae subf. Cichorioideae
+52,217,2.0,Cor,Corylus
+52,233,3.0,Cypae,Cyperaceae
+52,286,2.0,Erl,Ericales
+52,315,4.0,Frx,Fraxinus
+52,349,44.0,Graae,Gramineae
+52,401,2.0,Lab,Labiatae
+52,567,81.0,Pin,Pinus
+52,654,114.0,Que,Quercus
+52,657,7.0,Que.i-T,Quercus ilex-type
+52,662,1.0,Ranae,Ranunculaceae
+52,687,1.0,Rosae,Rosaceae
+52,694,4.0,Rum,Rumex
+52,712,1.0,Sal,Salix
+52,854,1.0,Umb,Umbelliferae
+52,939,31.0,Iso,Isoetes
+52,960,1.0,Ptd,Pteridium
+52,977,2.0,Ind.conc,Indeterminable: concealed
+52,981,4.0,Ind.ud,Indeterminable: undiff.
+52,982,2.0,Ind.unkn,Indeterminable: unknown
+52,1142,7.0,Iso.TA,Isoetes (type A)
+53,32,2.0,Aln,Alnus
+53,66,1.0,Art,Artemisia
+53,95,6.0,Bet,Betula
+53,131,2.0,Camae,Campanulaceae
+53,185,1.0,Cheae,Chenopodiaceae
+53,201,2.0,Cm.Sf.A,Compositae subf. Asteroideae
+53,217,6.0,Cor,Corylus
+53,233,3.0,Cypae,Cyperaceae
+53,286,5.0,Erl,Ericales
+53,315,8.0,Frx,Fraxinus
+53,349,22.0,Graae,Gramineae
+53,394,3.0,Jun,Juniperus
+53,523,1.0,Nym,Nymphaea
+53,559,1.0,Ped,Pedicularis
+53,567,62.0,Pin,Pinus
+53,590,6.0,Pla.ud,Plantago undiff.
+53,620,4.0,Pop,Populus
+53,624,5.0,Pot,Potamogeton
+53,629,4.0,Pti,Potentilla
+53,654,147.0,Que,Quercus
+53,657,21.0,Que.i-T,Quercus ilex-type
+53,662,3.0,Ranae,Ranunculaceae
+53,694,10.0,Rum,Rumex
+53,712,3.0,Sal,Salix
+53,861,1.0,Urt,Urtica
+53,939,56.0,Iso,Isoetes
+53,960,2.0,Ptd,Pteridium
+53,981,2.0,Ind.ud,Indeterminable: undiff.
+53,982,2.0,Ind.unkn,Indeterminable: unknown
+53,987,2.0,Sph,Sphagnum
+53,1142,15.0,Iso.TA,Isoetes (type A)
+54,95,12.0,Bet,Betula
+54,141,1.0,Cphae,Caryophyllaceae
+54,203,1.0,Cm.Sf.C,Compositae subf. Cichorioideae
+54,217,3.0,Cor,Corylus
+54,233,5.0,Cypae,Cyperaceae
+54,286,1.0,Erl,Ericales
+54,315,2.0,Frx,Fraxinus
+54,349,27.0,Graae,Gramineae
+54,567,60.0,Pin,Pinus
+54,654,173.0,Que,Quercus
+54,657,3.0,Que.i-T,Quercus ilex-type
+54,662,3.0,Ranae,Ranunculaceae
+54,687,2.0,Rosae,Rosaceae
+54,694,4.0,Rum,Rumex
+54,933,1.0,Fil.ud,Filicopsida undiff.
+54,939,26.0,Iso,Isoetes
+54,977,12.0,Ind.conc,Indeterminable: concealed
+54,981,9.0,Ind.ud,Indeterminable: undiff.
+54,982,3.0,Ind.unkn,Indeterminable: unknown
+54,1142,6.0,Iso.TA,Isoetes (type A)
+55,32,1.0,Aln,Alnus
+55,95,15.0,Bet,Betula
+55,131,1.0,Camae,Campanulaceae
+55,217,3.0,Cor,Corylus
+55,228,3.0,Cru,Cruciferae
+55,233,7.0,Cypae,Cyperaceae
+55,286,1.0,Erl,Ericales
+55,315,7.0,Frx,Fraxinus
+55,349,41.0,Graae,Gramineae
+55,394,3.0,Jun,Juniperus
+55,567,73.0,Pin,Pinus
+55,624,3.0,Pot,Potamogeton
+55,629,1.0,Pti,Potentilla
+55,654,131.0,Que,Quercus
+55,657,5.0,Que.i-T,Quercus ilex-type
+55,662,13.0,Ranae,Ranunculaceae
+55,687,4.0,Rosae,Rosaceae
+55,694,6.0,Rum,Rumex
+55,712,1.0,Sal,Salix
+55,939,34.0,Iso,Isoetes
+55,960,3.0,Ptd,Pteridium
+55,981,9.0,Ind.ud,Indeterminable: undiff.
+55,982,2.0,Ind.unkn,Indeterminable: unknown
+56,66,2.0,Art,Artemisia
+56,95,8.0,Bet,Betula
+56,124,1.0,Cal.v,Calluna vulgaris
+56,217,3.0,Cor,Corylus
+56,228,1.0,Cru,Cruciferae
+56,233,18.0,Cypae,Cyperaceae
+56,286,4.0,Erl,Ericales
+56,315,11.0,Frx,Fraxinus
+56,349,50.0,Graae,Gramineae
+56,394,3.0,Jun,Juniperus
+56,564,1.0,Pic,Picea
+56,567,65.0,Pin,Pinus
+56,590,1.0,Pla.ud,Plantago undiff.
+56,624,7.0,Pot,Potamogeton
+56,654,80.0,Que,Quercus
+56,657,8.0,Que.i-T,Quercus ilex-type
+56,662,2.0,Ranae,Ranunculaceae
+56,694,7.0,Rum,Rumex
+56,712,1.0,Sal,Salix
+56,854,2.0,Umb,Umbelliferae
+56,930,2.0,Fil,Filicopsida
+56,939,54.0,Iso,Isoetes
+56,960,2.0,Ptd,Pteridium
+56,977,2.0,Ind.conc,Indeterminable: concealed
+56,981,4.0,Ind.ud,Indeterminable: undiff.
+56,982,3.0,Ind.unkn,Indeterminable: unknown
+56,1142,4.0,Iso.TA,Isoetes (type A)
+57,19,1.0,Alc,Alchemilla
+57,32,1.0,Aln,Alnus
+57,66,2.0,Art,Artemisia
+57,95,12.0,Bet,Betula
+57,131,1.0,Camae,Campanulaceae
+57,201,1.0,Cm.Sf.A,Compositae subf. Asteroideae
+57,217,3.0,Cor,Corylus
+57,233,3.0,Cypae,Cyperaceae
+57,272,1.0,Eph,Ephedra
+57,286,4.0,Erl,Ericales
+57,304,1.0,Fag,Fagus
+57,315,4.0,Frx,Fraxinus
+57,349,43.0,Graae,Gramineae
+57,352,1.0,Hed,Hedera
+57,394,2.0,Jun,Juniperus
+57,523,1.0,Nym,Nymphaea
+57,567,67.0,Pin,Pinus
+57,590,2.0,Pla.ud,Plantago undiff.
+57,654,181.0,Que,Quercus
+57,657,6.0,Que.i-T,Quercus ilex-type
+57,662,2.0,Ranae,Ranunculaceae
+57,687,2.0,Rosae,Rosaceae
+57,694,10.0,Rum,Rumex
+57,712,2.0,Sal,Salix
+57,854,2.0,Umb,Umbelliferae
+57,861,1.0,Urt,Urtica
+57,930,1.0,Fil,Filicopsida
+57,939,68.0,Iso,Isoetes
+57,960,2.0,Ptd,Pteridium
+57,981,2.0,Ind.ud,Indeterminable: undiff.
+57,982,2.0,Ind.unkn,Indeterminable: unknown
+57,987,2.0,Sph,Sphagnum
+57,1142,10.0,Iso.TA,Isoetes (type A)
+58,1,1.0,Abi,Abies
+58,66,1.0,Art,Artemisia
+58,95,6.0,Bet,Betula
+58,131,1.0,Camae,Campanulaceae
+58,141,1.0,Cphae,Caryophyllaceae
+58,150,1.0,Cen,Centaurea
+58,185,1.0,Cheae,Chenopodiaceae
+58,217,3.0,Cor,Corylus
+58,233,2.0,Cypae,Cyperaceae
+58,286,6.0,Erl,Ericales
+58,315,5.0,Frx,Fraxinus
+58,349,36.0,Graae,Gramineae
+58,365,1.0,Hpp,Hippophae
+58,394,3.0,Jun,Juniperus
+58,564,1.0,Pic,Picea
+58,567,42.0,Pin,Pinus
+58,590,2.0,Pla.ud,Plantago undiff.
+58,620,2.0,Pop,Populus
+58,624,1.0,Pot,Potamogeton
+58,641,3.0,Pru,Prunella
+58,654,128.0,Que,Quercus
+58,657,7.0,Que.i-T,Quercus ilex-type
+58,662,4.0,Ranae,Ranunculaceae
+58,689,2.0,Rubae,Rubiaceae
+58,694,3.0,Rum,Rumex
+58,712,2.0,Sal,Salix
+58,853,1.0,Ulm,Ulmus
+58,939,20.0,Iso,Isoetes
+58,977,5.0,Ind.conc,Indeterminable: concealed
+58,981,5.0,Ind.ud,Indeterminable: undiff.
+58,982,4.0,Ind.unkn,Indeterminable: unknown
+58,1142,11.0,Iso.TA,Isoetes (type A)
+59,32,1.0,Aln,Alnus
+59,66,1.0,Art,Artemisia
+59,95,12.0,Bet,Betula
+59,210,1.0,Crn,Cornus
+59,286,1.0,Erl,Ericales
+59,315,5.0,Frx,Fraxinus
+59,349,35.0,Graae,Gramineae
+59,411,3.0,Leg,Leguminosae
+59,503,2.0,Myo,Myriophyllum
+59,567,50.0,Pin,Pinus
+59,604,1.0,Pol,Polygonum
+59,620,4.0,Pop,Populus
+59,624,1.0,Pot,Potamogeton
+59,654,182.0,Que,Quercus
+59,657,3.0,Que.i-T,Quercus ilex-type
+59,662,3.0,Ranae,Ranunculaceae
+59,687,3.0,Rosae,Rosaceae
+59,694,8.0,Rum,Rumex
+59,712,3.0,Sal,Salix
+59,933,1.0,Fil.ud,Filicopsida undiff.
+59,939,15.0,Iso,Isoetes
+59,977,1.0,Ind.conc,Indeterminable: concealed
+59,981,18.0,Ind.ud,Indeterminable: undiff.
+59,982,2.0,Ind.unkn,Indeterminable: unknown
+59,1142,3.0,Iso.TA,Isoetes (type A)
+59,1153,1.0,Ane,Anemone
+60,32,1.0,Aln,Alnus
+60,95,10.0,Bet,Betula
+60,141,1.0,Cphae,Caryophyllaceae
+60,201,1.0,Cm.Sf.A,Compositae subf. Asteroideae
+60,233,7.0,Cypae,Cyperaceae
+60,286,2.0,Erl,Ericales
+60,309,4.0,Flp,Filipendula
+60,315,4.0,Frx,Fraxinus
+60,349,50.0,Graae,Gramineae
+60,503,3.0,Myo,Myriophyllum
+60,567,46.0,Pin,Pinus
+60,624,2.0,Pot,Potamogeton
+60,654,148.0,Que,Quercus
+60,657,2.0,Que.i-T,Quercus ilex-type
+60,662,3.0,Ranae,Ranunculaceae
+60,694,6.0,Rum,Rumex
+60,712,4.0,Sal,Salix
+60,881,1.0,Vic,Vicia
+60,930,1.0,Fil,Filicopsida
+60,939,82.0,Iso,Isoetes
+60,960,1.0,Ptd,Pteridium
+60,977,3.0,Ind.conc,Indeterminable: concealed
+60,981,12.0,Ind.ud,Indeterminable: undiff.
+60,982,1.0,Ind.unkn,Indeterminable: unknown
+60,1142,3.0,Iso.TA,Isoetes (type A)
+61,1,1.0,Abi,Abies
+61,66,1.0,Art,Artemisia
+61,95,16.0,Bet,Betula
+61,185,1.0,Cheae,Chenopodiaceae
+61,217,5.0,Cor,Corylus
+61,233,1.0,Cypae,Cyperaceae
+61,286,1.0,Erl,Ericales
+61,289,1.0,Erc,Eriocaulon
+61,309,1.0,Flp,Filipendula
+61,315,12.0,Frx,Fraxinus
+61,349,37.0,Graae,Gramineae
+61,379,1.0,Hyp,Hypericum
+61,394,3.0,Jun,Juniperus
+61,401,1.0,Lab,Labiatae
+61,564,1.0,Pic,Picea
+61,567,40.0,Pin,Pinus
+61,590,1.0,Pla.ud,Plantago undiff.
+61,620,1.0,Pop,Populus
+61,624,1.0,Pot,Potamogeton
+61,629,1.0,Pti,Potentilla
+61,654,117.0,Que,Quercus
+61,657,2.0,Que.i-T,Quercus ilex-type
+61,662,5.0,Ranae,Ranunculaceae
+61,687,1.0,Rosae,Rosaceae
+61,694,12.0,Rum,Rumex
+61,712,5.0,Sal,Salix
+61,854,1.0,Umb,Umbelliferae
+61,939,35.0,Iso,Isoetes
+61,960,2.0,Ptd,Pteridium
+61,977,1.0,Ind.conc,Indeterminable: concealed
+61,981,8.0,Ind.ud,Indeterminable: undiff.
+61,982,7.0,Ind.unkn,Indeterminable: unknown
+61,1142,3.0,Iso.TA,Isoetes (type A)
+62,66,1.0,Art,Artemisia
+62,95,16.0,Bet,Betula
+62,124,1.0,Cal.v,Calluna vulgaris
+62,131,1.0,Camae,Campanulaceae
+62,201,3.0,Cm.Sf.A,Compositae subf. Asteroideae
+62,217,1.0,Cor,Corylus
+62,228,1.0,Cru,Cruciferae
+62,233,1.0,Cypae,Cyperaceae
+62,286,1.0,Erl,Ericales
+62,304,1.0,Fag,Fagus
+62,309,2.0,Flp,Filipendula
+62,315,7.0,Frx,Fraxinus
+62,349,40.0,Graae,Gramineae
+62,411,4.0,Leg,Leguminosae
+62,567,75.0,Pin,Pinus
+62,620,1.0,Pop,Populus
+62,624,2.0,Pot,Potamogeton
+62,654,145.0,Que,Quercus
+62,657,3.0,Que.i-T,Quercus ilex-type
+62,662,2.0,Ranae,Ranunculaceae
+62,687,1.0,Rosae,Rosaceae
+62,689,1.0,Rubae,Rubiaceae
+62,694,2.0,Rum,Rumex
+62,712,9.0,Sal,Salix
+62,854,2.0,Umb,Umbelliferae
+62,939,59.0,Iso,Isoetes
+62,977,12.0,Ind.conc,Indeterminable: concealed
+62,981,15.0,Ind.ud,Indeterminable: undiff.
+62,982,2.0,Ind.unkn,Indeterminable: unknown
+62,1142,8.0,Iso.TA,Isoetes (type A)
+63,95,13.0,Bet,Betula
+63,131,3.0,Camae,Campanulaceae
+63,217,2.0,Cor,Corylus
+63,228,1.0,Cru,Cruciferae
+63,309,1.0,Flp,Filipendula
+63,315,8.0,Frx,Fraxinus
+63,349,46.0,Graae,Gramineae
+63,411,1.0,Leg,Leguminosae
+63,564,2.0,Pic,Picea
+63,567,60.0,Pin,Pinus
+63,590,1.0,Pla.ud,Plantago undiff.
+63,654,115.0,Que,Quercus
+63,657,4.0,Que.i-T,Quercus ilex-type
+63,662,4.0,Ranae,Ranunculaceae
+63,687,1.0,Rosae,Rosaceae
+63,694,10.0,Rum,Rumex
+63,712,5.0,Sal,Salix
+63,854,1.0,Umb,Umbelliferae
+63,933,1.0,Fil.ud,Filicopsida undiff.
+63,939,28.0,Iso,Isoetes
+63,977,3.0,Ind.conc,Indeterminable: concealed
+63,981,9.0,Ind.ud,Indeterminable: undiff.
+63,982,2.0,Ind.unkn,Indeterminable: unknown
+63,987,1.0,Sph,Sphagnum
+63,1142,10.0,Iso.TA,Isoetes (type A)
+64,1,2.0,Abi,Abies
+64,66,1.0,Art,Artemisia
+64,95,10.0,Bet,Betula
+64,145,1.0,Cas,Castanea
+64,217,1.0,Cor,Corylus
+64,233,4.0,Cypae,Cyperaceae
+64,349,39.0,Graae,Gramineae
+64,394,1.0,Jun,Juniperus
+64,567,74.0,Pin,Pinus
+64,620,1.0,Pop,Populus
+64,624,3.0,Pot,Potamogeton
+64,654,136.0,Que,Quercus
+64,657,4.0,Que.i-T,Quercus ilex-type
+64,662,5.0,Ranae,Ranunculaceae
+64,694,9.0,Rum,Rumex
+64,712,6.0,Sal,Salix
+64,854,2.0,Umb,Umbelliferae
+64,930,3.0,Fil,Filicopsida
+64,939,45.0,Iso,Isoetes
+64,982,4.0,Ind.unkn,Indeterminable: unknown
+64,1142,16.0,Iso.TA,Isoetes (type A)
+65,66,3.0,Art,Artemisia
+65,95,22.0,Bet,Betula
+65,201,1.0,Cm.Sf.A,Compositae subf. Asteroideae
+65,217,2.0,Cor,Corylus
+65,233,4.0,Cypae,Cyperaceae
+65,286,1.0,Erl,Ericales
+65,315,1.0,Frx,Fraxinus
+65,349,64.0,Graae,Gramineae
+65,567,51.0,Pin,Pinus
+65,624,4.0,Pot,Potamogeton
+65,654,127.0,Que,Quercus
+65,662,1.0,Ranae,Ranunculaceae
+65,694,11.0,Rum,Rumex
+65,712,4.0,Sal,Salix
+65,854,2.0,Umb,Umbelliferae
+65,879,1.0,Vib,Viburnum
+65,939,46.0,Iso,Isoetes
+65,960,2.0,Ptd,Pteridium
+65,981,6.0,Ind.ud,Indeterminable: undiff.
+65,982,1.0,Ind.unkn,Indeterminable: unknown
+65,1142,10.0,Iso.TA,Isoetes (type A)
+66,62,1.0,Arm.TB,Armeria (type B)
+66,66,1.0,Art,Artemisia
+66,95,31.0,Bet,Betula
+66,185,1.0,Cheae,Chenopodiaceae
+66,201,3.0,Cm.Sf.A,Compositae subf. Asteroideae
+66,217,3.0,Cor,Corylus
+66,349,56.0,Graae,Gramineae
+66,394,5.0,Jun,Juniperus
+66,411,5.0,Leg,Leguminosae
+66,567,56.0,Pin,Pinus
+66,590,2.0,Pla.ud,Plantago undiff.
+66,654,129.0,Que,Quercus
+66,662,5.0,Ranae,Ranunculaceae
+66,687,5.0,Rosae,Rosaceae
+66,694,11.0,Rum,Rumex
+66,712,5.0,Sal,Salix
+66,854,1.0,Umb,Umbelliferae
+66,930,5.0,Fil,Filicopsida
+66,939,89.0,Iso,Isoetes
+66,981,1.0,Ind.ud,Indeterminable: undiff.
+66,982,3.0,Ind.unkn,Indeterminable: unknown
+67,66,1.0,Art,Artemisia
+67,95,41.0,Bet,Betula
+67,150,1.0,Cen,Centaurea
+67,185,1.0,Cheae,Chenopodiaceae
+67,201,1.0,Cm.Sf.A,Compositae subf. Asteroideae
+67,217,2.0,Cor,Corylus
+67,309,1.0,Flp,Filipendula
+67,349,42.0,Graae,Gramineae
+67,394,1.0,Jun,Juniperus
+67,401,1.0,Lab,Labiatae
+67,411,1.0,Leg,Leguminosae
+67,503,2.0,Myo,Myriophyllum
+67,567,120.0,Pin,Pinus
+67,654,74.0,Que,Quercus
+67,657,1.0,Que.i-T,Quercus ilex-type
+67,662,3.0,Ranae,Ranunculaceae
+67,694,14.0,Rum,Rumex
+67,712,1.0,Sal,Salix
+67,854,2.0,Umb,Umbelliferae
+67,933,2.0,Fil.ud,Filicopsida undiff.
+67,939,2.0,Iso,Isoetes
+67,977,3.0,Ind.conc,Indeterminable: concealed
+67,981,8.0,Ind.ud,Indeterminable: undiff.
+67,982,3.0,Ind.unkn,Indeterminable: unknown
+67,1142,8.0,Iso.TA,Isoetes (type A)
+68,66,6.0,Art,Artemisia
+68,95,63.0,Bet,Betula
+68,141,1.0,Cphae,Caryophyllaceae
+68,185,1.0,Cheae,Chenopodiaceae
+68,217,6.0,Cor,Corylus
+68,278,1.0,Epl,Epilobium
+68,309,1.0,Flp,Filipendula
+68,349,37.0,Graae,Gramineae
+68,352,1.0,Hed,Hedera
+68,355,1.0,Hel,Helianthemum
+68,394,2.0,Jun,Juniperus
+68,503,2.0,Myo,Myriophyllum
+68,567,203.0,Pin,Pinus
+68,590,3.0,Pla.ud,Plantago undiff.
+68,624,1.0,Pot,Potamogeton
+68,654,9.0,Que,Quercus
+68,657,5.0,Que.i-T,Quercus ilex-type
+68,662,3.0,Ranae,Ranunculaceae
+68,694,9.0,Rum,Rumex
+68,854,3.0,Umb,Umbelliferae
+68,939,64.0,Iso,Isoetes
+68,960,3.0,Ptd,Pteridium
+68,977,2.0,Ind.conc,Indeterminable: concealed
+68,981,14.0,Ind.ud,Indeterminable: undiff.
+68,1142,7.0,Iso.TA,Isoetes (type A)
+69,66,7.0,Art,Artemisia
+69,95,84.0,Bet,Betula
+69,124,1.0,Cal.v,Calluna vulgaris
+69,185,4.0,Cheae,Chenopodiaceae
+69,201,7.0,Cm.Sf.A,Compositae subf. Asteroideae
+69,217,5.0,Cor,Corylus
+69,233,2.0,Cypae,Cyperaceae
+69,286,2.0,Erl,Ericales
+69,349,31.0,Graae,Gramineae
+69,355,1.0,Hel,Helianthemum
+69,394,5.0,Jun,Juniperus
+69,503,1.0,Myo,Myriophyllum
+69,527,1.0,Nys,Nyssa
+69,541,2.0,Ost,Ostrya
+69,567,183.0,Pin,Pinus
+69,654,14.0,Que,Quercus
+69,662,3.0,Ranae,Ranunculaceae
+69,687,2.0,Rosae,Rosaceae
+69,694,8.0,Rum,Rumex
+69,712,1.0,Sal,Salix
+69,854,2.0,Umb,Umbelliferae
+69,861,1.0,Urt,Urtica
+69,930,2.0,Fil,Filicopsida
+69,939,64.0,Iso,Isoetes
+69,977,2.0,Ind.conc,Indeterminable: concealed
+69,981,6.0,Ind.ud,Indeterminable: undiff.
+69,1142,5.0,Iso.TA,Isoetes (type A)
+70,61,2.0,Arm.TA,Armeria (type A)
+70,66,6.0,Art,Artemisia
+70,95,96.0,Bet,Betula
+70,131,1.0,Camae,Campanulaceae
+70,185,1.0,Cheae,Chenopodiaceae
+70,201,3.0,Cm.Sf.A,Compositae subf. Asteroideae
+70,217,9.0,Cor,Corylus
+70,278,1.0,Epl,Epilobium
+70,286,4.0,Erl,Ericales
+70,309,1.0,Flp,Filipendula
+70,312,3.0,Frg,Frangula
+70,349,55.0,Graae,Gramineae
+70,394,1.0,Jun,Juniperus
+70,480,1.0,Mel,Melampyrum
+70,567,99.0,Pin,Pinus
+70,590,2.0,Pla.ud,Plantago undiff.
+70,654,8.0,Que,Quercus
+70,662,2.0,Ranae,Ranunculaceae
+70,687,1.0,Rosae,Rosaceae
+70,689,3.0,Rubae,Rubiaceae
+70,694,16.0,Rum,Rumex
+70,794,1.0,Spe,Spergula
+70,854,3.0,Umb,Umbelliferae
+70,879,2.0,Vib,Viburnum
+70,939,256.0,Iso,Isoetes
+70,977,6.0,Ind.conc,Indeterminable: concealed
+70,981,5.0,Ind.ud,Indeterminable: undiff.
+70,982,2.0,Ind.unkn,Indeterminable: unknown
+70,1142,18.0,Iso.TA,Isoetes (type A)
+71,66,10.0,Art,Artemisia
+71,95,128.0,Bet,Betula
+71,124,5.0,Cal.v,Calluna vulgaris
+71,141,1.0,Cphae,Caryophyllaceae
+71,185,3.0,Cheae,Chenopodiaceae
+71,201,2.0,Cm.Sf.A,Compositae subf. Asteroideae
+71,203,1.0,Cm.Sf.C,Compositae subf. Cichorioideae
+71,217,3.0,Cor,Corylus
+71,349,22.0,Graae,Gramineae
+71,401,3.0,Lab,Labiatae
+71,559,1.0,Ped,Pedicularis
+71,567,85.0,Pin,Pinus
+71,590,1.0,Pla.ud,Plantago undiff.
+71,654,3.0,Que,Quercus
+71,657,5.0,Que.i-T,Quercus ilex-type
+71,694,5.0,Rum,Rumex
+71,939,86.0,Iso,Isoetes
+71,977,2.0,Ind.conc,Indeterminable: concealed
+71,1142,9.0,Iso.TA,Isoetes (type A)
+72,66,7.0,Art,Artemisia
+72,95,125.0,Bet,Betula
+72,185,3.0,Cheae,Chenopodiaceae
+72,201,1.0,Cm.Sf.A,Compositae subf. Asteroideae
+72,217,3.0,Cor,Corylus
+72,309,4.0,Flp,Filipendula
+72,349,41.0,Graae,Gramineae
+72,394,4.0,Jun,Juniperus
+72,480,1.0,Mel,Melampyrum
+72,567,86.0,Pin,Pinus
+72,654,3.0,Que,Quercus
+72,657,1.0,Que.i-T,Quercus ilex-type
+72,687,4.0,Rosae,Rosaceae
+72,689,2.0,Rubae,Rubiaceae
+72,694,12.0,Rum,Rumex
+72,712,1.0,Sal,Salix
+72,854,5.0,Umb,Umbelliferae
+72,939,120.0,Iso,Isoetes
+72,977,4.0,Ind.conc,Indeterminable: concealed
+72,981,9.0,Ind.ud,Indeterminable: undiff.
+72,982,3.0,Ind.unkn,Indeterminable: unknown
+72,1142,7.0,Iso.TA,Isoetes (type A)
+73,61,1.0,Arm.TA,Armeria (type A)
+73,66,7.0,Art,Artemisia
+73,95,101.0,Bet,Betula
+73,185,1.0,Cheae,Chenopodiaceae
+73,201,14.0,Cm.Sf.A,Compositae subf. Asteroideae
+73,217,1.0,Cor,Corylus
+73,233,1.0,Cypae,Cyperaceae
+73,286,2.0,Erl,Ericales
+73,349,35.0,Graae,Gramineae
+73,394,3.0,Jun,Juniperus
+73,401,1.0,Lab,Labiatae
+73,567,125.0,Pin,Pinus
+73,590,1.0,Pla.ud,Plantago undiff.
+73,654,13.0,Que,Quercus
+73,657,2.0,Que.i-T,Quercus ilex-type
+73,662,1.0,Ranae,Ranunculaceae
+73,687,2.0,Rosae,Rosaceae
+73,694,7.0,Rum,Rumex
+73,854,4.0,Umb,Umbelliferae
+73,939,61.0,Iso,Isoetes
+73,960,2.0,Ptd,Pteridium
+73,981,4.0,Ind.ud,Indeterminable: undiff.
+73,982,1.0,Ind.unkn,Indeterminable: unknown
+73,1141,2.0,Monocoty,Monocotyledones
+73,1142,12.0,Iso.TA,Isoetes (type A)
+74,66,2.0,Art,Artemisia
+74,95,83.0,Bet,Betula
+74,131,1.0,Camae,Campanulaceae
+74,141,1.0,Cphae,Caryophyllaceae
+74,185,2.0,Cheae,Chenopodiaceae
+74,201,1.0,Cm.Sf.A,Compositae subf. Asteroideae
+74,203,1.0,Cm.Sf.C,Compositae subf. Cichorioideae
+74,217,1.0,Cor,Corylus
+74,233,5.0,Cypae,Cyperaceae
+74,286,5.0,Erl,Ericales
+74,349,91.0,Graae,Gramineae
+74,379,1.0,Hyp,Hypericum
+74,394,7.0,Jun,Juniperus
+74,567,56.0,Pin,Pinus
+74,590,5.0,Pla.ud,Plantago undiff.
+74,624,1.0,Pot,Potamogeton
+74,654,52.0,Que,Quercus
+74,657,2.0,Que.i-T,Quercus ilex-type
+74,687,2.0,Rosae,Rosaceae
+74,694,33.0,Rum,Rumex
+74,712,9.0,Sal,Salix
+74,846,1.0,Typ.a/S,Typha angustifolia/Sparganium
+74,854,1.0,Umb,Umbelliferae
+74,939,124.0,Iso,Isoetes
+74,960,1.0,Ptd,Pteridium
+74,977,11.0,Ind.conc,Indeterminable: concealed
+74,981,8.0,Ind.ud,Indeterminable: undiff.
+74,982,1.0,Ind.unkn,Indeterminable: unknown
+74,1142,25.0,Iso.TA,Isoetes (type A)
+75,62,1.0,Arm.TB,Armeria (type B)
+75,95,55.0,Bet,Betula
+75,124,2.0,Cal.v,Calluna vulgaris
+75,185,1.0,Cheae,Chenopodiaceae
+75,203,1.0,Cm.Sf.C,Compositae subf. Cichorioideae
+75,217,14.0,Cor,Corylus
+75,228,1.0,Cru,Cruciferae
+75,233,1.0,Cypae,Cyperaceae
+75,272,2.0,Eph,Ephedra
+75,286,1.0,Erl,Ericales
+75,312,2.0,Frg,Frangula
+75,349,60.0,Graae,Gramineae
+75,365,1.0,Hpp,Hippophae
+75,394,1.0,Jun,Juniperus
+75,401,1.0,Lab,Labiatae
+75,503,2.0,Myo,Myriophyllum
+75,559,1.0,Ped,Pedicularis
+75,567,85.0,Pin,Pinus
+75,590,2.0,Pla.ud,Plantago undiff.
+75,620,2.0,Pop,Populus
+75,654,78.0,Que,Quercus
+75,657,1.0,Que.i-T,Quercus ilex-type
+75,662,5.0,Ranae,Ranunculaceae
+75,687,1.0,Rosae,Rosaceae
+75,694,14.0,Rum,Rumex
+75,712,5.0,Sal,Salix
+75,939,75.0,Iso,Isoetes
+75,977,5.0,Ind.conc,Indeterminable: concealed
+75,981,10.0,Ind.ud,Indeterminable: undiff.
+75,982,3.0,Ind.unkn,Indeterminable: unknown
+75,1141,2.0,Monocoty,Monocotyledones
+75,1142,31.0,Iso.TA,Isoetes (type A)
+76,66,1.0,Art,Artemisia
+76,95,73.0,Bet,Betula
+76,124,1.0,Cal.v,Calluna vulgaris
+76,201,1.0,Cm.Sf.A,Compositae subf. Asteroideae
+76,217,8.0,Cor,Corylus
+76,233,5.0,Cypae,Cyperaceae
+76,286,1.0,Erl,Ericales
+76,349,92.0,Graae,Gramineae
+76,392,1.0,Jug,Juglans
+76,394,3.0,Jun,Juniperus
+76,486,1.0,Mer,Mercurialis
+76,567,54.0,Pin,Pinus
+76,604,1.0,Pol,Polygonum
+76,620,2.0,Pop,Populus
+76,654,70.0,Que,Quercus
+76,657,4.0,Que.i-T,Quercus ilex-type
+76,662,2.0,Ranae,Ranunculaceae
+76,694,11.0,Rum,Rumex
+76,712,7.0,Sal,Salix
+76,854,1.0,Umb,Umbelliferae
+76,879,1.0,Vib,Viburnum
+76,939,42.0,Iso,Isoetes
+76,977,2.0,Ind.conc,Indeterminable: concealed
+76,981,8.0,Ind.ud,Indeterminable: undiff.
+76,982,1.0,Ind.unkn,Indeterminable: unknown
+76,1142,21.0,Iso.TA,Isoetes (type A)
+77,66,1.0,Art,Artemisia
+77,95,13.0,Bet,Betula
+77,145,1.0,Cas,Castanea
+77,185,3.0,Cheae,Chenopodiaceae
+77,217,6.0,Cor,Corylus
+77,233,3.0,Cypae,Cyperaceae
+77,272,1.0,Eph,Ephedra
+77,349,43.0,Graae,Gramineae
+77,379,1.0,Hyp,Hypericum
+77,394,4.0,Jun,Juniperus
+77,401,1.0,Lab,Labiatae
+77,411,1.0,Leg,Leguminosae
+77,567,57.0,Pin,Pinus
+77,590,1.0,Pla.ud,Plantago undiff.
+77,624,3.0,Pot,Potamogeton
+77,654,104.0,Que,Quercus
+77,657,4.0,Que.i-T,Quercus ilex-type
+77,662,3.0,Ranae,Ranunculaceae
+77,687,1.0,Rosae,Rosaceae
+77,694,24.0,Rum,Rumex
+77,712,5.0,Sal,Salix
+77,939,89.0,Iso,Isoetes
+77,977,4.0,Ind.conc,Indeterminable: concealed
+77,981,6.0,Ind.ud,Indeterminable: undiff.
+77,982,4.0,Ind.unkn,Indeterminable: unknown
+77,1142,17.0,Iso.TA,Isoetes (type A)
+78,66,2.0,Art,Artemisia
+78,95,30.0,Bet,Betula
+78,131,1.0,Camae,Campanulaceae
+78,145,1.0,Cas,Castanea
+78,217,7.0,Cor,Corylus
+78,233,2.0,Cypae,Cyperaceae
+78,286,4.0,Erl,Ericales
+78,315,1.0,Frx,Fraxinus
+78,349,65.0,Graae,Gramineae
+78,394,2.0,Jun,Juniperus
+78,567,41.0,Pin,Pinus
+78,654,101.0,Que,Quercus
+78,657,9.0,Que.i-T,Quercus ilex-type
+78,687,1.0,Rosae,Rosaceae
+78,694,8.0,Rum,Rumex
+78,712,8.0,Sal,Salix
+78,854,1.0,Umb,Umbelliferae
+78,939,69.0,Iso,Isoetes
+78,977,2.0,Ind.conc,Indeterminable: concealed
+78,981,12.0,Ind.ud,Indeterminable: undiff.
+79,66,1.0,Art,Artemisia
+79,95,14.0,Bet,Betula
+79,124,1.0,Cal.v,Calluna vulgaris
+79,217,8.0,Cor,Corylus
+79,228,1.0,Cru,Cruciferae
+79,233,4.0,Cypae,Cyperaceae
+79,286,1.0,Erl,Ericales
+79,315,2.0,Frx,Fraxinus
+79,349,17.0,Graae,Gramineae
+79,352,1.0,Hed,Hedera
+79,365,1.0,Hpp,Hippophae
+79,503,1.0,Myo,Myriophyllum
+79,567,50.0,Pin,Pinus
+79,590,1.0,Pla.ud,Plantago undiff.
+79,620,1.0,Pop,Populus
+79,654,203.0,Que,Quercus
+79,657,7.0,Que.i-T,Quercus ilex-type
+79,662,3.0,Ranae,Ranunculaceae
+79,694,6.0,Rum,Rumex
+79,712,6.0,Sal,Salix
+79,854,3.0,Umb,Umbelliferae
+79,939,32.0,Iso,Isoetes
+79,977,5.0,Ind.conc,Indeterminable: concealed
+79,981,9.0,Ind.ud,Indeterminable: undiff.
+79,982,2.0,Ind.unkn,Indeterminable: unknown
+79,1142,15.0,Iso.TA,Isoetes (type A)
+80,66,1.0,Art,Artemisia
+80,95,29.0,Bet,Betula
+80,131,3.0,Camae,Campanulaceae
+80,217,2.0,Cor,Corylus
+80,225,1.0,Craae,Crassulaceae
+80,233,3.0,Cypae,Cyperaceae
+80,312,1.0,Frg,Frangula
+80,349,38.0,Graae,Gramineae
+80,394,3.0,Jun,Juniperus
+80,411,1.0,Leg,Leguminosae
+80,567,179.0,Pin,Pinus
+80,639,1.0,Priae,Primulaceae
+80,654,33.0,Que,Quercus
+80,662,4.0,Ranae,Ranunculaceae
+80,687,2.0,Rosae,Rosaceae
+80,694,10.0,Rum,Rumex
+80,854,1.0,Umb,Umbelliferae
+80,939,84.0,Iso,Isoetes
+80,977,3.0,Ind.conc,Indeterminable: concealed
+80,981,5.0,Ind.ud,Indeterminable: undiff.
+80,982,3.0,Ind.unkn,Indeterminable: unknown
+80,1141,2.0,Monocoty,Monocotyledones
+80,1142,3.0,Iso.TA,Isoetes (type A)
+81,66,2.0,Art,Artemisia
+81,95,44.0,Bet,Betula
+81,185,1.0,Cheae,Chenopodiaceae
+81,217,1.0,Cor,Corylus
+81,228,1.0,Cru,Cruciferae
+81,233,1.0,Cypae,Cyperaceae
+81,286,1.0,Erl,Ericales
+81,349,25.0,Graae,Gramineae
+81,394,2.0,Jun,Juniperus
+81,411,3.0,Leg,Leguminosae
+81,567,177.0,Pin,Pinus
+81,590,2.0,Pla.ud,Plantago undiff.
+81,624,1.0,Pot,Potamogeton
+81,654,42.0,Que,Quercus
+81,662,7.0,Ranae,Ranunculaceae
+81,687,1.0,Rosae,Rosaceae
+81,694,10.0,Rum,Rumex
+81,854,1.0,Umb,Umbelliferae
+81,939,40.0,Iso,Isoetes
+81,981,2.0,Ind.ud,Indeterminable: undiff.
+82,4,1.0,Ace,Acer
+82,66,1.0,Art,Artemisia
+82,95,37.0,Bet,Betula
+82,201,4.0,Cm.Sf.A,Compositae subf. Asteroideae
+82,217,13.0,Cor,Corylus
+82,309,1.0,Flp,Filipendula
+82,315,1.0,Frx,Fraxinus
+82,349,34.0,Graae,Gramineae
+82,394,1.0,Jun,Juniperus
+82,434,2.0,Ltt.u,Littorella uniflora
+82,564,2.0,Pic,Picea
+82,567,155.0,Pin,Pinus
+82,590,2.0,Pla.ud,Plantago undiff.
+82,654,21.0,Que,Quercus
+82,662,1.0,Ranae,Ranunculaceae
+82,687,4.0,Rosae,Rosaceae
+82,694,11.0,Rum,Rumex
+82,712,3.0,Sal,Salix
+82,729,1.0,Sax,Saxifraga
+82,854,3.0,Umb,Umbelliferae
+82,939,34.0,Iso,Isoetes
+82,977,4.0,Ind.conc,Indeterminable: concealed
+82,981,12.0,Ind.ud,Indeterminable: undiff.
+82,982,1.0,Ind.unkn,Indeterminable: unknown
+82,1142,1.0,Iso.TA,Isoetes (type A)
+83,66,7.0,Art,Artemisia
+83,95,71.0,Bet,Betula
+83,185,1.0,Cheae,Chenopodiaceae
+83,201,2.0,Cm.Sf.A,Compositae subf. Asteroideae
+83,217,6.0,Cor,Corylus
+83,312,2.0,Frg,Frangula
+83,349,42.0,Graae,Gramineae
+83,394,4.0,Jun,Juniperus
+83,411,3.0,Leg,Leguminosae
+83,416,1.0,Lilae,Liliaceae
+83,567,210.0,Pin,Pinus
+83,590,4.0,Pla.ud,Plantago undiff.
+83,654,31.0,Que,Quercus
+83,662,1.0,Ranae,Ranunculaceae
+83,687,2.0,Rosae,Rosaceae
+83,689,1.0,Rubae,Rubiaceae
+83,694,16.0,Rum,Rumex
+83,712,5.0,Sal,Salix
+83,939,30.0,Iso,Isoetes
+84,66,4.0,Art,Artemisia
+84,95,44.0,Bet,Betula
+84,124,1.0,Cal.v,Calluna vulgaris
+84,201,2.0,Cm.Sf.A,Compositae subf. Asteroideae
+84,217,6.0,Cor,Corylus
+84,228,1.0,Cru,Cruciferae
+84,233,3.0,Cypae,Cyperaceae
+84,312,1.0,Frg,Frangula
+84,349,38.0,Graae,Gramineae
+84,394,3.0,Jun,Juniperus
+84,434,1.0,Ltt.u,Littorella uniflora
+84,503,6.0,Myo,Myriophyllum
+84,564,1.0,Pic,Picea
+84,567,78.0,Pin,Pinus
+84,654,14.0,Que,Quercus
+84,662,1.0,Ranae,Ranunculaceae
+84,687,1.0,Rosae,Rosaceae
+84,689,1.0,Rubae,Rubiaceae
+84,694,16.0,Rum,Rumex
+84,712,3.0,Sal,Salix
+84,939,15.0,Iso,Isoetes
+84,981,10.0,Ind.ud,Indeterminable: undiff.
+84,982,2.0,Ind.unkn,Indeterminable: unknown
+85,66,7.0,Art,Artemisia
+85,95,29.0,Bet,Betula
+85,150,3.0,Cen,Centaurea
+85,201,1.0,Cm.Sf.A,Compositae subf. Asteroideae
+85,217,3.0,Cor,Corylus
+85,272,1.0,Eph,Ephedra
+85,349,28.0,Graae,Gramineae
+85,355,1.0,Hel,Helianthemum
+85,401,1.0,Lab,Labiatae
+85,411,1.0,Leg,Leguminosae
+85,416,1.0,Lilae,Liliaceae
+85,567,373.0,Pin,Pinus
+85,590,5.0,Pla.ud,Plantago undiff.
+85,654,11.0,Que,Quercus
+85,694,9.0,Rum,Rumex
+85,712,1.0,Sal,Salix
+85,853,1.0,Ulm,Ulmus
+85,939,12.0,Iso,Isoetes
+85,982,1.0,Ind.unkn,Indeterminable: unknown
+86,66,7.0,Art,Artemisia
+86,95,248.0,Bet,Betula
+86,124,4.0,Cal.v,Calluna vulgaris
+86,131,1.0,Camae,Campanulaceae
+86,141,4.0,Cphae,Caryophyllaceae
+86,150,1.0,Cen,Centaurea
+86,201,3.0,Cm.Sf.A,Compositae subf. Asteroideae
+86,217,3.0,Cor,Corylus
+86,233,4.0,Cypae,Cyperaceae
+86,286,3.0,Erl,Ericales
+86,349,21.0,Graae,Gramineae
+86,394,6.0,Jun,Juniperus
+86,567,128.0,Pin,Pinus
+86,590,3.0,Pla.ud,Plantago undiff.
+86,654,8.0,Que,Quercus
+86,657,1.0,Que.i-T,Quercus ilex-type
+86,687,1.0,Rosae,Rosaceae
+86,689,1.0,Rubae,Rubiaceae
+86,694,9.0,Rum,Rumex
+86,712,1.0,Sal,Salix
+86,854,1.0,Umb,Umbelliferae
+86,930,1.0,Fil,Filicopsida
+86,939,159.0,Iso,Isoetes
+86,977,2.0,Ind.conc,Indeterminable: concealed
+86,981,3.0,Ind.ud,Indeterminable: undiff.
+86,982,2.0,Ind.unkn,Indeterminable: unknown
+86,1142,31.0,Iso.TA,Isoetes (type A)
+87,66,1.0,Art,Artemisia
+87,95,166.0,Bet,Betula
+87,131,1.0,Camae,Campanulaceae
+87,150,1.0,Cen,Centaurea
+87,201,1.0,Cm.Sf.A,Compositae subf. Asteroideae
+87,217,6.0,Cor,Corylus
+87,286,1.0,Erl,Ericales
+87,349,24.0,Graae,Gramineae
+87,394,8.0,Jun,Juniperus
+87,567,99.0,Pin,Pinus
+87,687,2.0,Rosae,Rosaceae
+87,694,11.0,Rum,Rumex
+87,939,150.0,Iso,Isoetes
+87,981,1.0,Ind.ud,Indeterminable: undiff.
+88,66,6.0,Art,Artemisia
+88,95,134.0,Bet,Betula
+88,141,1.0,Cphae,Caryophyllaceae
+88,201,3.0,Cm.Sf.A,Compositae subf. Asteroideae
+88,217,10.0,Cor,Corylus
+88,228,1.0,Cru,Cruciferae
+88,233,4.0,Cypae,Cyperaceae
+88,304,1.0,Fag,Fagus
+88,349,16.0,Graae,Gramineae
+88,394,21.0,Jun,Juniperus
+88,480,1.0,Mel,Melampyrum
+88,567,32.0,Pin,Pinus
+88,590,1.0,Pla.ud,Plantago undiff.
+88,654,2.0,Que,Quercus
+88,687,1.0,Rosae,Rosaceae
+88,712,1.0,Sal,Salix
+88,721,2.0,San,Sanguisorba
+88,939,35.0,Iso,Isoetes
+88,977,7.0,Ind.conc,Indeterminable: concealed
+88,981,4.0,Ind.ud,Indeterminable: undiff.
+88,982,3.0,Ind.unkn,Indeterminable: unknown
+88,1142,6.0,Iso.TA,Isoetes (type A)
+89,66,1.0,Art,Artemisia
+89,95,226.0,Bet,Betula
+89,201,1.0,Cm.Sf.A,Compositae subf. Asteroideae
+89,217,17.0,Cor,Corylus
+89,233,2.0,Cypae,Cyperaceae
+89,286,2.0,Erl,Ericales
+89,349,21.0,Graae,Gramineae
+89,394,13.0,Jun,Juniperus
+89,411,1.0,Leg,Leguminosae
+89,503,1.0,Myo,Myriophyllum
+89,567,26.0,Pin,Pinus
+89,654,4.0,Que,Quercus
+89,687,1.0,Rosae,Rosaceae
+89,694,12.0,Rum,Rumex
+89,712,1.0,Sal,Salix
+89,854,2.0,Umb,Umbelliferae
+89,930,3.0,Fil,Filicopsida
+89,939,161.0,Iso,Isoetes
+89,977,4.0,Ind.conc,Indeterminable: concealed
+89,982,2.0,Ind.unkn,Indeterminable: unknown
+90,62,1.0,Arm.TB,Armeria (type B)
+90,95,136.0,Bet,Betula
+90,185,2.0,Cheae,Chenopodiaceae
+90,217,1.0,Cor,Corylus
+90,233,11.0,Cypae,Cyperaceae
+90,286,6.0,Erl,Ericales
+90,349,57.0,Graae,Gramineae
+90,394,54.0,Jun,Juniperus
+90,567,5.0,Pin,Pinus
+90,662,2.0,Ranae,Ranunculaceae
+90,687,1.0,Rosae,Rosaceae
+90,694,12.0,Rum,Rumex
+90,729,2.0,Sax,Saxifraga
+90,846,4.0,Typ.a/S,Typha angustifolia/Sparganium
+90,930,18.0,Fil,Filicopsida
+90,939,169.0,Iso,Isoetes
+90,982,1.0,Ind.unkn,Indeterminable: unknown
+91,66,45.0,Art,Artemisia
+91,95,8.0,Bet,Betula
+91,124,24.0,Cal.v,Calluna vulgaris
+91,141,5.0,Cphae,Caryophyllaceae
+91,185,6.0,Cheae,Chenopodiaceae
+91,201,12.0,Cm.Sf.A,Compositae subf. Asteroideae
+91,228,1.0,Cru,Cruciferae
+91,233,11.0,Cypae,Cyperaceae
+91,272,2.0,Eph,Ephedra
+91,286,10.0,Erl,Ericales
+91,349,74.0,Graae,Gramineae
+91,355,1.0,Hel,Helianthemum
+91,394,17.0,Jun,Juniperus
+91,503,1.0,Myo,Myriophyllum
+91,567,58.0,Pin,Pinus
+91,590,16.0,Pla.ud,Plantago undiff.
+91,654,1.0,Que,Quercus
+91,662,3.0,Ranae,Ranunculaceae
+91,687,3.0,Rosae,Rosaceae
+91,689,2.0,Rubae,Rubiaceae
+91,694,2.0,Rum,Rumex
+91,854,3.0,Umb,Umbelliferae
+91,930,5.0,Fil,Filicopsida
+91,939,1432.0,Iso,Isoetes
+91,977,1.0,Ind.conc,Indeterminable: concealed
+91,981,13.0,Ind.ud,Indeterminable: undiff.
+91,982,1.0,Ind.unkn,Indeterminable: unknown
+91,1141,1.0,Monocoty,Monocotyledones
+91,1142,26.0,Iso.TA,Isoetes (type A)
+92,61,3.0,Arm.TA,Armeria (type A)
+92,66,21.0,Art,Artemisia
+92,95,11.0,Bet,Betula
+92,124,18.0,Cal.v,Calluna vulgaris
+92,185,5.0,Cheae,Chenopodiaceae
+92,201,22.0,Cm.Sf.A,Compositae subf. Asteroideae
+92,228,2.0,Cru,Cruciferae
+92,233,13.0,Cypae,Cyperaceae
+92,286,8.0,Erl,Ericales
+92,349,74.0,Graae,Gramineae
+92,355,5.0,Hel,Helianthemum
+92,385,1.0,Ile,Ilex
+92,394,30.0,Jun,Juniperus
+92,567,48.0,Pin,Pinus
+92,590,12.0,Pla.ud,Plantago undiff.
+92,620,2.0,Pop,Populus
+92,654,1.0,Que,Quercus
+92,662,2.0,Ranae,Ranunculaceae
+92,687,1.0,Rosae,Rosaceae
+92,694,5.0,Rum,Rumex
+92,712,2.0,Sal,Salix
+92,816,1.0,Tha,Thalictrum
+92,854,6.0,Umb,Umbelliferae
+92,930,3.0,Fil,Filicopsida
+92,939,1612.0,Iso,Isoetes
+92,960,2.0,Ptd,Pteridium
+92,977,9.0,Ind.conc,Indeterminable: concealed
+92,981,8.0,Ind.ud,Indeterminable: undiff.
+92,982,1.0,Ind.unkn,Indeterminable: unknown
+92,1142,11.0,Iso.TA,Isoetes (type A)
+92,1163,2.0,Canae,Cannabaceae
+93,66,9.0,Art,Artemisia
+93,95,2.0,Bet,Betula
+93,131,2.0,Camae,Campanulaceae
+93,141,1.0,Cphae,Caryophyllaceae
+93,185,1.0,Cheae,Chenopodiaceae
+93,201,3.0,Cm.Sf.A,Compositae subf. Asteroideae
+93,233,5.0,Cypae,Cyperaceae
+93,286,4.0,Erl,Ericales
+93,349,45.0,Graae,Gramineae
+93,394,41.0,Jun,Juniperus
+93,567,7.0,Pin,Pinus
+93,590,6.0,Pla.ud,Plantago undiff.
+93,654,1.0,Que,Quercus
+93,687,2.0,Rosae,Rosaceae
+93,694,3.0,Rum,Rumex
+93,712,1.0,Sal,Salix
+93,939,68.0,Iso,Isoetes
+93,960,1.0,Ptd,Pteridium
+93,982,6.0,Ind.unkn,Indeterminable: unknown
+94,32,1.0,Aln,Alnus
+94,66,62.0,Art,Artemisia
+94,95,12.0,Bet,Betula
+94,124,21.0,Cal.v,Calluna vulgaris
+94,141,2.0,Cphae,Caryophyllaceae
+94,150,6.0,Cen,Centaurea
+94,185,9.0,Cheae,Chenopodiaceae
+94,201,6.0,Cm.Sf.A,Compositae subf. Asteroideae
+94,203,3.0,Cm.Sf.C,Compositae subf. Cichorioideae
+94,228,1.0,Cru,Cruciferae
+94,237,2.0,Dap,Daphne
+94,286,2.0,Erl,Ericales
+94,312,1.0,Frg,Frangula
+94,327,1.0,Gen,Gentiana
+94,349,171.0,Graae,Gramineae
+94,352,1.0,Hed,Hedera
+94,355,1.0,Hel,Helianthemum
+94,394,26.0,Jun,Juniperus
+94,411,4.0,Leg,Leguminosae
+94,416,3.0,Lilae,Liliaceae
+94,486,1.0,Mer,Mercurialis
+94,567,18.0,Pin,Pinus
+94,590,17.0,Pla.ud,Plantago undiff.
+94,654,2.0,Que,Quercus
+94,687,4.0,Rosae,Rosaceae
+94,690,9.0,Rub,Rubus
+94,694,19.0,Rum,Rumex
+94,712,2.0,Sal,Salix
+94,854,3.0,Umb,Umbelliferae
+94,939,201.0,Iso,Isoetes
+94,981,9.0,Ind.ud,Indeterminable: undiff.
+94,982,6.0,Ind.unkn,Indeterminable: unknown
+95,66,67.0,Art,Artemisia
+95,95,5.0,Bet,Betula
+95,124,3.0,Cal.v,Calluna vulgaris
+95,141,2.0,Cphae,Caryophyllaceae
+95,185,10.0,Cheae,Chenopodiaceae
+95,201,14.0,Cm.Sf.A,Compositae subf. Asteroideae
+95,228,2.0,Cru,Cruciferae
+95,286,1.0,Erl,Ericales
+95,349,95.0,Graae,Gramineae
+95,365,1.0,Hpp,Hippophae
+95,385,2.0,Ile,Ilex
+95,394,28.0,Jun,Juniperus
+95,411,2.0,Leg,Leguminosae
+95,503,1.0,Myo,Myriophyllum
+95,567,45.0,Pin,Pinus
+95,590,7.0,Pla.ud,Plantago undiff.
+95,604,2.0,Pol,Polygonum
+95,654,1.0,Que,Quercus
+95,657,1.0,Que.i-T,Quercus ilex-type
+95,662,3.0,Ranae,Ranunculaceae
+95,687,3.0,Rosae,Rosaceae
+95,694,15.0,Rum,Rumex
+95,712,3.0,Sal,Salix
+95,816,1.0,Tha,Thalictrum
+95,853,1.0,Ulm,Ulmus
+95,854,3.0,Umb,Umbelliferae
+95,930,1.0,Fil,Filicopsida
+95,939,4822.0,Iso,Isoetes
+95,981,8.0,Ind.ud,Indeterminable: undiff.
+95,982,4.0,Ind.unkn,Indeterminable: unknown
+95,1142,28.0,Iso.TA,Isoetes (type A)
+96,62,1.0,Arm.TB,Armeria (type B)
+96,66,60.0,Art,Artemisia
+96,95,3.0,Bet,Betula
+96,124,6.0,Cal.v,Calluna vulgaris
+96,131,1.0,Camae,Campanulaceae
+96,141,1.0,Cphae,Caryophyllaceae
+96,185,10.0,Cheae,Chenopodiaceae
+96,201,9.0,Cm.Sf.A,Compositae subf. Asteroideae
+96,228,3.0,Cru,Cruciferae
+96,233,9.0,Cypae,Cyperaceae
+96,286,3.0,Erl,Ericales
+96,312,1.0,Frg,Frangula
+96,349,72.0,Graae,Gramineae
+96,352,1.0,Hed,Hedera
+96,394,37.0,Jun,Juniperus
+96,503,1.0,Myo,Myriophyllum
+96,567,45.0,Pin,Pinus
+96,590,11.0,Pla.ud,Plantago undiff.
+96,604,1.0,Pol,Polygonum
+96,639,1.0,Priae,Primulaceae
+96,662,3.0,Ranae,Ranunculaceae
+96,694,10.0,Rum,Rumex
+96,729,1.0,Sax,Saxifraga
+96,816,1.0,Tha,Thalictrum
+96,854,1.0,Umb,Umbelliferae
+96,930,2.0,Fil,Filicopsida
+96,939,4140.0,Iso,Isoetes
+96,960,3.0,Ptd,Pteridium
+96,977,1.0,Ind.conc,Indeterminable: concealed
+96,981,6.0,Ind.ud,Indeterminable: undiff.
+96,982,4.0,Ind.unkn,Indeterminable: unknown
+96,1142,32.0,Iso.TA,Isoetes (type A)
+97,66,53.0,Art,Artemisia
+97,124,6.0,Cal.v,Calluna vulgaris
+97,185,10.0,Cheae,Chenopodiaceae
+97,201,12.0,Cm.Sf.A,Compositae subf. Asteroideae
+97,228,1.0,Cru,Cruciferae
+97,233,3.0,Cypae,Cyperaceae
+97,272,1.0,Eph,Ephedra
+97,286,4.0,Erl,Ericales
+97,349,101.0,Graae,Gramineae
+97,394,16.0,Jun,Juniperus
+97,567,21.0,Pin,Pinus
+97,590,11.0,Pla.ud,Plantago undiff.
+97,624,1.0,Pot,Potamogeton
+97,629,2.0,Pti,Potentilla
+97,654,1.0,Que,Quercus
+97,662,5.0,Ranae,Ranunculaceae
+97,687,4.0,Rosae,Rosaceae
+97,694,8.0,Rum,Rumex
+97,712,4.0,Sal,Salix
+97,729,1.0,Sax,Saxifraga
+97,854,3.0,Umb,Umbelliferae
+97,930,1.0,Fil,Filicopsida
+97,939,2382.0,Iso,Isoetes
+97,960,2.0,Ptd,Pteridium
+97,977,4.0,Ind.conc,Indeterminable: concealed
+97,981,8.0,Ind.ud,Indeterminable: undiff.
+97,982,1.0,Ind.unkn,Indeterminable: unknown
+97,1142,1.0,Iso.TA,Isoetes (type A)
